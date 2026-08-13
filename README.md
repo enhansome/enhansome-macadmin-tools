@@ -2,7 +2,7 @@
 
 > A curated list of handy-dandy tools for Mac Admins.
 
-Inspired by the [awesome](https://github.com/sindresorhus/awesome) ⭐ 495,058 | 🐛 100 | 📅 2026-06-30 list.
+Inspired by the [awesome](https://github.com/sindresorhus/awesome) ⭐ 495,179 | 🐛 100 | 📅 2026-06-30 list.
 
 ## Contents
 
@@ -54,9 +54,9 @@ Inspired by the [awesome](https://github.com/sindresorhus/awesome) ⭐ 495,058 |
 
 **Cost:** N/A
 
-**Link:** <https://github.com/ninxsoft/Mist> ⭐ 5,126 | 🐛 69 | 🌐 Swift | 📅 2026-07-07
+**Link:** <https://github.com/ninxsoft/Mist> ⭐ 5,130 | 🐛 69 | 🌐 Swift | 📅 2026-07-07
 
-[![](https://github.com/ninxsoft/Mist/raw/main/README%20Resources/Installers.png)](https://github.com/ninxsoft/Mist) ⭐ 5,126 | 🐛 69 | 🌐 Swift | 📅 2026-07-07
+[![](https://github.com/ninxsoft/Mist/raw/main/README%20Resources/Installers.png)](https://github.com/ninxsoft/Mist) ⭐ 5,130 | 🐛 69 | 🌐 Swift | 📅 2026-07-07
 
 ### moss
 
@@ -156,9 +156,9 @@ Inspired by the [awesome](https://github.com/sindresorhus/awesome) ⭐ 495,058 |
 
 **Cost:** N/A
 
-**Link:** <https://github.com/lindegroup/autopkgr> ⭐ 565 | 🐛 16 | 🌐 Objective-C | 📅 2026-07-17
+**Link:** <https://github.com/lindegroup/autopkgr> ⭐ 566 | 🐛 16 | 🌐 Objective-C | 📅 2026-07-17
 
-[![](images/autopkgr.gif)](https://github.com/lindegroup/autopkgr) ⭐ 565 | 🐛 16 | 🌐 Objective-C | 📅 2026-07-17
+[![](images/autopkgr.gif)](https://github.com/lindegroup/autopkgr) ⭐ 566 | 🐛 16 | 🌐 Objective-C | 📅 2026-07-17
 
 ### Composer
 
@@ -340,9 +340,9 @@ Inspired by the [awesome](https://github.com/sindresorhus/awesome) ⭐ 495,058 |
 
 **Cost:** N/A
 
-**Link:** <https://github.com/Jamf-Concepts/Setup-Manager> ⭐ 364 | 🐛 44 | 📅 2026-07-09
+**Link:** <https://github.com/Jamf-Concepts/Setup-Manager> ⭐ 365 | 🐛 44 | 📅 2026-07-09
 
-[![](https://github.com/Jamf-Concepts/Setup-Manager/raw/main/Images/setup-manager-progress-screenshot.png)](https://github.com/Jamf-Concepts/Setup-Manager) ⭐ 364 | 🐛 44 | 📅 2026-07-09
+[![](https://github.com/Jamf-Concepts/Setup-Manager/raw/main/Images/setup-manager-progress-screenshot.png)](https://github.com/Jamf-Concepts/Setup-Manager) ⭐ 365 | 🐛 44 | 📅 2026-07-09
 
 ### Octory
 
@@ -594,9 +594,9 @@ Inspired by the [awesome](https://github.com/sindresorhus/awesome) ⭐ 495,058 |
 
 **Cost:** Free
 
-**Link:** <https://github.com/jamf/PPPC-Utility> ⭐ 870 | 🐛 4 | 🌐 Swift | 📅 2026-08-05
+**Link:** <https://github.com/jamf/PPPC-Utility> ⭐ 871 | 🐛 4 | 🌐 Swift | 📅 2026-08-05
 
-[![](https://github.com/jamf/PPPC-Utility/raw/master/Images/SavingSigned.png)](https://github.com/jamf/PPPC-Utility) ⭐ 870 | 🐛 4 | 🌐 Swift | 📅 2026-08-05
+[![](https://github.com/jamf/PPPC-Utility/raw/master/Images/SavingSigned.png)](https://github.com/jamf/PPPC-Utility) ⭐ 871 | 🐛 4 | 🌐 Swift | 📅 2026-08-05
 
 ### PrinterSetup
 
@@ -626,7 +626,7 @@ Inspired by the [awesome](https://github.com/sindresorhus/awesome) ⭐ 495,058 |
 
 **Link:** <https://rectangleapp.com/>
 
-[![](https://user-images.githubusercontent.com/13651296/101402672-57ab5300-38d4-11eb-9e8c-6a3147d26711.png)](https://github.com/rxhanson/Rectangle) ⭐ 29,689 | 🐛 116 | 🌐 Swift | 📅 2026-08-06
+[![](https://user-images.githubusercontent.com/13651296/101402672-57ab5300-38d4-11eb-9e8c-6a3147d26711.png)](https://github.com/rxhanson/Rectangle) ⭐ 29,687 | 🐛 116 | 🌐 Swift | 📅 2026-08-06
 
 ### Script2Pkg
 
@@ -634,9 +634,9 @@ Inspired by the [awesome](https://github.com/sindresorhus/awesome) ⭐ 495,058 |
 
 **Cost:** N/A
 
-**Link:** <https://github.com/SAP/script-to-package-tool-for-macos> ⭐ 123 | 🐛 0 | 🌐 HTML | 📅 2026-08-04
+**Link:** <https://github.com/SAP/script-to-package-tool-for-macos> ⭐ 124 | 🐛 0 | 🌐 HTML | 📅 2026-08-04
 
-[![](https://github.com/SAP/script-to-package-tool-for-macos/raw/main/readme_images/mainwindow_disabled.png)](https://github.com/SAP/script-to-package-tool-for-macos) ⭐ 123 | 🐛 0 | 🌐 HTML | 📅 2026-08-04
+[![](https://github.com/SAP/script-to-package-tool-for-macos/raw/main/readme_images/mainwindow_disabled.png)](https://github.com/SAP/script-to-package-tool-for-macos) ⭐ 124 | 🐛 0 | 🌐 HTML | 📅 2026-08-04
 
 ### SOFA
 
