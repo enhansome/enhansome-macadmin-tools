@@ -2,7 +2,7 @@
 
 > A curated list of handy-dandy tools for Mac Admins.
 
-Inspired by the [awesome](https://github.com/sindresorhus/awesome) ⭐ 496,306 | 🐛 100 | 📅 2026-06-30 list.
+Inspired by the [awesome](https://github.com/sindresorhus/awesome) ⭐ 496,732 | 🐛 100 | 📅 2026-06-30 list.
 
 ## Contents
 
@@ -54,9 +54,9 @@ Inspired by the [awesome](https://github.com/sindresorhus/awesome) ⭐ 496,306 |
 
 **Cost:** N/A
 
-**Link:** <https://github.com/ninxsoft/Mist> ⭐ 5,149 | 🐛 69 | 🌐 Swift | 📅 2026-07-07
+**Link:** <https://github.com/ninxsoft/Mist> ⭐ 5,152 | 🐛 69 | 🌐 Swift | 📅 2026-07-07
 
-[![](https://github.com/ninxsoft/Mist/raw/main/README%20Resources/Installers.png)](https://github.com/ninxsoft/Mist) ⭐ 5,149 | 🐛 69 | 🌐 Swift | 📅 2026-07-07
+[![](https://github.com/ninxsoft/Mist/raw/main/README%20Resources/Installers.png)](https://github.com/ninxsoft/Mist) ⭐ 5,152 | 🐛 69 | 🌐 Swift | 📅 2026-07-07
 
 ### moss
 
@@ -124,9 +124,9 @@ Inspired by the [awesome](https://github.com/sindresorhus/awesome) ⭐ 496,306 |
 
 **Cost:** Free
 
-**Link:** <https://github.com/swiftDialog/swiftDialog> ⭐ 845 | 🐛 50 | 🌐 Swift | 📅 2026-08-14
+**Link:** <https://github.com/swiftDialog/swiftDialog> ⭐ 845 | 🐛 51 | 🌐 Swift | 📅 2026-08-14
 
-[![](images/swiftDialog.png)](https://github.com/swiftDialog/swiftDialog) ⭐ 845 | 🐛 50 | 🌐 Swift | 📅 2026-08-14
+[![](images/swiftDialog.png)](https://github.com/swiftDialog/swiftDialog) ⭐ 845 | 🐛 51 | 🌐 Swift | 📅 2026-08-14
 
 ## Deployment
 
@@ -544,9 +544,9 @@ Inspired by the [awesome](https://github.com/sindresorhus/awesome) ⭐ 496,306 |
 
 **Cost:** N/A
 
-**Link:** <https://github.com/jamf/JamfMigrator> ⭐ 183 | 🐛 19 | 🌐 Swift | 📅 2026-02-02
+**Link:** <https://github.com/jamf/JamfMigrator> ⭐ 184 | 🐛 19 | 🌐 Swift | 📅 2026-02-02
 
-[![](images/jamfmigrator.png)](https://github.com/jamf/JamfMigrator) ⭐ 183 | 🐛 19 | 🌐 Swift | 📅 2026-02-02
+[![](images/jamfmigrator.png)](https://github.com/jamf/JamfMigrator) ⭐ 184 | 🐛 19 | 🌐 Swift | 📅 2026-02-02
 
 ### macOS Security Compliance Project
 
@@ -626,7 +626,7 @@ Inspired by the [awesome](https://github.com/sindresorhus/awesome) ⭐ 496,306 |
 
 **Link:** <https://rectangleapp.com/>
 
-[![](https://user-images.githubusercontent.com/13651296/101402672-57ab5300-38d4-11eb-9e8c-6a3147d26711.png)](https://github.com/rxhanson/Rectangle) ⭐ 29,702 | 🐛 107 | 🌐 Swift | 📅 2026-08-14
+[![](https://user-images.githubusercontent.com/13651296/101402672-57ab5300-38d4-11eb-9e8c-6a3147d26711.png)](https://github.com/rxhanson/Rectangle) ⭐ 29,703 | 🐛 108 | 🌐 Swift | 📅 2026-08-14
 
 ### Script2Pkg
 
@@ -708,4 +708,4 @@ To the extent possible under law, [Emily Kausalik](https://twitter.com/emilyooo)
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-08-16._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-08-17._
