@@ -2,7 +2,7 @@
 
 > A curated list of handy-dandy tools for Mac Admins.
 
-Inspired by the [awesome](https://github.com/sindresorhus/awesome) ⭐ 498,783 | 🐛 105 | 📅 2026-08-21 list.
+Inspired by the [awesome](https://github.com/sindresorhus/awesome) ⭐ 499,080 | 🐛 106 | 📅 2026-08-21 list.
 
 ## Contents
 
@@ -24,9 +24,9 @@ Inspired by the [awesome](https://github.com/sindresorhus/awesome) ⭐ 498,783 |
 
 **Cost:** N/A
 
-**Link:** <https://github.com/grahampugh/erase-install> ⭐ 944 | 🐛 13 | 🌐 Shell | 📅 2026-06-27
+**Link:** <https://github.com/grahampugh/erase-install> ⭐ 945 | 🐛 13 | 🌐 Shell | 📅 2026-06-27
 
-[![](images/erase-install.png)](https://github.com/grahampugh/erase-install) ⭐ 944 | 🐛 13 | 🌐 Shell | 📅 2026-06-27
+[![](images/erase-install.png)](https://github.com/grahampugh/erase-install) ⭐ 945 | 🐛 13 | 🌐 Shell | 📅 2026-06-27
 
 ### getmacosipsws.py
 
@@ -226,9 +226,9 @@ Inspired by the [awesome](https://github.com/sindresorhus/awesome) ⭐ 498,783 |
 
 **Cost:** N/A
 
-**Link:** <https://github.com/ProfileCreator/ProfileCreator> ⭐ 1,503 | 🐛 76 | 🌐 Swift | 📅 2025-01-11
+**Link:** <https://github.com/ProfileCreator/ProfileCreator> ⭐ 1,504 | 🐛 76 | 🌐 Swift | 📅 2025-01-11
 
-[![](https://github.com/ProfileCreator/ProfileCreator/raw/master/resources/screenshots/ProfileCreator.png)](https://github.com/ProfileCreator/ProfileCreator) ⭐ 1,503 | 🐛 76 | 🌐 Swift | 📅 2025-01-11
+[![](https://github.com/ProfileCreator/ProfileCreator/raw/master/resources/screenshots/ProfileCreator.png)](https://github.com/ProfileCreator/ProfileCreator) ⭐ 1,504 | 🐛 76 | 🌐 Swift | 📅 2025-01-11
 
 ### Suspicious Package
 
@@ -340,9 +340,9 @@ Inspired by the [awesome](https://github.com/sindresorhus/awesome) ⭐ 498,783 |
 
 **Cost:** N/A
 
-**Link:** <https://github.com/Jamf-Concepts/Setup-Manager> ⭐ 367 | 🐛 44 | 📅 2026-07-09
+**Link:** <https://github.com/Jamf-Concepts/Setup-Manager> ⭐ 368 | 🐛 44 | 📅 2026-07-09
 
-[![](https://github.com/Jamf-Concepts/Setup-Manager/raw/main/Images/setup-manager-progress-screenshot.png)](https://github.com/Jamf-Concepts/Setup-Manager) ⭐ 367 | 🐛 44 | 📅 2026-07-09
+[![](https://github.com/Jamf-Concepts/Setup-Manager/raw/main/Images/setup-manager-progress-screenshot.png)](https://github.com/Jamf-Concepts/Setup-Manager) ⭐ 368 | 🐛 44 | 📅 2026-07-09
 
 ### Octory
 
@@ -530,7 +530,7 @@ Inspired by the [awesome](https://github.com/sindresorhus/awesome) ⭐ 498,783 |
 
 ### Jamf Compliance Editor
 
-> Jamf Compliance Editor is a tool that provides macOS system administrators with an easy way to establish and manage compliance baselines on their fleet of macOS devices. This tool is built on the foundations of the [macOS Security Compliance Project](https://github.com/usnistgov/macos_security) ⭐ 2,448 | 🐛 24 | 🌐 YAML | 📅 2026-08-20, hosted by the United States government agency, NIST, in their Github repo.
+> Jamf Compliance Editor is a tool that provides macOS system administrators with an easy way to establish and manage compliance baselines on their fleet of macOS devices. This tool is built on the foundations of the [macOS Security Compliance Project](https://github.com/usnistgov/macos_security) ⭐ 2,448 | 🐛 25 | 🌐 YAML | 📅 2026-08-20, hosted by the United States government agency, NIST, in their Github repo.
 
 **Cost:** N/A
 
@@ -554,9 +554,9 @@ Inspired by the [awesome](https://github.com/sindresorhus/awesome) ⭐ 498,783 |
 
 **Cost:** N/A
 
-**Link:** <https://github.com/usnistgov/macos_security> ⭐ 2,448 | 🐛 24 | 🌐 YAML | 📅 2026-08-20
+**Link:** <https://github.com/usnistgov/macos_security> ⭐ 2,448 | 🐛 25 | 🌐 YAML | 📅 2026-08-20
 
-[![](images/mscp.png)](https://github.com/usnistgov/macos_security) ⭐ 2,448 | 🐛 24 | 🌐 YAML | 📅 2026-08-20
+[![](images/mscp.png)](https://github.com/usnistgov/macos_security) ⭐ 2,448 | 🐛 25 | 🌐 YAML | 📅 2026-08-20
 
 ### The MUT
 
@@ -626,7 +626,7 @@ Inspired by the [awesome](https://github.com/sindresorhus/awesome) ⭐ 498,783 |
 
 **Link:** <https://rectangleapp.com/>
 
-[![](https://user-images.githubusercontent.com/13651296/101402672-57ab5300-38d4-11eb-9e8c-6a3147d26711.png)](https://github.com/rxhanson/Rectangle) ⭐ 29,721 | 🐛 110 | 🌐 Swift | 📅 2026-08-21
+[![](https://user-images.githubusercontent.com/13651296/101402672-57ab5300-38d4-11eb-9e8c-6a3147d26711.png)](https://github.com/rxhanson/Rectangle) ⭐ 29,725 | 🐛 110 | 🌐 Swift | 📅 2026-08-21
 
 ### Script2Pkg
 
@@ -684,9 +684,9 @@ Inspired by the [awesome](https://github.com/sindresorhus/awesome) ⭐ 498,783 |
 
 **Cost:** N/A
 
-**Link:** <https://github.com/ProfileCreator/ProfileCreator> ⭐ 1,503 | 🐛 76 | 🌐 Swift | 📅 2025-01-11
+**Link:** <https://github.com/ProfileCreator/ProfileCreator> ⭐ 1,504 | 🐛 76 | 🌐 Swift | 📅 2025-01-11
 
-[![](https://github.com/ProfileCreator/ProfileCreator/blob/master/resources/screenshots/ProfileCreator.png)](https://github.com/ProfileCreator/ProfileCreator) ⭐ 1,503 | 🐛 76 | 🌐 Swift | 📅 2025-01-11
+[![](https://github.com/ProfileCreator/ProfileCreator/blob/master/resources/screenshots/ProfileCreator.png)](https://github.com/ProfileCreator/ProfileCreator) ⭐ 1,504 | 🐛 76 | 🌐 Swift | 📅 2025-01-11
 
 ### iMazing Profile Editor
 
@@ -708,4 +708,4 @@ To the extent possible under law, [Emily Kausalik](https://twitter.com/emilyooo)
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-08-22._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-08-23._
