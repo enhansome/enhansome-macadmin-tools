@@ -1,7 +1,802 @@
 {
-  "items": [],
+  "items": [
+    {
+      "description": null,
+      "items": [
+        {
+          "children": [
+            {
+              "node_type": "item",
+              "title": "Link: https://github.com/grahampugh/erase-install",
+              "description": null,
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 140421285,
+                "language": "Shell",
+                "last_commit": "2026-06-27T15:36:53Z",
+                "owner": "grahampugh",
+                "repo": "erase-install",
+                "stars": 945
+              }
+            }
+          ],
+          "description": "erase-install.sh is a script to download macOS full installers, and to reinstall, upgrade or erase macOS.\nCost: N/A",
+          "node_type": "group",
+          "title": "erase-install"
+        },
+        {
+          "children": [
+            {
+              "node_type": "item",
+              "title": "Link: https://github.com/munki/macadmin-scripts",
+              "description": null,
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 110171937,
+                "language": "Python",
+                "last_commit": "2025-11-04T17:09:52Z",
+                "owner": "munki",
+                "repo": "macadmin-scripts",
+                "stars": 2443
+              }
+            }
+          ],
+          "description": "Quick-and-dirty tool to download the macOS IPSW files currently advertised by Apple in the https://mesu.apple.com/assets/macos/com_apple_macOSIPSW/com_apple_macOSIPSW.xml feed.\nCost: N/A",
+          "node_type": "group",
+          "title": "getmacosipsws.py"
+        },
+        {
+          "children": [
+            {
+              "node_type": "item",
+              "title": "Link: https://github.com/munki/macadmin-scripts",
+              "description": null,
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 110171937,
+                "language": "Python",
+                "last_commit": "2025-11-04T17:09:52Z",
+                "owner": "munki",
+                "repo": "macadmin-scripts",
+                "stars": 2443
+              }
+            }
+          ],
+          "description": "Create disk images containing macOS Installer applications available via Apple's softwareupdate catalogs.\nCost: N/A",
+          "node_type": "group",
+          "title": "installinstallmacos.py"
+        },
+        {
+          "children": [
+            {
+              "node_type": "item",
+              "title": "Link: https://github.com/ninxsoft/Mist",
+              "description": null,
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 509050256,
+                "language": "Swift",
+                "last_commit": "2026-07-07T18:48:06Z",
+                "owner": "ninxsoft",
+                "repo": "Mist",
+                "stars": 5176
+              }
+            }
+          ],
+          "description": "A Mac command-line tool that automatically downloads macOS Installers/firmware.\nCost: N/A",
+          "node_type": "group",
+          "title": "MIST - macOS Installer Super Tool"
+        },
+        {
+          "children": [
+            {
+              "node_type": "item",
+              "title": "Link: https://github.com/WardsParadox/moss",
+              "description": null,
+              "children": [],
+              "repo_info": {
+                "archived": true,
+                "id": 95159828,
+                "language": "Python",
+                "last_commit": "2019-05-29T20:08:13Z",
+                "owner": "WardsParadox",
+                "repo": "moss",
+                "stars": 31
+              }
+            }
+          ],
+          "description": "A helper app for Hello IT to make building mobileconfig files easier.\nCost: N/A",
+          "node_type": "group",
+          "title": "moss"
+        },
+        {
+          "children": [
+            {
+              "node_type": "item",
+              "title": "Link: https://github.com/sheagcraig/Recategorizer",
+              "description": null,
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 29975733,
+                "language": "Python",
+                "last_commit": "2015-01-28T16:08:37Z",
+                "owner": "sheagcraig",
+                "repo": "Recategorizer",
+                "stars": 27
+              }
+            }
+          ],
+          "description": "Quickly recategorize policies and packages in Jamf Pro, and even more unused categories.\nCost: N/A",
+          "node_type": "group",
+          "title": "Recategorizer"
+        },
+        {
+          "children": [
+            {
+              "node_type": "item",
+              "title": "Link: https://github.com/Honestpuck/scriptorium",
+              "description": null,
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 352070948,
+                "language": "Python",
+                "last_commit": "2023-07-26T03:40:55Z",
+                "owner": "Honestpuck",
+                "repo": "scriptorium",
+                "stars": 58
+              }
+            }
+          ],
+          "description": "A utility for managing the scripts in Jamf Pro. It provides backup, change tracking, and an easier edit process.\nCost: N/A",
+          "node_type": "group",
+          "title": "scriptorium"
+        },
+        {
+          "children": [
+            {
+              "node_type": "item",
+              "title": "Link: https://github.com/Macjutsu/super",
+              "description": null,
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 469797351,
+                "language": "Shell",
+                "last_commit": "2026-07-21T17:04:16Z",
+                "owner": "Macjutsu",
+                "repo": "super",
+                "stars": 889
+              }
+            }
+          ],
+          "description": "S.U.P.E.R.M.A.N. (Software Update Policy Enforcement (with) Recursive Messaging And Notification) optimizes the macOS software upgrade and upgrade experience.\nCost: N/A",
+          "node_type": "group",
+          "title": "S.U.P.E.R.M.A.N."
+        },
+        {
+          "children": [
+            {
+              "node_type": "item",
+              "title": "Link: https://github.com/alichtman/stronghold",
+              "description": null,
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 125603504,
+                "language": "Python",
+                "last_commit": "2025-02-24T07:31:58Z",
+                "owner": "alichtman",
+                "repo": "stronghold",
+                "stars": 1191
+              }
+            }
+          ],
+          "description": "Easily configure macOS security settings from the terminal.\nCost: N/A",
+          "node_type": "group",
+          "title": "Stronghold"
+        },
+        {
+          "children": [
+            {
+              "node_type": "item",
+              "title": "Link: https://github.com/chilcote/vfuse",
+              "description": null,
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 26557234,
+                "language": "Python",
+                "last_commit": "2022-04-09T04:04:35Z",
+                "owner": "chilcote",
+                "repo": "vfuse",
+                "stars": 397
+              }
+            }
+          ],
+          "description": "A handy script that converts a never-booted DMG into a VMware Fusion VM.\nCost: N/A",
+          "node_type": "group",
+          "title": "vfuse"
+        },
+        {
+          "children": [
+            {
+              "node_type": "item",
+              "title": "Link: https://github.com/swiftDialog/swiftDialog",
+              "description": null,
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 346831918,
+                "language": "Swift",
+                "last_commit": "2026-08-14T07:02:53Z",
+                "owner": "swiftDialog",
+                "repo": "swiftDialog",
+                "stars": 845
+              }
+            }
+          ],
+          "description": "swiftDialog is an open source admin utility for macOS written in SwiftUI that presents custom dialogs, displays informative messages or can be used as a form to request user input.\nCost: Free",
+          "node_type": "group",
+          "title": "swiftDialog"
+        }
+      ],
+      "title": "Command-line tools"
+    },
+    {
+      "description": null,
+      "items": [
+        {
+          "children": [
+            {
+              "node_type": "item",
+              "title": "Link: https://github.com/autopkg/autopkg",
+              "description": null,
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 11913841,
+                "language": "Python",
+                "last_commit": "2026-08-17T20:52:46Z",
+                "owner": "autopkg",
+                "repo": "autopkg",
+                "stars": 1475
+              }
+            }
+          ],
+          "description": "Automated third party package download and creation for deployment.\nCost: N/A",
+          "node_type": "group",
+          "title": "AutoPkg"
+        },
+        {
+          "children": [
+            {
+              "node_type": "item",
+              "title": "Link: https://github.com/lindegroup/autopkgr",
+              "description": null,
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 21215781,
+                "language": "Objective-C",
+                "last_commit": "2026-07-17T19:22:13Z",
+                "owner": "lindegroup",
+                "repo": "autopkgr",
+                "stars": 567
+              }
+            }
+          ],
+          "description": "GUI for AutoPkg, with click-to-add functionality of additional components.\nCost: N/A",
+          "node_type": "group",
+          "title": "AutoPkgr"
+        },
+        {
+          "children": [
+            {
+              "node_type": "item",
+              "title": "Link: https://github.com/ninxsoft/LowProfile",
+              "description": null,
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 287912661,
+                "language": "Swift",
+                "last_commit": "2025-10-11T08:25:24Z",
+                "owner": "ninxsoft",
+                "repo": "LowProfile",
+                "stars": 432
+              }
+            }
+          ],
+          "description": "A Mac utility to help inspect Apple Configuration Profile payloads.\nCost: N/A",
+          "node_type": "group",
+          "title": "Low Profile"
+        },
+        {
+          "children": [
+            {
+              "node_type": "item",
+              "title": "Link: https://github.com/munki/munki-pkg",
+              "description": null,
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 39786236,
+                "language": "Python",
+                "last_commit": "2026-06-09T20:51:08Z",
+                "owner": "munki",
+                "repo": "munki-pkg",
+                "stars": 374
+              }
+            }
+          ],
+          "description": "munki-pkg is a simple tool for building packages. While it was developed for use with munki, it can be used to make pkgs that are deployable with any management framework.\nCost: N/A",
+          "node_type": "group",
+          "title": "munki-pkg"
+        },
+        {
+          "children": [
+            {
+              "node_type": "item",
+              "title": "Link: https://github.com/macadmins/nudge",
+              "description": null,
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 335457412,
+                "language": "Swift",
+                "last_commit": "2026-05-07T16:51:56Z",
+                "owner": "macadmins",
+                "repo": "nudge",
+                "stars": 1268
+              }
+            }
+          ],
+          "description": "Nudge strongly encourages running macOS updates and can be customized with profiles or local json files.\nCost: N/A",
+          "node_type": "group",
+          "title": "Nudge"
+        },
+        {
+          "children": [
+            {
+              "node_type": "item",
+              "title": "Link: https://github.com/rtrouton/Payload-Free-Package-Creator",
+              "description": null,
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 17531180,
+                "language": null,
+                "last_commit": "2025-07-15T22:26:07Z",
+                "owner": "rtrouton",
+                "repo": "Payload-Free-Package-Creator",
+                "stars": 216
+              }
+            }
+          ],
+          "description": "An Automator application that quickly builds payload-free pkgs for deployment.\nCost: N/A",
+          "node_type": "group",
+          "title": "Payload-Free Package Creator"
+        },
+        {
+          "children": [
+            {
+              "node_type": "item",
+              "title": "Link: https://github.com/ProfileCreator/ProfileCreator",
+              "description": null,
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 41657454,
+                "language": "Swift",
+                "last_commit": "2025-01-11T21:49:01Z",
+                "owner": "ProfileCreator",
+                "repo": "ProfileCreator",
+                "stars": 1504
+              }
+            }
+          ],
+          "description": "macOS application to create configuration profiles.\nCost: N/A",
+          "node_type": "group",
+          "title": "ProfileCreator"
+        },
+        {
+          "children": [
+            {
+              "node_type": "item",
+              "title": "Link: https://github.com/secondsonconsulting/baseline",
+              "description": null,
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 585402821,
+                "language": "Shell",
+                "last_commit": "2026-07-23T15:51:30Z",
+                "owner": "SecondSonConsulting",
+                "repo": "Baseline",
+                "stars": 356
+              }
+            }
+          ],
+          "description": "An MDM agnostic zero touch or light touch solution for macOS. Fueled by swiftDialog and integrated with Installomator, run Packages, Scripts, and Installomator labels. Manage configurations using iMazing Profile Editor.\nCost: Free",
+          "node_type": "group",
+          "title": "Baseline"
+        },
+        {
+          "children": [
+            {
+              "node_type": "item",
+              "title": "Link: https://github.com/Mac-Nerd/patchomator",
+              "description": null,
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 455627722,
+                "language": "Shell",
+                "last_commit": "2025-10-27T19:02:31Z",
+                "owner": "Mac-Nerd",
+                "repo": "patchomator",
+                "stars": 143
+              }
+            }
+          ],
+          "description": "A management script for automating updates with Installomator.\nPrice: N/A",
+          "node_type": "group",
+          "title": "Patchomator"
+        }
+      ],
+      "title": "Deployment"
+    },
+    {
+      "description": null,
+      "items": [
+        {
+          "children": [
+            {
+              "node_type": "item",
+              "title": "Link: https://github.com/ygini/Hello-IT",
+              "description": null,
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 38945726,
+                "language": "Objective-C",
+                "last_commit": "2023-04-12T06:34:06Z",
+                "owner": "ygini",
+                "repo": "Hello-IT",
+                "stars": 294
+              }
+            }
+          ],
+          "description": "A handy menubar application to get users in touch with IT and quickly get information and resources on their Mac.\nCost: N/A",
+          "node_type": "group",
+          "title": "Hello-IT"
+        },
+        {
+          "children": [
+            {
+              "node_type": "item",
+              "title": "Link: https://github.com/jhbush/Arek/tree/master/Development/MacDNA%20Menulet",
+              "description": null,
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 12775432,
+                "language": "Shell",
+                "last_commit": "2013-06-03T20:02:15Z",
+                "owner": "jhbush",
+                "repo": "Arek",
+                "stars": 13
+              }
+            }
+          ],
+          "description": "Customizable menubar that checks for hardware status, management framework status, and other handy information.\nCost: N/A",
+          "node_type": "group",
+          "title": "MacDNA"
+        },
+        {
+          "children": [
+            {
+              "node_type": "item",
+              "title": "Link: https://github.com/root3nl/SupportApp",
+              "description": null,
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 295764062,
+                "language": "Swift",
+                "last_commit": "2026-08-04T11:52:47Z",
+                "owner": "root3nl",
+                "repo": "SupportApp",
+                "stars": 792
+              }
+            }
+          ],
+          "description": "The Support app is a macOS menu bar app built for organizations to help users and helpdesks to see basic diagnostic information at a glance and easily customizable with a configuration profile.\nCost: Free",
+          "node_type": "group",
+          "title": "SupportApp"
+        }
+      ],
+      "title": "Helper Menus"
+    },
+    {
+      "description": null,
+      "items": [
+        {
+          "children": [
+            {
+              "node_type": "item",
+              "title": "Link: https://github.com/macadmins/escrow-buddy",
+              "description": null,
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 650653291,
+                "language": "Objective-C",
+                "last_commit": "2026-01-17T20:39:39Z",
+                "owner": "macadmins",
+                "repo": "escrow-buddy",
+                "stars": 301
+              }
+            }
+          ],
+          "description": "An authorization plugin that helps MDM administrators regenerate and escrow FileVault recovery keys.\nCost: Free",
+          "node_type": "group",
+          "title": "Escrow Buddy"
+        },
+        {
+          "children": [
+            {
+              "node_type": "item",
+              "title": "Link: https://github.com/SAP/macOS-icon-generator",
+              "description": null,
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 96461291,
+                "language": "C",
+                "last_commit": "2026-08-03T08:27:09Z",
+                "owner": "SAP",
+                "repo": "macOS-icon-generator",
+                "stars": 633
+              }
+            }
+          ],
+          "description": "Icons.app is an application for macOS which enables you to create graphics files in PNG format, for use with management tools like Jamf Software's Jamf Pro or the open source Munki software installation tool.\nCost: N/A",
+          "node_type": "group",
+          "title": "Icons.app"
+        },
+        {
+          "children": [
+            {
+              "node_type": "item",
+              "title": "Link: https://github.com/jamf/JamfMigrator",
+              "description": null,
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 97619767,
+                "language": "Swift",
+                "last_commit": "2026-02-02T19:47:29Z",
+                "owner": "jamf",
+                "repo": "Replicator",
+                "stars": 185
+              }
+            }
+          ],
+          "description": "A tool to migrate data granularly between Jamf Pro servers.\nCost: N/A",
+          "node_type": "group",
+          "title": "Jamf Migrator"
+        },
+        {
+          "children": [
+            {
+              "node_type": "item",
+              "title": "Link: https://github.com/usnistgov/macos_security",
+              "description": null,
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 269753140,
+                "language": "YAML",
+                "last_commit": "2026-08-20T18:24:35Z",
+                "owner": "usnistgov",
+                "repo": "macos_security",
+                "stars": 2448
+              }
+            }
+          ],
+          "description": "The macOS security compliance project is an open source effort to provide a programmatic approach to generating security guidance. This project can be used to create customized security baselines of technical security controls by leveraging a library of rules which are mapped to compliance requirements in existing security guides or used to develop customized guidance.\nCost: N/A",
+          "node_type": "group",
+          "title": "macOS Security Compliance Project"
+        },
+        {
+          "children": [
+            {
+              "node_type": "item",
+              "title": "Link: https://github.com/jamf/PPPC-Utility",
+              "description": null,
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 149668834,
+                "language": "Swift",
+                "last_commit": "2026-08-05T15:43:41Z",
+                "owner": "jamf",
+                "repo": "PPPC-Utility",
+                "stars": 874
+              }
+            }
+          ],
+          "description": "PPPC Utility is a macOS (10.15 and newer) application for creating configuration profiles containing the Privacy Preferences Policy Control payload for macOS.\nCost: Free",
+          "node_type": "group",
+          "title": "PPPC-Utility"
+        },
+        {
+          "children": [
+            {
+              "node_type": "item",
+              "title": "Link: https://github.com/mikaellofgren/PrinterSetup",
+              "description": null,
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 167947473,
+                "language": "Swift",
+                "last_commit": "2024-12-19T16:50:43Z",
+                "owner": "mikaellofgren",
+                "repo": "PrinterSetup",
+                "stars": 79
+              }
+            }
+          ],
+          "description": "PrinterSetup is a macOS Monterey (12) or higher printer utility that generates lpadmin output to add printers.\nCost: Free",
+          "node_type": "group",
+          "title": "PrinterSetup"
+        },
+        {
+          "children": [
+            {
+              "node_type": "item",
+              "title": "Link: https://github.com/BIG-RAT/Prune",
+              "description": null,
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 231824166,
+                "language": "Swift",
+                "last_commit": "2026-08-03T13:36:39Z",
+                "owner": "BIG-RAT",
+                "repo": "Prune",
+                "stars": 205
+              }
+            }
+          ],
+          "description": "Prune is a handy app that looks for unused items in a Jamf Pro server and makes them easy to identify and remove.\nCost: Free",
+          "node_type": "group",
+          "title": "Prune"
+        },
+        {
+          "children": [
+            {
+              "node_type": "item",
+              "title": "Link: https://github.com/SAP/script-to-package-tool-for-macos",
+              "description": null,
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 630386940,
+                "language": "HTML",
+                "last_commit": "2026-08-04T15:14:36Z",
+                "owner": "SAP",
+                "repo": "script-to-package-tool-for-macos",
+                "stars": 124
+              }
+            }
+          ],
+          "description": "Helps with the process of creating payload-free installer packages.\nCost: N/A",
+          "node_type": "group",
+          "title": "Script2Pkg"
+        },
+        {
+          "children": [
+            {
+              "node_type": "item",
+              "title": "Link: https://github.com/hjuutilainen/sus-inspector",
+              "description": null,
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 10755265,
+                "language": "Objective-C",
+                "last_commit": "2022-03-16T18:56:46Z",
+                "owner": "hjuutilainen",
+                "repo": "sus-inspector",
+                "stars": 423
+              }
+            }
+          ],
+          "description": "Inspect Apple macOS software updates.\nCost: N/A",
+          "node_type": "group",
+          "title": "sus-inspector"
+        },
+        {
+          "children": [
+            {
+              "node_type": "item",
+              "title": "Link: https://github.com/macadmins/umad",
+              "description": null,
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 146475118,
+                "language": "Python",
+                "last_commit": "2024-07-28T14:46:36Z",
+                "owner": "macadmins",
+                "repo": "umad",
+                "stars": 303
+              }
+            }
+          ],
+          "description": "A Professional Tool to help users with getting pre-existing devices enrolled into MDM.\nCost: N/A",
+          "node_type": "group",
+          "title": "umad"
+        },
+        {
+          "children": [
+            {
+              "node_type": "item",
+              "title": "Link: https://github.com/sheagcraig/yo",
+              "description": null,
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 31319794,
+                "language": "Swift",
+                "last_commit": "2024-08-01T01:27:34Z",
+                "owner": "sheagcraig",
+                "repo": "yo",
+                "stars": 397
+              }
+            }
+          ],
+          "description": "Custom user notifications with Swift.\nCost: N/A",
+          "node_type": "group",
+          "title": "Yo"
+        },
+        {
+          "children": [
+            {
+              "node_type": "item",
+              "title": "Link: https://github.com/ProfileCreator/ProfileCreator",
+              "description": null,
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 41657454,
+                "language": "Swift",
+                "last_commit": "2025-01-11T21:49:01Z",
+                "owner": "ProfileCreator",
+                "repo": "ProfileCreator",
+                "stars": 1504
+              }
+            }
+          ],
+          "description": "A macOS app to create standard & customized configuration profiles & plists.\nCost: N/A",
+          "node_type": "group",
+          "title": "ProfileCreator"
+        }
+      ],
+      "title": "Utilities"
+    }
+  ],
   "metadata": {
-    "last_updated": "2026-08-24T10:08:09.917Z",
+    "last_updated": "2026-08-24T14:22:37.413Z",
     "original_repository": "smashism/awesome-macadmin-tools",
     "original_repository_id": 111155718,
     "original_repository_sha": "477a921f0340ccf1bfaa708a593a089513a51652",
