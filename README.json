@@ -171,7 +171,7 @@
                 "last_commit": "2026-07-21T17:04:16Z",
                 "owner": "Macjutsu",
                 "repo": "super",
-                "stars": 889
+                "stars": 890
               }
             }
           ],
@@ -607,7 +607,7 @@
                 "last_commit": "2026-08-20T18:24:35Z",
                 "owner": "usnistgov",
                 "repo": "macos_security",
-                "stars": 2448
+                "stars": 2449
               }
             }
           ],
@@ -796,7 +796,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-24T14:22:37.413Z",
+    "last_updated": "2026-08-25T06:17:47.999Z",
     "original_repository": "smashism/awesome-macadmin-tools",
     "original_repository_id": 111155718,
     "original_repository_sha": "477a921f0340ccf1bfaa708a593a089513a51652",

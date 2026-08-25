@@ -2,7 +2,7 @@
 
 > A curated list of handy-dandy tools for Mac Admins.
 
-Inspired by the [awesome](https://github.com/sindresorhus/awesome) ⭐ 499,517 | 🐛 106 | 📅 2026-08-21 list.
+Inspired by the [awesome](https://github.com/sindresorhus/awesome) ⭐ 499,703 | 🐛 106 | 📅 2026-08-21 list.
 
 ## Contents
 
@@ -94,9 +94,9 @@ Inspired by the [awesome](https://github.com/sindresorhus/awesome) ⭐ 499,517 |
 
 **Cost:** N/A
 
-**Link:** <https://github.com/Macjutsu/super> ⭐ 889 | 🐛 23 | 🌐 Shell | 📅 2026-07-21
+**Link:** <https://github.com/Macjutsu/super> ⭐ 890 | 🐛 23 | 🌐 Shell | 📅 2026-07-21
 
-[![](https://github.com/Macjutsu/super/raw/main/Images/UpdateExample.png)](https://github.com/Macjutsu/super) ⭐ 889 | 🐛 23 | 🌐 Shell | 📅 2026-07-21
+[![](https://github.com/Macjutsu/super/raw/main/Images/UpdateExample.png)](https://github.com/Macjutsu/super) ⭐ 890 | 🐛 23 | 🌐 Shell | 📅 2026-07-21
 
 ### Stronghold
 
@@ -530,7 +530,7 @@ Inspired by the [awesome](https://github.com/sindresorhus/awesome) ⭐ 499,517 |
 
 ### Jamf Compliance Editor
 
-> Jamf Compliance Editor is a tool that provides macOS system administrators with an easy way to establish and manage compliance baselines on their fleet of macOS devices. This tool is built on the foundations of the [macOS Security Compliance Project](https://github.com/usnistgov/macos_security) ⭐ 2,448 | 🐛 25 | 🌐 YAML | 📅 2026-08-20, hosted by the United States government agency, NIST, in their Github repo.
+> Jamf Compliance Editor is a tool that provides macOS system administrators with an easy way to establish and manage compliance baselines on their fleet of macOS devices. This tool is built on the foundations of the [macOS Security Compliance Project](https://github.com/usnistgov/macos_security) ⭐ 2,449 | 🐛 25 | 🌐 YAML | 📅 2026-08-20, hosted by the United States government agency, NIST, in their Github repo.
 
 **Cost:** N/A
 
@@ -554,9 +554,9 @@ Inspired by the [awesome](https://github.com/sindresorhus/awesome) ⭐ 499,517 |
 
 **Cost:** N/A
 
-**Link:** <https://github.com/usnistgov/macos_security> ⭐ 2,448 | 🐛 25 | 🌐 YAML | 📅 2026-08-20
+**Link:** <https://github.com/usnistgov/macos_security> ⭐ 2,449 | 🐛 25 | 🌐 YAML | 📅 2026-08-20
 
-[![](images/mscp.png)](https://github.com/usnistgov/macos_security) ⭐ 2,448 | 🐛 25 | 🌐 YAML | 📅 2026-08-20
+[![](images/mscp.png)](https://github.com/usnistgov/macos_security) ⭐ 2,449 | 🐛 25 | 🌐 YAML | 📅 2026-08-20
 
 ### The MUT
 
@@ -626,7 +626,7 @@ Inspired by the [awesome](https://github.com/sindresorhus/awesome) ⭐ 499,517 |
 
 **Link:** <https://rectangleapp.com/>
 
-[![](https://user-images.githubusercontent.com/13651296/101402672-57ab5300-38d4-11eb-9e8c-6a3147d26711.png)](https://github.com/rxhanson/Rectangle) ⭐ 29,731 | 🐛 110 | 🌐 Swift | 📅 2026-08-21
+[![](https://user-images.githubusercontent.com/13651296/101402672-57ab5300-38d4-11eb-9e8c-6a3147d26711.png)](https://github.com/rxhanson/Rectangle) ⭐ 29,734 | 🐛 110 | 🌐 Swift | 📅 2026-08-21
 
 ### Script2Pkg
 
@@ -708,4 +708,4 @@ To the extent possible under law, [Emily Kausalik](https://twitter.com/emilyooo)
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-08-24._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-08-25._
