@@ -171,7 +171,7 @@
                 "last_commit": "2026-07-21T17:04:16Z",
                 "owner": "Macjutsu",
                 "repo": "super",
-                "stars": 890
+                "stars": 891
               }
             }
           ],
@@ -287,7 +287,7 @@
                 "last_commit": "2026-07-17T19:22:13Z",
                 "owner": "lindegroup",
                 "repo": "autopkgr",
-                "stars": 567
+                "stars": 568
               }
             }
           ],
@@ -397,7 +397,7 @@
                 "last_commit": "2025-01-11T21:49:01Z",
                 "owner": "ProfileCreator",
                 "repo": "ProfileCreator",
-                "stars": 1504
+                "stars": 1505
               }
             }
           ],
@@ -783,7 +783,7 @@
                 "last_commit": "2025-01-11T21:49:01Z",
                 "owner": "ProfileCreator",
                 "repo": "ProfileCreator",
-                "stars": 1504
+                "stars": 1505
               }
             }
           ],
@@ -796,7 +796,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-25T09:57:58.309Z",
+    "last_updated": "2026-08-26T10:03:51.627Z",
     "original_repository": "smashism/awesome-macadmin-tools",
     "original_repository_id": 111155718,
     "original_repository_sha": "477a921f0340ccf1bfaa708a593a089513a51652",
