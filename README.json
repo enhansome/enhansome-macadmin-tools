@@ -57,7 +57,7 @@
                 "open_issues": 8,
                 "owner": "munki",
                 "repo": "macadmin-scripts",
-                "stars": 2444,
+                "stars": 2445,
                 "topics": []
               },
               "first_seen": "2026-08-28T20:57:11.657Z"
@@ -85,7 +85,7 @@
                 "open_issues": 8,
                 "owner": "munki",
                 "repo": "macadmin-scripts",
-                "stars": 2444,
+                "stars": 2445,
                 "topics": []
               },
               "first_seen": "2026-08-28T20:57:11.657Z"
@@ -113,7 +113,7 @@
                 "open_issues": 70,
                 "owner": "ninxsoft",
                 "repo": "Mist",
-                "stars": 5177,
+                "stars": 5179,
                 "topics": []
               },
               "first_seen": "2026-08-28T20:57:11.657Z"
@@ -775,7 +775,7 @@
                 "open_issues": 1,
                 "owner": "SAP",
                 "repo": "macOS-icon-generator",
-                "stars": 633,
+                "stars": 634,
                 "topics": [
                   "customization",
                   "icons",
@@ -1103,7 +1103,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-29T04:40:11.586Z",
+    "last_updated": "2026-08-29T14:35:36.822Z",
     "original_repository_info": {
       "archived": false,
       "description": "🕶 Awesome Mac Admin Tools list",

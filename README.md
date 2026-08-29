@@ -2,7 +2,7 @@
 
 > A curated list of handy-dandy tools for Mac Admins.
 
-Inspired by the [awesome](https://github.com/sindresorhus/awesome) ⭐ 500,891 | 🐛 105 | 📅 2026-08-21 list.
+Inspired by the [awesome](https://github.com/sindresorhus/awesome) ⭐ 501,030 | 🐛 105 | 📅 2026-08-21 list.
 
 ## Contents
 
@@ -34,9 +34,9 @@ Inspired by the [awesome](https://github.com/sindresorhus/awesome) ⭐ 500,891 |
 
 **Cost:** N/A
 
-**Link:** <https://github.com/munki/macadmin-scripts> ⭐ 2,444 | 🐛 8 | 🌐 Python | 📅 2025-11-04
+**Link:** <https://github.com/munki/macadmin-scripts> ⭐ 2,445 | 🐛 8 | 🌐 Python | 📅 2025-11-04
 
-[![](images/getmacosipsws.png)](https://github.com/munki/macadmin-scripts) ⭐ 2,444 | 🐛 8 | 🌐 Python | 📅 2025-11-04
+[![](images/getmacosipsws.png)](https://github.com/munki/macadmin-scripts) ⭐ 2,445 | 🐛 8 | 🌐 Python | 📅 2025-11-04
 
 ### installinstallmacos.py
 
@@ -44,9 +44,9 @@ Inspired by the [awesome](https://github.com/sindresorhus/awesome) ⭐ 500,891 |
 
 **Cost:** N/A
 
-**Link:** <https://github.com/munki/macadmin-scripts> ⭐ 2,444 | 🐛 8 | 🌐 Python | 📅 2025-11-04
+**Link:** <https://github.com/munki/macadmin-scripts> ⭐ 2,445 | 🐛 8 | 🌐 Python | 📅 2025-11-04
 
-[![](images/iimop.png)](https://github.com/munki/macadmin-scripts) ⭐ 2,444 | 🐛 8 | 🌐 Python | 📅 2025-11-04
+[![](images/iimop.png)](https://github.com/munki/macadmin-scripts) ⭐ 2,445 | 🐛 8 | 🌐 Python | 📅 2025-11-04
 
 ### MIST - macOS Installer Super Tool
 
@@ -54,9 +54,9 @@ Inspired by the [awesome](https://github.com/sindresorhus/awesome) ⭐ 500,891 |
 
 **Cost:** N/A
 
-**Link:** <https://github.com/ninxsoft/Mist> ⭐ 5,177 | 🐛 70 | 🌐 Swift | 📅 2026-07-07
+**Link:** <https://github.com/ninxsoft/Mist> ⭐ 5,179 | 🐛 70 | 🌐 Swift | 📅 2026-07-07
 
-[![](https://github.com/ninxsoft/Mist/raw/main/README%20Resources/Installers.png)](https://github.com/ninxsoft/Mist) ⭐ 5,177 | 🐛 70 | 🌐 Swift | 📅 2026-07-07
+[![](https://github.com/ninxsoft/Mist/raw/main/README%20Resources/Installers.png)](https://github.com/ninxsoft/Mist) ⭐ 5,179 | 🐛 70 | 🌐 Swift | 📅 2026-07-07
 
 ### moss
 
@@ -524,9 +524,9 @@ Inspired by the [awesome](https://github.com/sindresorhus/awesome) ⭐ 500,891 |
 
 **Cost:** N/A
 
-**Link:** <https://github.com/SAP/macOS-icon-generator> ⭐ 633 | 🐛 1 | 🌐 C | 📅 2026-08-03
+**Link:** <https://github.com/SAP/macOS-icon-generator> ⭐ 634 | 🐛 1 | 🌐 C | 📅 2026-08-03
 
-[![](https://github.com/SAP/macOS-icon-generator/raw/main/readme_images/drag_and_drop_source_image.gif)](https://github.com/SAP/macOS-icon-generator) ⭐ 633 | 🐛 1 | 🌐 C | 📅 2026-08-03
+[![](https://github.com/SAP/macOS-icon-generator/raw/main/readme_images/drag_and_drop_source_image.gif)](https://github.com/SAP/macOS-icon-generator) ⭐ 634 | 🐛 1 | 🌐 C | 📅 2026-08-03
 
 ### Jamf Compliance Editor
 
@@ -626,7 +626,7 @@ Inspired by the [awesome](https://github.com/sindresorhus/awesome) ⭐ 500,891 |
 
 **Link:** <https://rectangleapp.com/>
 
-[![](https://user-images.githubusercontent.com/13651296/101402672-57ab5300-38d4-11eb-9e8c-6a3147d26711.png)](https://github.com/rxhanson/Rectangle) ⭐ 29,764 | 🐛 110 | 🌐 Swift | 📅 2026-08-26
+[![](https://user-images.githubusercontent.com/13651296/101402672-57ab5300-38d4-11eb-9e8c-6a3147d26711.png)](https://github.com/rxhanson/Rectangle) ⭐ 29,768 | 🐛 110 | 🌐 Swift | 📅 2026-08-26
 
 ### Script2Pkg
 
