@@ -12,12 +12,25 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "A script that automates downloading macOS installers, and optionally erasing or upgrading macOS in a single process. Watch the video!",
+                "homepage": "https://grahamrpugh.com/2023/05/14/macaduk-presentation-eraseinstall.html",
                 "id": 140421285,
                 "language": "Shell",
+                "license": "Apache-2.0",
                 "last_commit": "2026-08-28T20:03:41Z",
+                "open_issues": 12,
                 "owner": "grahampugh",
                 "repo": "erase-install",
-                "stars": 945
+                "stars": 945,
+                "topics": [
+                  "apple",
+                  "erase",
+                  "mac",
+                  "macos",
+                  "operating-system",
+                  "reinstall",
+                  "upgrade"
+                ]
               },
               "first_seen": "2026-08-28T20:57:11.657Z"
             }
@@ -35,12 +48,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Scripts of possible interest to macOS admins",
+                "homepage": null,
                 "id": 110171937,
                 "language": "Python",
+                "license": "NOASSERTION",
                 "last_commit": "2025-11-04T17:09:52Z",
+                "open_issues": 8,
                 "owner": "munki",
                 "repo": "macadmin-scripts",
-                "stars": 2444
+                "stars": 2444,
+                "topics": []
               },
               "first_seen": "2026-08-28T20:57:11.657Z"
             }
@@ -58,12 +76,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Scripts of possible interest to macOS admins",
+                "homepage": null,
                 "id": 110171937,
                 "language": "Python",
+                "license": "NOASSERTION",
                 "last_commit": "2025-11-04T17:09:52Z",
+                "open_issues": 8,
                 "owner": "munki",
                 "repo": "macadmin-scripts",
-                "stars": 2444
+                "stars": 2444,
+                "topics": []
               },
               "first_seen": "2026-08-28T20:57:11.657Z"
             }
@@ -81,12 +104,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "A Mac utility that automatically downloads macOS Firmwares / Installers.",
+                "homepage": null,
                 "id": 509050256,
                 "language": "Swift",
+                "license": "MIT",
                 "last_commit": "2026-07-07T18:48:06Z",
+                "open_issues": 70,
                 "owner": "ninxsoft",
                 "repo": "Mist",
-                "stars": 5177
+                "stars": 5177,
+                "topics": []
               },
               "first_seen": "2026-08-28T20:57:11.657Z"
             }
@@ -104,12 +132,22 @@
               "children": [],
               "repo_info": {
                 "archived": true,
+                "description": "Moss is an app for easily building .plist and .mobileconfig files for Hello IT",
+                "homepage": null,
                 "id": 95159828,
                 "language": "Python",
+                "license": "MIT",
                 "last_commit": "2019-05-29T20:08:13Z",
+                "open_issues": 1,
                 "owner": "WardsParadox",
                 "repo": "moss",
-                "stars": 31
+                "stars": 31,
+                "topics": [
+                  "hello-it",
+                  "mac",
+                  "mac-administration",
+                  "mobileconfig-files"
+                ]
               },
               "first_seen": "2026-08-28T20:57:11.657Z"
             }
@@ -127,12 +165,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Reassign categories to all policies and packages on your JSS, then offer to remove unused categories.",
+                "homepage": null,
                 "id": 29975733,
                 "language": "Python",
+                "license": null,
                 "last_commit": "2015-01-28T16:08:37Z",
+                "open_issues": 0,
                 "owner": "sheagcraig",
                 "repo": "Recategorizer",
-                "stars": 27
+                "stars": 27,
+                "topics": []
               },
               "first_seen": "2026-08-28T20:57:11.657Z"
             }
@@ -150,12 +193,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "A utility for managing the scripts in Jamf Pro",
+                "homepage": null,
                 "id": 352070948,
                 "language": "Python",
+                "license": "MIT",
                 "last_commit": "2023-07-26T03:40:55Z",
+                "open_issues": 0,
                 "owner": "Honestpuck",
                 "repo": "scriptorium",
-                "stars": 58
+                "stars": 58,
+                "topics": []
               },
               "first_seen": "2026-08-28T20:57:11.657Z"
             }
@@ -173,12 +221,32 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "S.U.P.E.R.M.A.N. optimizes the macOS software update experience.",
+                "homepage": null,
                 "id": 469797351,
                 "language": "Shell",
+                "license": "Apache-2.0",
                 "last_commit": "2026-07-21T17:04:16Z",
+                "open_issues": 24,
                 "owner": "Macjutsu",
                 "repo": "super",
-                "stars": 890
+                "stars": 890,
+                "topics": [
+                  "apple",
+                  "compliance",
+                  "jamf",
+                  "jamf-pro",
+                  "jamfpro",
+                  "jamfpro-scripts",
+                  "mac",
+                  "macadmin",
+                  "macadmins",
+                  "macos",
+                  "mdm",
+                  "operating-system",
+                  "update",
+                  "updates"
+                ]
               },
               "first_seen": "2026-08-28T20:57:11.657Z"
             }
@@ -196,12 +264,26 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Easily configure macOS security settings from the terminal.",
+                "homepage": null,
                 "id": 125603504,
                 "language": "Python",
+                "license": "MIT",
                 "last_commit": "2025-02-24T07:31:58Z",
+                "open_issues": 10,
                 "owner": "alichtman",
                 "repo": "stronghold",
-                "stars": 1191
+                "stars": 1191,
+                "topics": [
+                  "command-line",
+                  "command-line-tool",
+                  "hardening",
+                  "macos",
+                  "macos-setup",
+                  "osx",
+                  "security",
+                  "security-hardening"
+                ]
               },
               "first_seen": "2026-08-28T20:57:11.657Z"
             }
@@ -219,12 +301,21 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Convert bootable DMG images for use in VMware Fusion",
+                "homepage": null,
                 "id": 26557234,
                 "language": "Python",
+                "license": null,
                 "last_commit": "2022-04-09T04:04:35Z",
+                "open_issues": 3,
                 "owner": "chilcote",
                 "repo": "vfuse",
-                "stars": 397
+                "stars": 397,
+                "topics": [
+                  "macadmin",
+                  "python",
+                  "vmware"
+                ]
               },
               "first_seen": "2026-08-28T20:57:11.657Z"
             }
@@ -242,12 +333,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Create user-notifications on macOS with swiftDialog",
+                "homepage": null,
                 "id": 346831918,
                 "language": "Swift",
+                "license": "MIT",
                 "last_commit": "2026-08-14T07:02:53Z",
+                "open_issues": 53,
                 "owner": "swiftDialog",
                 "repo": "swiftDialog",
-                "stars": 844
+                "stars": 844,
+                "topics": []
               },
               "first_seen": "2026-08-28T20:57:11.657Z"
             }
@@ -271,12 +367,26 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Automating packaging and software distribution on macOS.",
+                "homepage": "http://autopkg.github.io/autopkg",
                 "id": 11913841,
                 "language": "Python",
+                "license": "NOASSERTION",
                 "last_commit": "2026-08-17T20:52:46Z",
+                "open_issues": 69,
                 "owner": "autopkg",
                 "repo": "autopkg",
-                "stars": 1475
+                "stars": 1475,
+                "topics": [
+                  "apple",
+                  "automation",
+                  "autopkg",
+                  "hacktoberfest",
+                  "macadmin",
+                  "macos",
+                  "packaging",
+                  "python"
+                ]
               },
               "first_seen": "2026-08-28T20:57:11.657Z"
             }
@@ -294,12 +404,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "AutoPkgr is a free Mac app that makes it easy to install and configure AutoPkg.",
+                "homepage": "http://www.lindegroup.com/autopkgr",
                 "id": 21215781,
                 "language": "Objective-C",
+                "license": "Apache-2.0",
                 "last_commit": "2026-07-17T19:22:13Z",
+                "open_issues": 13,
                 "owner": "lindegroup",
                 "repo": "autopkgr",
-                "stars": 568
+                "stars": 568,
+                "topics": []
               },
               "first_seen": "2026-08-28T20:57:11.657Z"
             }
@@ -317,12 +432,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "A Mac utility to help inspect Apple Configuration Profile payloads.",
+                "homepage": null,
                 "id": 287912661,
                 "language": "Swift",
+                "license": "MIT",
                 "last_commit": "2025-10-11T08:25:24Z",
+                "open_issues": 8,
                 "owner": "ninxsoft",
                 "repo": "LowProfile",
-                "stars": 432
+                "stars": 432,
+                "topics": []
               },
               "first_seen": "2026-08-28T20:57:11.657Z"
             }
@@ -340,12 +460,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Repo for the munkipkg tool and example projects",
+                "homepage": null,
                 "id": 39786236,
                 "language": "Python",
+                "license": "NOASSERTION",
                 "last_commit": "2026-06-09T20:51:08Z",
+                "open_issues": 9,
                 "owner": "munki",
                 "repo": "munki-pkg",
-                "stars": 374
+                "stars": 374,
+                "topics": []
               },
               "first_seen": "2026-08-28T20:57:11.657Z"
             }
@@ -363,12 +488,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "A tool for encouraging the installation of macOS security updates.",
+                "homepage": null,
                 "id": 335457412,
                 "language": "Swift",
+                "license": "Apache-2.0",
                 "last_commit": "2026-05-07T16:51:56Z",
+                "open_issues": 8,
                 "owner": "macadmins",
                 "repo": "nudge",
-                "stars": 1269
+                "stars": 1269,
+                "topics": []
               },
               "first_seen": "2026-08-28T20:57:11.657Z"
             }
@@ -386,12 +516,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": null,
+                "homepage": null,
                 "id": 17531180,
                 "language": null,
+                "license": "MIT",
                 "last_commit": "2025-07-15T22:26:07Z",
+                "open_issues": 1,
                 "owner": "rtrouton",
                 "repo": "Payload-Free-Package-Creator",
-                "stars": 216
+                "stars": 216,
+                "topics": []
               },
               "first_seen": "2026-08-28T20:57:11.657Z"
             }
@@ -409,12 +544,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "macOS app to create standard or customized configuration profiles.",
+                "homepage": null,
                 "id": 41657454,
                 "language": "Swift",
+                "license": "MIT",
                 "last_commit": "2025-01-11T21:49:01Z",
+                "open_issues": 76,
                 "owner": "ProfileCreator",
                 "repo": "ProfileCreator",
-                "stars": 1505
+                "stars": 1505,
+                "topics": []
               },
               "first_seen": "2026-08-28T20:57:11.657Z"
             }
@@ -432,12 +572,22 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "An MDM agnostic zero touch solution for macOS",
+                "homepage": null,
                 "id": 585402821,
                 "language": "Shell",
+                "license": "MIT",
                 "last_commit": "2026-07-23T15:51:30Z",
+                "open_issues": 6,
                 "owner": "SecondSonConsulting",
                 "repo": "Baseline",
-                "stars": 356
+                "stars": 356,
+                "topics": [
+                  "installomator",
+                  "macos",
+                  "swiftdialog",
+                  "zerotouch"
+                ]
               },
               "first_seen": "2026-08-28T20:57:11.657Z"
             }
@@ -455,12 +605,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Management script for Installomator.",
+                "homepage": null,
                 "id": 455627722,
                 "language": "Shell",
+                "license": "Apache-2.0",
                 "last_commit": "2025-10-27T19:02:31Z",
+                "open_issues": 2,
                 "owner": "Mac-Nerd",
                 "repo": "patchomator",
-                "stars": 143
+                "stars": 143,
+                "topics": []
               },
               "first_seen": "2026-08-28T20:57:11.657Z"
             }
@@ -484,12 +639,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Self support apps provided by IT services to end users.",
+                "homepage": null,
                 "id": 38945726,
                 "language": "Objective-C",
+                "license": "BSD-3-Clause",
                 "last_commit": "2023-04-12T06:34:06Z",
+                "open_issues": 5,
                 "owner": "ygini",
                 "repo": "Hello-IT",
-                "stars": 294
+                "stars": 294,
+                "topics": []
               },
               "first_seen": "2026-08-28T20:57:11.657Z"
             }
@@ -507,12 +667,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": null,
+                "homepage": null,
                 "id": 12775432,
                 "language": "Shell",
+                "license": null,
                 "last_commit": "2013-06-03T20:02:15Z",
+                "open_issues": 0,
                 "owner": "jhbush",
                 "repo": "Arek",
-                "stars": 13
+                "stars": 13,
+                "topics": []
               },
               "first_seen": "2026-08-28T20:57:11.657Z"
             }
@@ -530,12 +695,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "The Support App is developed by Root3, specialized in managing Apple devices. Root3 offers consultancy and support for organizations to get the most out of their Apple devices and is based in The Netherlands (Halfweg).",
+                "homepage": "https://www.root3.nl",
                 "id": 295764062,
                 "language": "Swift",
+                "license": "MIT",
                 "last_commit": "2026-08-04T11:52:47Z",
+                "open_issues": 83,
                 "owner": "root3nl",
                 "repo": "SupportApp",
-                "stars": 793
+                "stars": 793,
+                "topics": []
               },
               "first_seen": "2026-08-28T20:57:11.657Z"
             }
@@ -559,12 +729,26 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "A macOS authorization plugin that helps MDM administrators ensure valid FileVault keys are escrowed for all their Macs.",
+                "homepage": null,
                 "id": 650653291,
                 "language": "Objective-C",
+                "license": "Apache-2.0",
                 "last_commit": "2026-01-17T20:39:39Z",
+                "open_issues": 2,
                 "owner": "macadmins",
                 "repo": "escrow-buddy",
-                "stars": 302
+                "stars": 302,
+                "topics": [
+                  "authorization-plugin",
+                  "filevault",
+                  "full-disk-encryption",
+                  "loginwindow",
+                  "macadmin",
+                  "macos",
+                  "mdm",
+                  "personal-recovery-key"
+                ]
               },
               "first_seen": "2026-08-28T20:57:11.657Z"
             }
@@ -582,12 +766,23 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Icons for macOS is the easiest way to create customized app icons in PNG format for your company’s internal app store. No graphic skills needed.",
+                "homepage": null,
                 "id": 96461291,
                 "language": "C",
+                "license": "Apache-2.0",
                 "last_commit": "2026-08-03T08:27:09Z",
+                "open_issues": 1,
                 "owner": "SAP",
                 "repo": "macOS-icon-generator",
-                "stars": 633
+                "stars": 633,
+                "topics": [
+                  "customization",
+                  "icons",
+                  "macos",
+                  "open-source",
+                  "png"
+                ]
               },
               "first_seen": "2026-08-28T20:57:11.657Z"
             }
@@ -605,12 +800,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "A tool to migrate data granularly between Jamf Pro servers",
+                "homepage": null,
                 "id": 97619767,
                 "language": "Swift",
+                "license": "MIT",
                 "last_commit": "2026-02-02T19:47:29Z",
+                "open_issues": 19,
                 "owner": "jamf",
                 "repo": "Replicator",
-                "stars": 185
+                "stars": 185,
+                "topics": []
               },
               "first_seen": "2026-08-28T20:57:11.657Z"
             }
@@ -628,12 +828,26 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "macOS Security Compliance Project",
+                "homepage": "https://pages.nist.gov/macos_security",
                 "id": 269753140,
                 "language": "YAML",
-                "last_commit": "2026-08-26T18:42:40Z",
+                "license": "NOASSERTION",
+                "last_commit": "2026-08-29T02:00:08Z",
+                "open_issues": 20,
                 "owner": "usnistgov",
                 "repo": "macos_security",
-                "stars": 2455
+                "stars": 2456,
+                "topics": [
+                  "apple",
+                  "bash",
+                  "compliance",
+                  "macos",
+                  "mdm",
+                  "mscp",
+                  "python3",
+                  "zsh"
+                ]
               },
               "first_seen": "2026-08-28T20:57:11.657Z"
             }
@@ -651,12 +865,21 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Privacy Preferences Policy Control (PPPC) Utility",
+                "homepage": null,
                 "id": 149668834,
                 "language": "Swift",
+                "license": "MIT",
                 "last_commit": "2026-08-05T15:43:41Z",
+                "open_issues": 5,
                 "owner": "jamf",
                 "repo": "PPPC-Utility",
-                "stars": 875
+                "stars": 875,
+                "topics": [
+                  "app",
+                  "configuration-profiles",
+                  "macos"
+                ]
               },
               "first_seen": "2026-08-28T20:57:11.657Z"
             }
@@ -674,12 +897,23 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "A simple printer utility that generates lpadmin output to add printers",
+                "homepage": null,
                 "id": 167947473,
                 "language": "Swift",
+                "license": "MIT",
                 "last_commit": "2024-12-19T16:50:43Z",
+                "open_issues": 0,
                 "owner": "mikaellofgren",
                 "repo": "PrinterSetup",
-                "stars": 79
+                "stars": 79,
+                "topics": [
+                  "add-printers",
+                  "macadmins",
+                  "payload-pkg",
+                  "printer",
+                  "printer-utility"
+                ]
               },
               "first_seen": "2026-08-28T20:57:11.657Z"
             }
@@ -697,12 +931,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Remove unused items from your Jamf server",
+                "homepage": null,
                 "id": 231824166,
                 "language": "Swift",
+                "license": "MIT",
                 "last_commit": "2026-08-03T13:36:39Z",
+                "open_issues": 13,
                 "owner": "BIG-RAT",
                 "repo": "Prune",
-                "stars": 204
+                "stars": 204,
+                "topics": []
               },
               "first_seen": "2026-08-28T20:57:11.657Z"
             }
@@ -720,12 +959,22 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Script2Pkg is an application for creating payload-free installer packages for macOS.",
+                "homepage": null,
                 "id": 630386940,
                 "language": "HTML",
+                "license": "Apache-2.0",
                 "last_commit": "2026-08-04T15:14:36Z",
+                "open_issues": 0,
                 "owner": "SAP",
                 "repo": "script-to-package-tool-for-macos",
-                "stars": 124
+                "stars": 124,
+                "topics": [
+                  "macos",
+                  "open-source",
+                  "packaging",
+                  "scripts"
+                ]
               },
               "first_seen": "2026-08-28T20:57:11.657Z"
             }
@@ -743,12 +992,20 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Inspect Apple software update service",
+                "homepage": null,
                 "id": 10755265,
                 "language": "Objective-C",
+                "license": null,
                 "last_commit": "2022-03-16T18:56:46Z",
+                "open_issues": 16,
                 "owner": "hjuutilainen",
                 "repo": "sus-inspector",
-                "stars": 423
+                "stars": 423,
+                "topics": [
+                  "macadmin",
+                  "macos"
+                ]
               },
               "first_seen": "2026-08-28T20:57:11.657Z"
             }
@@ -766,12 +1023,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "A tool to help users with pre-existing devices enroll into MDM",
+                "homepage": null,
                 "id": 146475118,
                 "language": "Python",
+                "license": "Apache-2.0",
                 "last_commit": "2024-07-28T14:46:36Z",
+                "open_issues": 16,
                 "owner": "macadmins",
                 "repo": "umad",
-                "stars": 303
+                "stars": 303,
+                "topics": []
               },
               "first_seen": "2026-08-28T20:57:11.657Z"
             }
@@ -789,12 +1051,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Send Notification Center messages from the command line",
+                "homepage": null,
                 "id": 31319794,
                 "language": "Swift",
+                "license": "Apache-2.0",
                 "last_commit": "2024-08-01T01:27:34Z",
+                "open_issues": 21,
                 "owner": "sheagcraig",
                 "repo": "yo",
-                "stars": 397
+                "stars": 397,
+                "topics": []
               },
               "first_seen": "2026-08-28T20:57:11.657Z"
             }
@@ -812,12 +1079,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "macOS app to create standard or customized configuration profiles.",
+                "homepage": null,
                 "id": 41657454,
                 "language": "Swift",
+                "license": "MIT",
                 "last_commit": "2025-01-11T21:49:01Z",
+                "open_issues": 76,
                 "owner": "ProfileCreator",
                 "repo": "ProfileCreator",
-                "stars": 1505
+                "stars": 1505,
+                "topics": []
               },
               "first_seen": "2026-08-28T20:57:11.657Z"
             }
@@ -831,15 +1103,25 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-28T20:57:11.657Z",
+    "last_updated": "2026-08-29T04:40:11.586Z",
     "original_repository_info": {
       "archived": false,
+      "description": "🕶 Awesome Mac Admin Tools list",
+      "homepage": null,
       "id": 111155718,
       "language": null,
+      "license": null,
       "last_commit": "2025-12-17T15:09:34Z",
+      "open_issues": 14,
       "owner": "smashism",
       "repo": "awesome-macadmin-tools",
-      "stars": 676
+      "stars": 676,
+      "topics": [
+        "awesome",
+        "awesome-list",
+        "macadmin",
+        "macos"
+      ]
     },
     "original_repository_sha": "477a921f0340ccf1bfaa708a593a089513a51652",
     "enhanced_repository": "enhansome/enhansome-macadmin-tools",

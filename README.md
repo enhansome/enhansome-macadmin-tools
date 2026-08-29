@@ -2,7 +2,7 @@
 
 > A curated list of handy-dandy tools for Mac Admins.
 
-Inspired by the [awesome](https://github.com/sindresorhus/awesome) ⭐ 500,827 | 🐛 105 | 📅 2026-08-21 list.
+Inspired by the [awesome](https://github.com/sindresorhus/awesome) ⭐ 500,891 | 🐛 105 | 📅 2026-08-21 list.
 
 ## Contents
 
@@ -146,9 +146,9 @@ Inspired by the [awesome](https://github.com/sindresorhus/awesome) ⭐ 500,827 |
 
 **Cost:** N/A
 
-**Link:** <https://github.com/autopkg/autopkg> ⭐ 1,475 | 🐛 68 | 🌐 Python | 📅 2026-08-17
+**Link:** <https://github.com/autopkg/autopkg> ⭐ 1,475 | 🐛 69 | 🌐 Python | 📅 2026-08-17
 
-[![](images/autopkg.png)](https://github.com/autopkg/autopkg) ⭐ 1,475 | 🐛 68 | 🌐 Python | 📅 2026-08-17
+[![](images/autopkg.png)](https://github.com/autopkg/autopkg) ⭐ 1,475 | 🐛 69 | 🌐 Python | 📅 2026-08-17
 
 ### AutoPkgr
 
@@ -340,9 +340,9 @@ Inspired by the [awesome](https://github.com/sindresorhus/awesome) ⭐ 500,827 |
 
 **Cost:** N/A
 
-**Link:** <https://github.com/Jamf-Concepts/Setup-Manager> ⭐ 371 | 🐛 44 | 📅 2026-07-09
+**Link:** <https://github.com/Jamf-Concepts/Setup-Manager> ⭐ 371 | 🐛 45 | 📅 2026-07-09
 
-[![](https://github.com/Jamf-Concepts/Setup-Manager/raw/main/Images/setup-manager-progress-screenshot.png)](https://github.com/Jamf-Concepts/Setup-Manager) ⭐ 371 | 🐛 44 | 📅 2026-07-09
+[![](https://github.com/Jamf-Concepts/Setup-Manager/raw/main/Images/setup-manager-progress-screenshot.png)](https://github.com/Jamf-Concepts/Setup-Manager) ⭐ 371 | 🐛 45 | 📅 2026-07-09
 
 ### Octory
 
@@ -530,7 +530,7 @@ Inspired by the [awesome](https://github.com/sindresorhus/awesome) ⭐ 500,827 |
 
 ### Jamf Compliance Editor
 
-> Jamf Compliance Editor is a tool that provides macOS system administrators with an easy way to establish and manage compliance baselines on their fleet of macOS devices. This tool is built on the foundations of the [macOS Security Compliance Project](https://github.com/usnistgov/macos_security) ⭐ 2,455 | 🐛 21 | 🌐 YAML | 📅 2026-08-26, hosted by the United States government agency, NIST, in their Github repo.
+> Jamf Compliance Editor is a tool that provides macOS system administrators with an easy way to establish and manage compliance baselines on their fleet of macOS devices. This tool is built on the foundations of the [macOS Security Compliance Project](https://github.com/usnistgov/macos_security) ⭐ 2,456 | 🐛 20 | 🌐 YAML | 📅 2026-08-29, hosted by the United States government agency, NIST, in their Github repo.
 
 **Cost:** N/A
 
@@ -554,9 +554,9 @@ Inspired by the [awesome](https://github.com/sindresorhus/awesome) ⭐ 500,827 |
 
 **Cost:** N/A
 
-**Link:** <https://github.com/usnistgov/macos_security> ⭐ 2,455 | 🐛 21 | 🌐 YAML | 📅 2026-08-26
+**Link:** <https://github.com/usnistgov/macos_security> ⭐ 2,456 | 🐛 20 | 🌐 YAML | 📅 2026-08-29
 
-[![](images/mscp.png)](https://github.com/usnistgov/macos_security) ⭐ 2,455 | 🐛 21 | 🌐 YAML | 📅 2026-08-26
+[![](images/mscp.png)](https://github.com/usnistgov/macos_security) ⭐ 2,456 | 🐛 20 | 🌐 YAML | 📅 2026-08-29
 
 ### The MUT
 
@@ -626,7 +626,7 @@ Inspired by the [awesome](https://github.com/sindresorhus/awesome) ⭐ 500,827 |
 
 **Link:** <https://rectangleapp.com/>
 
-[![](https://user-images.githubusercontent.com/13651296/101402672-57ab5300-38d4-11eb-9e8c-6a3147d26711.png)](https://github.com/rxhanson/Rectangle) ⭐ 29,764 | 🐛 109 | 🌐 Swift | 📅 2026-08-26
+[![](https://user-images.githubusercontent.com/13651296/101402672-57ab5300-38d4-11eb-9e8c-6a3147d26711.png)](https://github.com/rxhanson/Rectangle) ⭐ 29,764 | 🐛 110 | 🌐 Swift | 📅 2026-08-26
 
 ### Script2Pkg
 
@@ -708,4 +708,4 @@ To the extent possible under law, [Emily Kausalik](https://twitter.com/emilyooo)
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-08-28._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-08-29._
