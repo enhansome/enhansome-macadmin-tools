@@ -21,7 +21,7 @@
                 "open_issues": 12,
                 "owner": "grahampugh",
                 "repo": "erase-install",
-                "stars": 945,
+                "stars": 946,
                 "topics": [
                   "apple",
                   "erase",
@@ -113,7 +113,7 @@
                 "open_issues": 70,
                 "owner": "ninxsoft",
                 "repo": "Mist",
-                "stars": 5181,
+                "stars": 5185,
                 "topics": []
               },
               "first_seen": "2026-08-28T20:57:11.657Z"
@@ -441,7 +441,7 @@
                 "open_issues": 8,
                 "owner": "ninxsoft",
                 "repo": "LowProfile",
-                "stars": 432,
+                "stars": 433,
                 "topics": []
               },
               "first_seen": "2026-08-28T20:57:11.657Z"
@@ -581,7 +581,7 @@
                 "open_issues": 6,
                 "owner": "SecondSonConsulting",
                 "repo": "Baseline",
-                "stars": 356,
+                "stars": 357,
                 "topics": [
                   "installomator",
                   "macos",
@@ -772,7 +772,7 @@
                 "language": "C",
                 "license": "Apache-2.0",
                 "last_commit": "2026-08-03T08:27:09Z",
-                "open_issues": 1,
+                "open_issues": 0,
                 "owner": "SAP",
                 "repo": "macOS-icon-generator",
                 "stars": 634,
@@ -1103,7 +1103,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-30T14:27:39.937Z",
+    "last_updated": "2026-08-31T17:08:05.624Z",
     "original_repository_info": {
       "archived": false,
       "description": "🕶 Awesome Mac Admin Tools list",
