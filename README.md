@@ -2,7 +2,7 @@
 
 > A curated list of handy-dandy tools for Mac Admins.
 
-Inspired by the [awesome](https://github.com/sindresorhus/awesome) ⭐ 501,646 | 🐛 105 | 📅 2026-08-21 list.
+Inspired by the [awesome](https://github.com/sindresorhus/awesome) ⭐ 501,932 | 🐛 105 | 📅 2026-08-21 list.
 
 ## Contents
 
@@ -24,9 +24,9 @@ Inspired by the [awesome](https://github.com/sindresorhus/awesome) ⭐ 501,646 |
 
 **Cost:** N/A
 
-**Link:** <https://github.com/grahampugh/erase-install> ⭐ 946 | 🐛 12 | 🌐 Shell | 📅 2026-08-28
+**Link:** <https://github.com/grahampugh/erase-install> ⭐ 947 | 🐛 12 | 🌐 Shell | 📅 2026-08-28
 
-[![](images/erase-install.png)](https://github.com/grahampugh/erase-install) ⭐ 946 | 🐛 12 | 🌐 Shell | 📅 2026-08-28
+[![](images/erase-install.png)](https://github.com/grahampugh/erase-install) ⭐ 947 | 🐛 12 | 🌐 Shell | 📅 2026-08-28
 
 ### getmacosipsws.py
 
@@ -54,9 +54,9 @@ Inspired by the [awesome](https://github.com/sindresorhus/awesome) ⭐ 501,646 |
 
 **Cost:** N/A
 
-**Link:** <https://github.com/ninxsoft/Mist> ⭐ 5,185 | 🐛 70 | 🌐 Swift | 📅 2026-07-07
+**Link:** <https://github.com/ninxsoft/Mist> ⭐ 5,191 | 🐛 71 | 🌐 Swift | 📅 2026-07-07
 
-[![](https://github.com/ninxsoft/Mist/raw/main/README%20Resources/Installers.png)](https://github.com/ninxsoft/Mist) ⭐ 5,185 | 🐛 70 | 🌐 Swift | 📅 2026-07-07
+[![](https://github.com/ninxsoft/Mist/raw/main/README%20Resources/Installers.png)](https://github.com/ninxsoft/Mist) ⭐ 5,191 | 🐛 71 | 🌐 Swift | 📅 2026-07-07
 
 ### moss
 
@@ -146,9 +146,9 @@ Inspired by the [awesome](https://github.com/sindresorhus/awesome) ⭐ 501,646 |
 
 **Cost:** N/A
 
-**Link:** <https://github.com/autopkg/autopkg> ⭐ 1,475 | 🐛 69 | 🌐 Python | 📅 2026-08-17
+**Link:** <https://github.com/autopkg/autopkg> ⭐ 1,476 | 🐛 69 | 🌐 Python | 📅 2026-08-31
 
-[![](images/autopkg.png)](https://github.com/autopkg/autopkg) ⭐ 1,475 | 🐛 69 | 🌐 Python | 📅 2026-08-17
+[![](images/autopkg.png)](https://github.com/autopkg/autopkg) ⭐ 1,476 | 🐛 69 | 🌐 Python | 📅 2026-08-31
 
 ### AutoPkgr
 
@@ -186,9 +186,9 @@ Inspired by the [awesome](https://github.com/sindresorhus/awesome) ⭐ 501,646 |
 
 **Cost:** N/A
 
-**Link:** <https://github.com/munki/munki-pkg> ⭐ 374 | 🐛 9 | 🌐 Python | 📅 2026-06-09
+**Link:** <https://github.com/munki/munki-pkg> ⚠️ Archived
 
-[![](images/munkipkg.png)](https://github.com/munki/munki-pkg) ⭐ 374 | 🐛 9 | 🌐 Python | 📅 2026-06-09
+[![](images/munkipkg.png)](https://github.com/munki/munki-pkg) ⚠️ Archived
 
 ### Nudge
 
@@ -340,9 +340,9 @@ Inspired by the [awesome](https://github.com/sindresorhus/awesome) ⭐ 501,646 |
 
 **Cost:** N/A
 
-**Link:** <https://github.com/Jamf-Concepts/Setup-Manager> ⭐ 371 | 🐛 46 | 📅 2026-07-09
+**Link:** <https://github.com/Jamf-Concepts/Setup-Manager> ⭐ 372 | 🐛 46 | 📅 2026-07-09
 
-[![](https://github.com/Jamf-Concepts/Setup-Manager/raw/main/Images/setup-manager-progress-screenshot.png)](https://github.com/Jamf-Concepts/Setup-Manager) ⭐ 371 | 🐛 46 | 📅 2026-07-09
+[![](https://github.com/Jamf-Concepts/Setup-Manager/raw/main/Images/setup-manager-progress-screenshot.png)](https://github.com/Jamf-Concepts/Setup-Manager) ⭐ 372 | 🐛 46 | 📅 2026-07-09
 
 ### Octory
 
@@ -530,7 +530,7 @@ Inspired by the [awesome](https://github.com/sindresorhus/awesome) ⭐ 501,646 |
 
 ### Jamf Compliance Editor
 
-> Jamf Compliance Editor is a tool that provides macOS system administrators with an easy way to establish and manage compliance baselines on their fleet of macOS devices. This tool is built on the foundations of the [macOS Security Compliance Project](https://github.com/usnistgov/macos_security) ⭐ 2,456 | 🐛 20 | 🌐 YAML | 📅 2026-08-29, hosted by the United States government agency, NIST, in their Github repo.
+> Jamf Compliance Editor is a tool that provides macOS system administrators with an easy way to establish and manage compliance baselines on their fleet of macOS devices. This tool is built on the foundations of the [macOS Security Compliance Project](https://github.com/usnistgov/macos_security) ⭐ 2,458 | 🐛 20 | 🌐 YAML | 📅 2026-08-29, hosted by the United States government agency, NIST, in their Github repo.
 
 **Cost:** N/A
 
@@ -544,9 +544,9 @@ Inspired by the [awesome](https://github.com/sindresorhus/awesome) ⭐ 501,646 |
 
 **Cost:** N/A
 
-**Link:** <https://github.com/jamf/JamfMigrator> ⭐ 185 | 🐛 19 | 🌐 Swift | 📅 2026-02-02
+**Link:** <https://github.com/jamf/JamfMigrator> ⭐ 186 | 🐛 19 | 🌐 Swift | 📅 2026-02-02
 
-[![](images/jamfmigrator.png)](https://github.com/jamf/JamfMigrator) ⭐ 185 | 🐛 19 | 🌐 Swift | 📅 2026-02-02
+[![](images/jamfmigrator.png)](https://github.com/jamf/JamfMigrator) ⭐ 186 | 🐛 19 | 🌐 Swift | 📅 2026-02-02
 
 ### macOS Security Compliance Project
 
@@ -554,9 +554,9 @@ Inspired by the [awesome](https://github.com/sindresorhus/awesome) ⭐ 501,646 |
 
 **Cost:** N/A
 
-**Link:** <https://github.com/usnistgov/macos_security> ⭐ 2,456 | 🐛 20 | 🌐 YAML | 📅 2026-08-29
+**Link:** <https://github.com/usnistgov/macos_security> ⭐ 2,458 | 🐛 20 | 🌐 YAML | 📅 2026-08-29
 
-[![](images/mscp.png)](https://github.com/usnistgov/macos_security) ⭐ 2,456 | 🐛 20 | 🌐 YAML | 📅 2026-08-29
+[![](images/mscp.png)](https://github.com/usnistgov/macos_security) ⭐ 2,458 | 🐛 20 | 🌐 YAML | 📅 2026-08-29
 
 ### The MUT
 
@@ -626,7 +626,7 @@ Inspired by the [awesome](https://github.com/sindresorhus/awesome) ⭐ 501,646 |
 
 **Link:** <https://rectangleapp.com/>
 
-[![](https://user-images.githubusercontent.com/13651296/101402672-57ab5300-38d4-11eb-9e8c-6a3147d26711.png)](https://github.com/rxhanson/Rectangle) ⭐ 29,792 | 🐛 104 | 🌐 Swift | 📅 2026-08-31
+[![](https://user-images.githubusercontent.com/13651296/101402672-57ab5300-38d4-11eb-9e8c-6a3147d26711.png)](https://github.com/rxhanson/Rectangle) ⭐ 29,799 | 🐛 104 | 🌐 Swift | 📅 2026-08-31
 
 ### Script2Pkg
 
@@ -708,4 +708,4 @@ To the extent possible under law, [Emily Kausalik](https://twitter.com/emilyooo)
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-08-31._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-09-01._

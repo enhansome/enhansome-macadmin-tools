@@ -21,7 +21,7 @@
                 "open_issues": 12,
                 "owner": "grahampugh",
                 "repo": "erase-install",
-                "stars": 946,
+                "stars": 947,
                 "topics": [
                   "apple",
                   "erase",
@@ -110,10 +110,10 @@
                 "language": "Swift",
                 "license": "MIT",
                 "last_commit": "2026-07-07T18:48:06Z",
-                "open_issues": 70,
+                "open_issues": 71,
                 "owner": "ninxsoft",
                 "repo": "Mist",
-                "stars": 5185,
+                "stars": 5191,
                 "topics": []
               },
               "first_seen": "2026-08-28T20:57:11.657Z"
@@ -372,11 +372,11 @@
                 "id": 11913841,
                 "language": "Python",
                 "license": "NOASSERTION",
-                "last_commit": "2026-08-17T20:52:46Z",
+                "last_commit": "2026-08-31T20:40:33Z",
                 "open_issues": 69,
                 "owner": "autopkg",
                 "repo": "autopkg",
-                "stars": 1475,
+                "stars": 1476,
                 "topics": [
                   "apple",
                   "automation",
@@ -459,14 +459,14 @@
               "description": null,
               "children": [],
               "repo_info": {
-                "archived": false,
+                "archived": true,
                 "description": "Repo for the munkipkg tool and example projects",
                 "homepage": null,
                 "id": 39786236,
                 "language": "Python",
                 "license": "NOASSERTION",
-                "last_commit": "2026-06-09T20:51:08Z",
-                "open_issues": 9,
+                "last_commit": "2026-09-01T00:09:57Z",
+                "open_issues": 0,
                 "owner": "munki",
                 "repo": "munki-pkg",
                 "stars": 374,
@@ -809,7 +809,7 @@
                 "open_issues": 19,
                 "owner": "jamf",
                 "repo": "Replicator",
-                "stars": 185,
+                "stars": 186,
                 "topics": []
               },
               "first_seen": "2026-08-28T20:57:11.657Z"
@@ -837,7 +837,7 @@
                 "open_issues": 20,
                 "owner": "usnistgov",
                 "repo": "macos_security",
-                "stars": 2456,
+                "stars": 2458,
                 "topics": [
                   "apple",
                   "bash",
@@ -1103,7 +1103,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-31T17:08:05.624Z",
+    "last_updated": "2026-09-01T14:12:51.283Z",
     "original_repository_info": {
       "archived": false,
       "description": "🕶 Awesome Mac Admin Tools list",
