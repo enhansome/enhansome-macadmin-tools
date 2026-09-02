@@ -113,7 +113,7 @@
                 "open_issues": 71,
                 "owner": "ninxsoft",
                 "repo": "Mist",
-                "stars": 5191,
+                "stars": 5197,
                 "topics": []
               },
               "first_seen": "2026-08-28T20:57:11.657Z"
@@ -497,7 +497,7 @@
                 "open_issues": 8,
                 "owner": "macadmins",
                 "repo": "nudge",
-                "stars": 1269,
+                "stars": 1270,
                 "topics": []
               },
               "first_seen": "2026-08-28T20:57:11.657Z"
@@ -775,7 +775,7 @@
                 "open_issues": 0,
                 "owner": "SAP",
                 "repo": "macOS-icon-generator",
-                "stars": 634,
+                "stars": 635,
                 "topics": [
                   "customization",
                   "icons",
@@ -834,7 +834,7 @@
                 "language": "YAML",
                 "license": "NOASSERTION",
                 "last_commit": "2026-08-29T02:00:08Z",
-                "open_issues": 20,
+                "open_issues": 22,
                 "owner": "usnistgov",
                 "repo": "macos_security",
                 "stars": 2458,
@@ -874,7 +874,7 @@
                 "open_issues": 5,
                 "owner": "jamf",
                 "repo": "PPPC-Utility",
-                "stars": 875,
+                "stars": 876,
                 "topics": [
                   "app",
                   "configuration-profiles",
@@ -1103,7 +1103,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-01T14:12:51.283Z",
+    "last_updated": "2026-09-02T13:44:49.586Z",
     "original_repository_info": {
       "archived": false,
       "description": "🕶 Awesome Mac Admin Tools list",
@@ -1115,7 +1115,7 @@
       "open_issues": 14,
       "owner": "smashism",
       "repo": "awesome-macadmin-tools",
-      "stars": 676,
+      "stars": 678,
       "topics": [
         "awesome",
         "awesome-list",
