@@ -2,7 +2,7 @@
 
 > A curated list of handy-dandy tools for Mac Admins.
 
-Inspired by the [awesome](https://github.com/sindresorhus/awesome) ⭐ 502,598 | 🐛 105 | 📅 2026-09-02 list.
+Inspired by the [awesome](https://github.com/sindresorhus/awesome) ⭐ 502,900 | 🐛 106 | 📅 2026-09-02 list.
 
 ## Contents
 
@@ -24,9 +24,9 @@ Inspired by the [awesome](https://github.com/sindresorhus/awesome) ⭐ 502,598 |
 
 **Cost:** N/A
 
-**Link:** <https://github.com/grahampugh/erase-install> ⭐ 947 | 🐛 12 | 🌐 Shell | 📅 2026-08-28
+**Link:** <https://github.com/grahampugh/erase-install> ⭐ 949 | 🐛 12 | 🌐 Shell | 📅 2026-08-28
 
-[![](images/erase-install.png)](https://github.com/grahampugh/erase-install) ⭐ 947 | 🐛 12 | 🌐 Shell | 📅 2026-08-28
+[![](images/erase-install.png)](https://github.com/grahampugh/erase-install) ⭐ 949 | 🐛 12 | 🌐 Shell | 📅 2026-08-28
 
 ### getmacosipsws.py
 
@@ -54,9 +54,9 @@ Inspired by the [awesome](https://github.com/sindresorhus/awesome) ⭐ 502,598 |
 
 **Cost:** N/A
 
-**Link:** <https://github.com/ninxsoft/Mist> ⭐ 5,199 | 🐛 71 | 🌐 Swift | 📅 2026-07-07
+**Link:** <https://github.com/ninxsoft/Mist> ⭐ 5,200 | 🐛 71 | 🌐 Swift | 📅 2026-07-07
 
-[![](https://github.com/ninxsoft/Mist/raw/main/README%20Resources/Installers.png)](https://github.com/ninxsoft/Mist) ⭐ 5,199 | 🐛 71 | 🌐 Swift | 📅 2026-07-07
+[![](https://github.com/ninxsoft/Mist/raw/main/README%20Resources/Installers.png)](https://github.com/ninxsoft/Mist) ⭐ 5,200 | 🐛 71 | 🌐 Swift | 📅 2026-07-07
 
 ### moss
 
@@ -84,9 +84,9 @@ Inspired by the [awesome](https://github.com/sindresorhus/awesome) ⭐ 502,598 |
 
 **Cost:** N/A
 
-**Link:** <https://github.com/Honestpuck/scriptorium> ⭐ 58 | 🐛 0 | 🌐 Python | 📅 2023-07-26
+**Link:** <https://github.com/Honestpuck/scriptorium> ⭐ 59 | 🐛 0 | 🌐 Python | 📅 2023-07-26
 
-[![](images/scriptorium.png)](https://github.com/Honestpuck/scriptorium) ⭐ 58 | 🐛 0 | 🌐 Python | 📅 2023-07-26
+[![](images/scriptorium.png)](https://github.com/Honestpuck/scriptorium) ⭐ 59 | 🐛 0 | 🌐 Python | 📅 2023-07-26
 
 ### S.U.P.E.R.M.A.N.
 
@@ -94,9 +94,9 @@ Inspired by the [awesome](https://github.com/sindresorhus/awesome) ⭐ 502,598 |
 
 **Cost:** N/A
 
-**Link:** <https://github.com/Macjutsu/super> ⭐ 890 | 🐛 24 | 🌐 Shell | 📅 2026-07-21
+**Link:** <https://github.com/Macjutsu/super> ⭐ 891 | 🐛 24 | 🌐 Shell | 📅 2026-07-21
 
-[![](https://github.com/Macjutsu/super/raw/main/Images/UpdateExample.png)](https://github.com/Macjutsu/super) ⭐ 890 | 🐛 24 | 🌐 Shell | 📅 2026-07-21
+[![](https://github.com/Macjutsu/super/raw/main/Images/UpdateExample.png)](https://github.com/Macjutsu/super) ⭐ 891 | 🐛 24 | 🌐 Shell | 📅 2026-07-21
 
 ### Stronghold
 
@@ -196,9 +196,9 @@ Inspired by the [awesome](https://github.com/sindresorhus/awesome) ⭐ 502,598 |
 
 **Cost:** N/A
 
-**Link:** <https://github.com/macadmins/nudge> ⭐ 1,270 | 🐛 8 | 🌐 Swift | 📅 2026-05-07
+**Link:** <https://github.com/macadmins/nudge> ⭐ 1,271 | 🐛 8 | 🌐 Swift | 📅 2026-05-07
 
-[![](https://github.com/macadmins/nudge/blob/main/assets/standard_mode/demo_light_1_icon.png?raw=true)](https://github.com/macadmins/nudge) ⭐ 1,270 | 🐛 8 | 🌐 Swift | 📅 2026-05-07
+[![](https://github.com/macadmins/nudge/blob/main/assets/standard_mode/demo_light_1_icon.png?raw=true)](https://github.com/macadmins/nudge) ⭐ 1,271 | 🐛 8 | 🌐 Swift | 📅 2026-05-07
 
 ### Packages.app
 
@@ -340,9 +340,9 @@ Inspired by the [awesome](https://github.com/sindresorhus/awesome) ⭐ 502,598 |
 
 **Cost:** N/A
 
-**Link:** <https://github.com/Jamf-Concepts/Setup-Manager> ⭐ 373 | 🐛 47 | 📅 2026-07-09
+**Link:** <https://github.com/Jamf-Concepts/Setup-Manager> ⭐ 373 | 🐛 48 | 📅 2026-07-09
 
-[![](https://github.com/Jamf-Concepts/Setup-Manager/raw/main/Images/setup-manager-progress-screenshot.png)](https://github.com/Jamf-Concepts/Setup-Manager) ⭐ 373 | 🐛 47 | 📅 2026-07-09
+[![](https://github.com/Jamf-Concepts/Setup-Manager/raw/main/Images/setup-manager-progress-screenshot.png)](https://github.com/Jamf-Concepts/Setup-Manager) ⭐ 373 | 🐛 48 | 📅 2026-07-09
 
 ### Octory
 
@@ -530,7 +530,7 @@ Inspired by the [awesome](https://github.com/sindresorhus/awesome) ⭐ 502,598 |
 
 ### Jamf Compliance Editor
 
-> Jamf Compliance Editor is a tool that provides macOS system administrators with an easy way to establish and manage compliance baselines on their fleet of macOS devices. This tool is built on the foundations of the [macOS Security Compliance Project](https://github.com/usnistgov/macos_security) ⭐ 2,459 | 🐛 20 | 🌐 YAML | 📅 2026-09-02, hosted by the United States government agency, NIST, in their Github repo.
+> Jamf Compliance Editor is a tool that provides macOS system administrators with an easy way to establish and manage compliance baselines on their fleet of macOS devices. This tool is built on the foundations of the [macOS Security Compliance Project](https://github.com/usnistgov/macos_security) ⭐ 2,460 | 🐛 21 | 🌐 YAML | 📅 2026-09-03, hosted by the United States government agency, NIST, in their Github repo.
 
 **Cost:** N/A
 
@@ -554,9 +554,9 @@ Inspired by the [awesome](https://github.com/sindresorhus/awesome) ⭐ 502,598 |
 
 **Cost:** N/A
 
-**Link:** <https://github.com/usnistgov/macos_security> ⭐ 2,459 | 🐛 20 | 🌐 YAML | 📅 2026-09-02
+**Link:** <https://github.com/usnistgov/macos_security> ⭐ 2,460 | 🐛 21 | 🌐 YAML | 📅 2026-09-03
 
-[![](images/mscp.png)](https://github.com/usnistgov/macos_security) ⭐ 2,459 | 🐛 20 | 🌐 YAML | 📅 2026-09-02
+[![](images/mscp.png)](https://github.com/usnistgov/macos_security) ⭐ 2,460 | 🐛 21 | 🌐 YAML | 📅 2026-09-03
 
 ### The MUT
 
@@ -626,7 +626,7 @@ Inspired by the [awesome](https://github.com/sindresorhus/awesome) ⭐ 502,598 |
 
 **Link:** <https://rectangleapp.com/>
 
-[![](https://user-images.githubusercontent.com/13651296/101402672-57ab5300-38d4-11eb-9e8c-6a3147d26711.png)](https://github.com/rxhanson/Rectangle) ⭐ 29,813 | 🐛 63 | 🌐 Swift | 📅 2026-09-02
+[![](https://user-images.githubusercontent.com/13651296/101402672-57ab5300-38d4-11eb-9e8c-6a3147d26711.png)](https://github.com/rxhanson/Rectangle) ⭐ 29,821 | 🐛 61 | 🌐 Swift | 📅 2026-09-03
 
 ### Script2Pkg
 
@@ -708,4 +708,4 @@ To the extent possible under law, [Emily Kausalik](https://twitter.com/emilyooo)
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-09-03._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-09-04._
