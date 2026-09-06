@@ -21,7 +21,7 @@
                 "open_issues": 12,
                 "owner": "grahampugh",
                 "repo": "erase-install",
-                "stars": 949,
+                "stars": 950,
                 "topics": [
                   "apple",
                   "erase",
@@ -441,7 +441,7 @@
                 "open_issues": 8,
                 "owner": "ninxsoft",
                 "repo": "LowProfile",
-                "stars": 434,
+                "stars": 435,
                 "topics": []
               },
               "first_seen": "2026-08-28T20:57:11.657Z"
@@ -936,7 +936,7 @@
                 "id": 231824166,
                 "language": "Swift",
                 "license": "MIT",
-                "last_commit": "2026-08-03T13:36:39Z",
+                "last_commit": "2026-09-05T13:18:37Z",
                 "open_issues": 13,
                 "owner": "BIG-RAT",
                 "repo": "Prune",
@@ -1103,7 +1103,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-05T12:52:00.766Z",
+    "last_updated": "2026-09-06T12:57:51.716Z",
     "original_repository_info": {
       "archived": false,
       "description": "🕶 Awesome Mac Admin Tools list",
