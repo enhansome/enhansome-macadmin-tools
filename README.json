@@ -113,7 +113,7 @@
                 "open_issues": 71,
                 "owner": "ninxsoft",
                 "repo": "Mist",
-                "stars": 5203,
+                "stars": 5204,
                 "topics": []
               },
               "first_seen": "2026-08-28T20:57:11.657Z"
@@ -273,7 +273,7 @@
                 "open_issues": 10,
                 "owner": "alichtman",
                 "repo": "stronghold",
-                "stars": 1191,
+                "stars": 1192,
                 "topics": [
                   "command-line",
                   "command-line-tool",
@@ -410,7 +410,7 @@
                 "language": "Objective-C",
                 "license": "Apache-2.0",
                 "last_commit": "2026-07-17T19:22:13Z",
-                "open_issues": 13,
+                "open_issues": 12,
                 "owner": "lindegroup",
                 "repo": "autopkgr",
                 "stars": 568,
@@ -874,7 +874,7 @@
                 "open_issues": 5,
                 "owner": "jamf",
                 "repo": "PPPC-Utility",
-                "stars": 876,
+                "stars": 877,
                 "topics": [
                   "app",
                   "configuration-profiles",
@@ -1103,7 +1103,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-06T12:57:51.716Z",
+    "last_updated": "2026-09-07T15:07:20.907Z",
     "original_repository_info": {
       "archived": false,
       "description": "🕶 Awesome Mac Admin Tools list",
@@ -1115,7 +1115,7 @@
       "open_issues": 14,
       "owner": "smashism",
       "repo": "awesome-macadmin-tools",
-      "stars": 679,
+      "stars": 680,
       "topics": [
         "awesome",
         "awesome-list",
