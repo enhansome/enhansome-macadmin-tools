@@ -113,7 +113,7 @@
                 "open_issues": 71,
                 "owner": "ninxsoft",
                 "repo": "Mist",
-                "stars": 5204,
+                "stars": 5206,
                 "topics": []
               },
               "first_seen": "2026-08-28T20:57:11.657Z"
@@ -373,10 +373,10 @@
                 "language": "Python",
                 "license": "NOASSERTION",
                 "last_commit": "2026-08-31T20:40:33Z",
-                "open_issues": 72,
+                "open_issues": 71,
                 "owner": "autopkg",
                 "repo": "autopkg",
-                "stars": 1476,
+                "stars": 1477,
                 "topics": [
                   "apple",
                   "automation",
@@ -837,7 +837,7 @@
                 "open_issues": 18,
                 "owner": "usnistgov",
                 "repo": "macos_security",
-                "stars": 2460,
+                "stars": 2461,
                 "topics": [
                   "apple",
                   "bash",
@@ -1001,7 +1001,7 @@
                 "open_issues": 16,
                 "owner": "hjuutilainen",
                 "repo": "sus-inspector",
-                "stars": 423,
+                "stars": 424,
                 "topics": [
                   "macadmin",
                   "macos"
@@ -1103,7 +1103,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-07T15:07:20.907Z",
+    "last_updated": "2026-09-08T13:43:21.054Z",
     "original_repository_info": {
       "archived": false,
       "description": "🕶 Awesome Mac Admin Tools list",
