@@ -113,7 +113,7 @@
                 "open_issues": 71,
                 "owner": "ninxsoft",
                 "repo": "Mist",
-                "stars": 5206,
+                "stars": 5208,
                 "topics": []
               },
               "first_seen": "2026-08-28T20:57:11.657Z"
@@ -230,7 +230,7 @@
                 "open_issues": 24,
                 "owner": "Macjutsu",
                 "repo": "super",
-                "stars": 891,
+                "stars": 892,
                 "topics": [
                   "apple",
                   "compliance",
@@ -273,7 +273,7 @@
                 "open_issues": 10,
                 "owner": "alichtman",
                 "repo": "stronghold",
-                "stars": 1192,
+                "stars": 1191,
                 "topics": [
                   "command-line",
                   "command-line-tool",
@@ -376,7 +376,7 @@
                 "open_issues": 71,
                 "owner": "autopkg",
                 "repo": "autopkg",
-                "stars": 1477,
+                "stars": 1479,
                 "topics": [
                   "apple",
                   "automation",
@@ -493,11 +493,11 @@
                 "id": 335457412,
                 "language": "Swift",
                 "license": "Apache-2.0",
-                "last_commit": "2026-05-07T16:51:56Z",
-                "open_issues": 8,
+                "last_commit": "2026-09-08T16:23:16Z",
+                "open_issues": 9,
                 "owner": "macadmins",
                 "repo": "nudge",
-                "stars": 1271,
+                "stars": 1272,
                 "topics": []
               },
               "first_seen": "2026-08-28T20:57:11.657Z"
@@ -614,7 +614,7 @@
                 "open_issues": 2,
                 "owner": "Mac-Nerd",
                 "repo": "patchomator",
-                "stars": 144,
+                "stars": 143,
                 "topics": []
               },
               "first_seen": "2026-08-28T20:57:11.657Z"
@@ -834,7 +834,7 @@
                 "language": "YAML",
                 "license": "NOASSERTION",
                 "last_commit": "2026-09-05T01:08:42Z",
-                "open_issues": 18,
+                "open_issues": 20,
                 "owner": "usnistgov",
                 "repo": "macos_security",
                 "stars": 2461,
@@ -874,7 +874,7 @@
                 "open_issues": 5,
                 "owner": "jamf",
                 "repo": "PPPC-Utility",
-                "stars": 877,
+                "stars": 879,
                 "topics": [
                   "app",
                   "configuration-profiles",
@@ -1103,7 +1103,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-08T13:43:21.054Z",
+    "last_updated": "2026-09-09T13:47:31.563Z",
     "original_repository_info": {
       "archived": false,
       "description": "🕶 Awesome Mac Admin Tools list",
