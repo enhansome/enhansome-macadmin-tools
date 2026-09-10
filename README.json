@@ -17,8 +17,8 @@
                 "id": 140421285,
                 "language": "Shell",
                 "license": "Apache-2.0",
-                "last_commit": "2026-08-28T20:03:41Z",
-                "open_issues": 12,
+                "last_commit": "2026-09-09T21:41:53Z",
+                "open_issues": 11,
                 "owner": "grahampugh",
                 "repo": "erase-install",
                 "stars": 950,
@@ -113,7 +113,7 @@
                 "open_issues": 71,
                 "owner": "ninxsoft",
                 "repo": "Mist",
-                "stars": 5208,
+                "stars": 5212,
                 "topics": []
               },
               "first_seen": "2026-08-28T20:57:11.657Z"
@@ -525,7 +525,7 @@
                 "open_issues": 1,
                 "owner": "rtrouton",
                 "repo": "Payload-Free-Package-Creator",
-                "stars": 216,
+                "stars": 217,
                 "topics": []
               },
               "first_seen": "2026-08-28T20:57:11.657Z"
@@ -833,8 +833,8 @@
                 "id": 269753140,
                 "language": "YAML",
                 "license": "NOASSERTION",
-                "last_commit": "2026-09-05T01:08:42Z",
-                "open_issues": 20,
+                "last_commit": "2026-09-10T13:35:14Z",
+                "open_issues": 21,
                 "owner": "usnistgov",
                 "repo": "macos_security",
                 "stars": 2461,
@@ -874,7 +874,7 @@
                 "open_issues": 5,
                 "owner": "jamf",
                 "repo": "PPPC-Utility",
-                "stars": 879,
+                "stars": 880,
                 "topics": [
                   "app",
                   "configuration-profiles",
@@ -1103,7 +1103,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-09T13:47:31.563Z",
+    "last_updated": "2026-09-10T13:42:45.132Z",
     "original_repository_info": {
       "archived": false,
       "description": "🕶 Awesome Mac Admin Tools list",
