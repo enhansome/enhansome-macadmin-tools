@@ -2,7 +2,7 @@
 
 > A curated list of handy-dandy tools for Mac Admins.
 
-Inspired by the [awesome](https://github.com/sindresorhus/awesome) ⭐ 504,709 | 🐛 106 | 📅 2026-09-02 list.
+Inspired by the [awesome](https://github.com/sindresorhus/awesome) ⭐ 505,030 | 🐛 106 | 📅 2026-09-02 list.
 
 ## Contents
 
@@ -24,9 +24,9 @@ Inspired by the [awesome](https://github.com/sindresorhus/awesome) ⭐ 504,709 |
 
 **Cost:** N/A
 
-**Link:** <https://github.com/grahampugh/erase-install> ⭐ 950 | 🐛 11 | 🌐 Shell | 📅 2026-09-09
+**Link:** <https://github.com/grahampugh/erase-install> ⭐ 951 | 🐛 11 | 🌐 Shell | 📅 2026-09-09
 
-[![](images/erase-install.png)](https://github.com/grahampugh/erase-install) ⭐ 950 | 🐛 11 | 🌐 Shell | 📅 2026-09-09
+[![](images/erase-install.png)](https://github.com/grahampugh/erase-install) ⭐ 951 | 🐛 11 | 🌐 Shell | 📅 2026-09-09
 
 ### getmacosipsws.py
 
@@ -54,9 +54,9 @@ Inspired by the [awesome](https://github.com/sindresorhus/awesome) ⭐ 504,709 |
 
 **Cost:** N/A
 
-**Link:** <https://github.com/ninxsoft/Mist> ⭐ 5,212 | 🐛 71 | 🌐 Swift | 📅 2026-07-07
+**Link:** <https://github.com/ninxsoft/Mist> ⭐ 5,216 | 🐛 71 | 🌐 Swift | 📅 2026-07-07
 
-[![](https://github.com/ninxsoft/Mist/raw/main/README%20Resources/Installers.png)](https://github.com/ninxsoft/Mist) ⭐ 5,212 | 🐛 71 | 🌐 Swift | 📅 2026-07-07
+[![](https://github.com/ninxsoft/Mist/raw/main/README%20Resources/Installers.png)](https://github.com/ninxsoft/Mist) ⭐ 5,216 | 🐛 71 | 🌐 Swift | 📅 2026-07-07
 
 ### moss
 
@@ -94,9 +94,9 @@ Inspired by the [awesome](https://github.com/sindresorhus/awesome) ⭐ 504,709 |
 
 **Cost:** N/A
 
-**Link:** <https://github.com/Macjutsu/super> ⭐ 892 | 🐛 24 | 🌐 Shell | 📅 2026-07-21
+**Link:** <https://github.com/Macjutsu/super> ⭐ 894 | 🐛 24 | 🌐 Shell | 📅 2026-07-21
 
-[![](https://github.com/Macjutsu/super/raw/main/Images/UpdateExample.png)](https://github.com/Macjutsu/super) ⭐ 892 | 🐛 24 | 🌐 Shell | 📅 2026-07-21
+[![](https://github.com/Macjutsu/super/raw/main/Images/UpdateExample.png)](https://github.com/Macjutsu/super) ⭐ 894 | 🐛 24 | 🌐 Shell | 📅 2026-07-21
 
 ### Stronghold
 
@@ -124,9 +124,9 @@ Inspired by the [awesome](https://github.com/sindresorhus/awesome) ⭐ 504,709 |
 
 **Cost:** Free
 
-**Link:** <https://github.com/swiftDialog/swiftDialog> ⭐ 844 | 🐛 53 | 🌐 Swift | 📅 2026-08-14
+**Link:** <https://github.com/swiftDialog/swiftDialog> ⭐ 845 | 🐛 53 | 🌐 Swift | 📅 2026-08-14
 
-[![](images/swiftDialog.png)](https://github.com/swiftDialog/swiftDialog) ⭐ 844 | 🐛 53 | 🌐 Swift | 📅 2026-08-14
+[![](images/swiftDialog.png)](https://github.com/swiftDialog/swiftDialog) ⭐ 845 | 🐛 53 | 🌐 Swift | 📅 2026-08-14
 
 ## Deployment
 
@@ -524,13 +524,13 @@ Inspired by the [awesome](https://github.com/sindresorhus/awesome) ⭐ 504,709 |
 
 **Cost:** N/A
 
-**Link:** <https://github.com/SAP/macOS-icon-generator> ⭐ 635 | 🐛 0 | 🌐 C | 📅 2026-08-03
+**Link:** <https://github.com/SAP/macOS-icon-generator> ⭐ 636 | 🐛 0 | 🌐 C | 📅 2026-08-03
 
-[![](https://github.com/SAP/macOS-icon-generator/raw/main/readme_images/drag_and_drop_source_image.gif)](https://github.com/SAP/macOS-icon-generator) ⭐ 635 | 🐛 0 | 🌐 C | 📅 2026-08-03
+[![](https://github.com/SAP/macOS-icon-generator/raw/main/readme_images/drag_and_drop_source_image.gif)](https://github.com/SAP/macOS-icon-generator) ⭐ 636 | 🐛 0 | 🌐 C | 📅 2026-08-03
 
 ### Jamf Compliance Editor
 
-> Jamf Compliance Editor is a tool that provides macOS system administrators with an easy way to establish and manage compliance baselines on their fleet of macOS devices. This tool is built on the foundations of the [macOS Security Compliance Project](https://github.com/usnistgov/macos_security) ⭐ 2,461 | 🐛 21 | 🌐 YAML | 📅 2026-09-10, hosted by the United States government agency, NIST, in their Github repo.
+> Jamf Compliance Editor is a tool that provides macOS system administrators with an easy way to establish and manage compliance baselines on their fleet of macOS devices. This tool is built on the foundations of the [macOS Security Compliance Project](https://github.com/usnistgov/macos_security) ⭐ 2,463 | 🐛 19 | 🌐 YAML | 📅 2026-09-11, hosted by the United States government agency, NIST, in their Github repo.
 
 **Cost:** N/A
 
@@ -554,9 +554,9 @@ Inspired by the [awesome](https://github.com/sindresorhus/awesome) ⭐ 504,709 |
 
 **Cost:** N/A
 
-**Link:** <https://github.com/usnistgov/macos_security> ⭐ 2,461 | 🐛 21 | 🌐 YAML | 📅 2026-09-10
+**Link:** <https://github.com/usnistgov/macos_security> ⭐ 2,463 | 🐛 19 | 🌐 YAML | 📅 2026-09-11
 
-[![](images/mscp.png)](https://github.com/usnistgov/macos_security) ⭐ 2,461 | 🐛 21 | 🌐 YAML | 📅 2026-09-10
+[![](images/mscp.png)](https://github.com/usnistgov/macos_security) ⭐ 2,463 | 🐛 19 | 🌐 YAML | 📅 2026-09-11
 
 ### The MUT
 
@@ -594,9 +594,9 @@ Inspired by the [awesome](https://github.com/sindresorhus/awesome) ⭐ 504,709 |
 
 **Cost:** Free
 
-**Link:** <https://github.com/jamf/PPPC-Utility> ⭐ 880 | 🐛 5 | 🌐 Swift | 📅 2026-08-05
+**Link:** <https://github.com/jamf/PPPC-Utility> ⭐ 881 | 🐛 5 | 🌐 Swift | 📅 2026-08-05
 
-[![](https://github.com/jamf/PPPC-Utility/raw/master/Images/SavingSigned.png)](https://github.com/jamf/PPPC-Utility) ⭐ 880 | 🐛 5 | 🌐 Swift | 📅 2026-08-05
+[![](https://github.com/jamf/PPPC-Utility/raw/master/Images/SavingSigned.png)](https://github.com/jamf/PPPC-Utility) ⭐ 881 | 🐛 5 | 🌐 Swift | 📅 2026-08-05
 
 ### PrinterSetup
 
@@ -626,7 +626,7 @@ Inspired by the [awesome](https://github.com/sindresorhus/awesome) ⭐ 504,709 |
 
 **Link:** <https://rectangleapp.com/>
 
-[![](https://user-images.githubusercontent.com/13651296/101402672-57ab5300-38d4-11eb-9e8c-6a3147d26711.png)](https://github.com/rxhanson/Rectangle) ⭐ 29,869 | 🐛 60 | 🌐 Swift | 📅 2026-09-07
+[![](https://user-images.githubusercontent.com/13651296/101402672-57ab5300-38d4-11eb-9e8c-6a3147d26711.png)](https://github.com/rxhanson/Rectangle) ⭐ 29,880 | 🐛 60 | 🌐 Swift | 📅 2026-09-07
 
 ### Script2Pkg
 
@@ -708,4 +708,4 @@ To the extent possible under law, [Emily Kausalik](https://twitter.com/emilyooo)
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-09-10._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-09-11._
