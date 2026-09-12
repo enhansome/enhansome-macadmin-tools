@@ -21,7 +21,7 @@
                 "open_issues": 11,
                 "owner": "grahampugh",
                 "repo": "erase-install",
-                "stars": 951,
+                "stars": 952,
                 "topics": [
                   "apple",
                   "erase",
@@ -57,7 +57,7 @@
                 "open_issues": 8,
                 "owner": "munki",
                 "repo": "macadmin-scripts",
-                "stars": 2446,
+                "stars": 2447,
                 "topics": []
               },
               "first_seen": "2026-08-28T20:57:11.657Z"
@@ -85,7 +85,7 @@
                 "open_issues": 8,
                 "owner": "munki",
                 "repo": "macadmin-scripts",
-                "stars": 2446,
+                "stars": 2447,
                 "topics": []
               },
               "first_seen": "2026-08-28T20:57:11.657Z"
@@ -113,7 +113,7 @@
                 "open_issues": 71,
                 "owner": "ninxsoft",
                 "repo": "Mist",
-                "stars": 5216,
+                "stars": 5217,
                 "topics": []
               },
               "first_seen": "2026-08-28T20:57:11.657Z"
@@ -376,7 +376,7 @@
                 "open_issues": 71,
                 "owner": "autopkg",
                 "repo": "autopkg",
-                "stars": 1479,
+                "stars": 1480,
                 "topics": [
                   "apple",
                   "automation",
@@ -497,7 +497,7 @@
                 "open_issues": 9,
                 "owner": "macadmins",
                 "repo": "nudge",
-                "stars": 1272,
+                "stars": 1273,
                 "topics": []
               },
               "first_seen": "2026-08-28T20:57:11.657Z"
@@ -553,7 +553,7 @@
                 "open_issues": 76,
                 "owner": "ProfileCreator",
                 "repo": "ProfileCreator",
-                "stars": 1506,
+                "stars": 1507,
                 "topics": []
               },
               "first_seen": "2026-08-28T20:57:11.657Z"
@@ -775,7 +775,7 @@
                 "open_issues": 0,
                 "owner": "SAP",
                 "repo": "macOS-icon-generator",
-                "stars": 636,
+                "stars": 638,
                 "topics": [
                   "customization",
                   "icons",
@@ -833,11 +833,11 @@
                 "id": 269753140,
                 "language": "YAML",
                 "license": "NOASSERTION",
-                "last_commit": "2026-09-11T02:10:32Z",
+                "last_commit": "2026-09-11T19:30:14Z",
                 "open_issues": 19,
                 "owner": "usnistgov",
                 "repo": "macos_security",
-                "stars": 2463,
+                "stars": 2465,
                 "topics": [
                   "apple",
                   "bash",
@@ -874,7 +874,7 @@
                 "open_issues": 5,
                 "owner": "jamf",
                 "repo": "PPPC-Utility",
-                "stars": 881,
+                "stars": 882,
                 "topics": [
                   "app",
                   "configuration-profiles",
@@ -1088,7 +1088,7 @@
                 "open_issues": 76,
                 "owner": "ProfileCreator",
                 "repo": "ProfileCreator",
-                "stars": 1506,
+                "stars": 1507,
                 "topics": []
               },
               "first_seen": "2026-08-28T20:57:11.657Z"
@@ -1103,7 +1103,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-11T13:40:41.106Z",
+    "last_updated": "2026-09-12T12:57:00.220Z",
     "original_repository_info": {
       "archived": false,
       "description": "🕶 Awesome Mac Admin Tools list",
