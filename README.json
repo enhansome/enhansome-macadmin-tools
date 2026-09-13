@@ -113,7 +113,7 @@
                 "open_issues": 71,
                 "owner": "ninxsoft",
                 "repo": "Mist",
-                "stars": 5217,
+                "stars": 5218,
                 "topics": []
               },
               "first_seen": "2026-08-28T20:57:11.657Z"
@@ -837,7 +837,7 @@
                 "open_issues": 19,
                 "owner": "usnistgov",
                 "repo": "macos_security",
-                "stars": 2465,
+                "stars": 2466,
                 "topics": [
                   "apple",
                   "bash",
@@ -1103,7 +1103,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-12T12:57:00.220Z",
+    "last_updated": "2026-09-13T13:50:56.577Z",
     "original_repository_info": {
       "archived": false,
       "description": "🕶 Awesome Mac Admin Tools list",
