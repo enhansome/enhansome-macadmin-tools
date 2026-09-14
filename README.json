@@ -113,7 +113,7 @@
                 "open_issues": 71,
                 "owner": "ninxsoft",
                 "repo": "Mist",
-                "stars": 5218,
+                "stars": 5219,
                 "topics": []
               },
               "first_seen": "2026-08-28T20:57:11.657Z"
@@ -339,7 +339,7 @@
                 "language": "Swift",
                 "license": "MIT",
                 "last_commit": "2026-08-14T07:02:53Z",
-                "open_issues": 53,
+                "open_issues": 54,
                 "owner": "swiftDialog",
                 "repo": "swiftDialog",
                 "stars": 845,
@@ -376,7 +376,7 @@
                 "open_issues": 71,
                 "owner": "autopkg",
                 "repo": "autopkg",
-                "stars": 1480,
+                "stars": 1481,
                 "topics": [
                   "apple",
                   "automation",
@@ -553,7 +553,7 @@
                 "open_issues": 76,
                 "owner": "ProfileCreator",
                 "repo": "ProfileCreator",
-                "stars": 1507,
+                "stars": 1508,
                 "topics": []
               },
               "first_seen": "2026-08-28T20:57:11.657Z"
@@ -837,7 +837,7 @@
                 "open_issues": 19,
                 "owner": "usnistgov",
                 "repo": "macos_security",
-                "stars": 2466,
+                "stars": 2470,
                 "topics": [
                   "apple",
                   "bash",
@@ -1001,7 +1001,7 @@
                 "open_issues": 16,
                 "owner": "hjuutilainen",
                 "repo": "sus-inspector",
-                "stars": 424,
+                "stars": 425,
                 "topics": [
                   "macadmin",
                   "macos"
@@ -1060,7 +1060,7 @@
                 "open_issues": 21,
                 "owner": "sheagcraig",
                 "repo": "yo",
-                "stars": 397,
+                "stars": 398,
                 "topics": []
               },
               "first_seen": "2026-08-28T20:57:11.657Z"
@@ -1088,7 +1088,7 @@
                 "open_issues": 76,
                 "owner": "ProfileCreator",
                 "repo": "ProfileCreator",
-                "stars": 1507,
+                "stars": 1508,
                 "topics": []
               },
               "first_seen": "2026-08-28T20:57:11.657Z"
@@ -1103,7 +1103,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-13T13:50:56.577Z",
+    "last_updated": "2026-09-14T15:56:17.486Z",
     "original_repository_info": {
       "archived": false,
       "description": "🕶 Awesome Mac Admin Tools list",
