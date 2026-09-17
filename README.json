@@ -53,8 +53,8 @@
                 "id": 110171937,
                 "language": "Python",
                 "license": "NOASSERTION",
-                "last_commit": "2025-11-04T17:09:52Z",
-                "open_issues": 9,
+                "last_commit": "2026-09-16T21:59:49Z",
+                "open_issues": 8,
                 "owner": "munki",
                 "repo": "macadmin-scripts",
                 "stars": 2449,
@@ -81,8 +81,8 @@
                 "id": 110171937,
                 "language": "Python",
                 "license": "NOASSERTION",
-                "last_commit": "2025-11-04T17:09:52Z",
-                "open_issues": 9,
+                "last_commit": "2026-09-16T21:59:49Z",
+                "open_issues": 8,
                 "owner": "munki",
                 "repo": "macadmin-scripts",
                 "stars": 2449,
@@ -113,7 +113,7 @@
                 "open_issues": 73,
                 "owner": "ninxsoft",
                 "repo": "Mist",
-                "stars": 5225,
+                "stars": 5228,
                 "topics": []
               },
               "first_seen": "2026-08-28T20:57:11.657Z"
@@ -227,10 +227,10 @@
                 "language": "Shell",
                 "license": "Apache-2.0",
                 "last_commit": "2026-09-15T20:33:23Z",
-                "open_issues": 24,
+                "open_issues": 15,
                 "owner": "Macjutsu",
                 "repo": "super",
-                "stars": 895,
+                "stars": 894,
                 "topics": [
                   "apple",
                   "compliance",
@@ -441,7 +441,7 @@
                 "open_issues": 8,
                 "owner": "ninxsoft",
                 "repo": "LowProfile",
-                "stars": 435,
+                "stars": 436,
                 "topics": []
               },
               "first_seen": "2026-08-28T20:57:11.657Z"
@@ -553,7 +553,7 @@
                 "open_issues": 76,
                 "owner": "ProfileCreator",
                 "repo": "ProfileCreator",
-                "stars": 1509,
+                "stars": 1510,
                 "topics": []
               },
               "first_seen": "2026-08-28T20:57:11.657Z"
@@ -775,7 +775,7 @@
                 "open_issues": 0,
                 "owner": "SAP",
                 "repo": "macOS-icon-generator",
-                "stars": 639,
+                "stars": 640,
                 "topics": [
                   "customization",
                   "icons",
@@ -834,10 +834,10 @@
                 "language": "YAML",
                 "license": "NOASSERTION",
                 "last_commit": "2026-09-15T14:44:37Z",
-                "open_issues": 22,
+                "open_issues": 26,
                 "owner": "usnistgov",
                 "repo": "macos_security",
-                "stars": 2472,
+                "stars": 2473,
                 "topics": [
                   "apple",
                   "bash",
@@ -1088,7 +1088,7 @@
                 "open_issues": 76,
                 "owner": "ProfileCreator",
                 "repo": "ProfileCreator",
-                "stars": 1509,
+                "stars": 1510,
                 "topics": []
               },
               "first_seen": "2026-08-28T20:57:11.657Z"
@@ -1103,7 +1103,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-16T14:15:23.294Z",
+    "last_updated": "2026-09-17T14:20:55.963Z",
     "original_repository_info": {
       "archived": false,
       "description": "🕶 Awesome Mac Admin Tools list",
