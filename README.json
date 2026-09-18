@@ -704,7 +704,7 @@
                 "open_issues": 83,
                 "owner": "root3nl",
                 "repo": "SupportApp",
-                "stars": 794,
+                "stars": 796,
                 "topics": []
               },
               "first_seen": "2026-08-28T20:57:11.657Z"
@@ -775,7 +775,7 @@
                 "open_issues": 0,
                 "owner": "SAP",
                 "repo": "macOS-icon-generator",
-                "stars": 640,
+                "stars": 641,
                 "topics": [
                   "customization",
                   "icons",
@@ -833,11 +833,11 @@
                 "id": 269753140,
                 "language": "YAML",
                 "license": "NOASSERTION",
-                "last_commit": "2026-09-15T14:44:37Z",
-                "open_issues": 26,
+                "last_commit": "2026-09-17T18:55:55Z",
+                "open_issues": 27,
                 "owner": "usnistgov",
                 "repo": "macos_security",
-                "stars": 2473,
+                "stars": 2475,
                 "topics": [
                   "apple",
                   "bash",
@@ -874,7 +874,7 @@
                 "open_issues": 5,
                 "owner": "jamf",
                 "repo": "PPPC-Utility",
-                "stars": 881,
+                "stars": 882,
                 "topics": [
                   "app",
                   "configuration-profiles",
@@ -1103,7 +1103,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-17T14:20:55.963Z",
+    "last_updated": "2026-09-18T13:41:34.150Z",
     "original_repository_info": {
       "archived": false,
       "description": "🕶 Awesome Mac Admin Tools list",
