@@ -113,7 +113,7 @@
                 "open_issues": 73,
                 "owner": "ninxsoft",
                 "repo": "Mist",
-                "stars": 5228,
+                "stars": 5231,
                 "topics": []
               },
               "first_seen": "2026-08-28T20:57:11.657Z"
@@ -230,7 +230,7 @@
                 "open_issues": 15,
                 "owner": "Macjutsu",
                 "repo": "super",
-                "stars": 894,
+                "stars": 895,
                 "topics": [
                   "apple",
                   "compliance",
@@ -273,7 +273,7 @@
                 "open_issues": 10,
                 "owner": "alichtman",
                 "repo": "stronghold",
-                "stars": 1191,
+                "stars": 1192,
                 "topics": [
                   "command-line",
                   "command-line-tool",
@@ -342,7 +342,7 @@
                 "open_issues": 54,
                 "owner": "swiftDialog",
                 "repo": "swiftDialog",
-                "stars": 846,
+                "stars": 847,
                 "topics": []
               },
               "first_seen": "2026-08-28T20:57:11.657Z"
@@ -738,7 +738,7 @@
                 "open_issues": 2,
                 "owner": "macadmins",
                 "repo": "escrow-buddy",
-                "stars": 302,
+                "stars": 303,
                 "topics": [
                   "authorization-plugin",
                   "filevault",
@@ -775,7 +775,7 @@
                 "open_issues": 0,
                 "owner": "SAP",
                 "repo": "macOS-icon-generator",
-                "stars": 641,
+                "stars": 640,
                 "topics": [
                   "customization",
                   "icons",
@@ -833,8 +833,8 @@
                 "id": 269753140,
                 "language": "YAML",
                 "license": "NOASSERTION",
-                "last_commit": "2026-09-17T18:55:55Z",
-                "open_issues": 27,
+                "last_commit": "2026-09-18T19:11:30Z",
+                "open_issues": 19,
                 "owner": "usnistgov",
                 "repo": "macos_security",
                 "stars": 2475,
@@ -1103,7 +1103,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-18T13:41:34.150Z",
+    "last_updated": "2026-09-19T13:14:33.711Z",
     "original_repository_info": {
       "archived": false,
       "description": "🕶 Awesome Mac Admin Tools list",
