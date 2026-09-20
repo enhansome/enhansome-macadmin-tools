@@ -113,7 +113,7 @@
                 "open_issues": 73,
                 "owner": "ninxsoft",
                 "repo": "Mist",
-                "stars": 5231,
+                "stars": 5233,
                 "topics": []
               },
               "first_seen": "2026-08-28T20:57:11.657Z"
@@ -373,7 +373,7 @@
                 "language": "Python",
                 "license": "NOASSERTION",
                 "last_commit": "2026-08-31T20:40:33Z",
-                "open_issues": 72,
+                "open_issues": 71,
                 "owner": "autopkg",
                 "repo": "autopkg",
                 "stars": 1481,
@@ -704,7 +704,7 @@
                 "open_issues": 83,
                 "owner": "root3nl",
                 "repo": "SupportApp",
-                "stars": 796,
+                "stars": 797,
                 "topics": []
               },
               "first_seen": "2026-08-28T20:57:11.657Z"
@@ -775,7 +775,7 @@
                 "open_issues": 0,
                 "owner": "SAP",
                 "repo": "macOS-icon-generator",
-                "stars": 640,
+                "stars": 641,
                 "topics": [
                   "customization",
                   "icons",
@@ -834,10 +834,10 @@
                 "language": "YAML",
                 "license": "NOASSERTION",
                 "last_commit": "2026-09-18T19:11:30Z",
-                "open_issues": 19,
+                "open_issues": 20,
                 "owner": "usnistgov",
                 "repo": "macos_security",
-                "stars": 2475,
+                "stars": 2476,
                 "topics": [
                   "apple",
                   "bash",
@@ -1103,7 +1103,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-19T13:14:33.711Z",
+    "last_updated": "2026-09-20T13:37:37.213Z",
     "original_repository_info": {
       "archived": false,
       "description": "🕶 Awesome Mac Admin Tools list",
