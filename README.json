@@ -21,7 +21,7 @@
                 "open_issues": 11,
                 "owner": "grahampugh",
                 "repo": "erase-install",
-                "stars": 952,
+                "stars": 951,
                 "topics": [
                   "apple",
                   "erase",
@@ -113,7 +113,7 @@
                 "open_issues": 73,
                 "owner": "ninxsoft",
                 "repo": "Mist",
-                "stars": 5233,
+                "stars": 5234,
                 "topics": []
               },
               "first_seen": "2026-08-28T20:57:11.657Z"
@@ -230,7 +230,7 @@
                 "open_issues": 15,
                 "owner": "Macjutsu",
                 "repo": "super",
-                "stars": 895,
+                "stars": 897,
                 "topics": [
                   "apple",
                   "compliance",
@@ -273,7 +273,7 @@
                 "open_issues": 10,
                 "owner": "alichtman",
                 "repo": "stronghold",
-                "stars": 1192,
+                "stars": 1191,
                 "topics": [
                   "command-line",
                   "command-line-tool",
@@ -372,11 +372,11 @@
                 "id": 11913841,
                 "language": "Python",
                 "license": "NOASSERTION",
-                "last_commit": "2026-08-31T20:40:33Z",
+                "last_commit": "2026-09-21T04:10:21Z",
                 "open_issues": 71,
                 "owner": "autopkg",
                 "repo": "autopkg",
-                "stars": 1481,
+                "stars": 1480,
                 "topics": [
                   "apple",
                   "automation",
@@ -413,7 +413,7 @@
                 "open_issues": 12,
                 "owner": "lindegroup",
                 "repo": "autopkgr",
-                "stars": 569,
+                "stars": 567,
                 "topics": []
               },
               "first_seen": "2026-08-28T20:57:11.657Z"
@@ -441,7 +441,7 @@
                 "open_issues": 8,
                 "owner": "ninxsoft",
                 "repo": "LowProfile",
-                "stars": 436,
+                "stars": 435,
                 "topics": []
               },
               "first_seen": "2026-08-28T20:57:11.657Z"
@@ -494,10 +494,10 @@
                 "language": "Swift",
                 "license": "Apache-2.0",
                 "last_commit": "2026-09-08T16:23:16Z",
-                "open_issues": 9,
+                "open_issues": 10,
                 "owner": "macadmins",
                 "repo": "nudge",
-                "stars": 1274,
+                "stars": 1275,
                 "topics": []
               },
               "first_seen": "2026-08-28T20:57:11.657Z"
@@ -614,7 +614,7 @@
                 "open_issues": 2,
                 "owner": "Mac-Nerd",
                 "repo": "patchomator",
-                "stars": 143,
+                "stars": 144,
                 "topics": []
               },
               "first_seen": "2026-08-28T20:57:11.657Z"
@@ -775,7 +775,7 @@
                 "open_issues": 0,
                 "owner": "SAP",
                 "repo": "macOS-icon-generator",
-                "stars": 641,
+                "stars": 639,
                 "topics": [
                   "customization",
                   "icons",
@@ -834,7 +834,7 @@
                 "language": "YAML",
                 "license": "NOASSERTION",
                 "last_commit": "2026-09-18T19:11:30Z",
-                "open_issues": 20,
+                "open_issues": 19,
                 "owner": "usnistgov",
                 "repo": "macos_security",
                 "stars": 2476,
@@ -1001,7 +1001,7 @@
                 "open_issues": 16,
                 "owner": "hjuutilainen",
                 "repo": "sus-inspector",
-                "stars": 425,
+                "stars": 423,
                 "topics": [
                   "macadmin",
                   "macos"
@@ -1103,7 +1103,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-20T13:37:37.213Z",
+    "last_updated": "2026-09-21T15:57:22.268Z",
     "original_repository_info": {
       "archived": false,
       "description": "🕶 Awesome Mac Admin Tools list",
@@ -1115,7 +1115,7 @@
       "open_issues": 14,
       "owner": "smashism",
       "repo": "awesome-macadmin-tools",
-      "stars": 680,
+      "stars": 679,
       "topics": [
         "awesome",
         "awesome-list",
