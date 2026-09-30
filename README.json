@@ -113,7 +113,7 @@
                 "open_issues": 74,
                 "owner": "ninxsoft",
                 "repo": "Mist",
-                "stars": 5252,
+                "stars": 5256,
                 "topics": []
               },
               "first_seen": "2026-08-28T20:57:11.657Z"
@@ -338,11 +338,11 @@
                 "id": 346831918,
                 "language": "Swift",
                 "license": "MIT",
-                "last_commit": "2026-09-29T08:55:08Z",
-                "open_issues": 51,
+                "last_commit": "2026-09-29T21:36:49Z",
+                "open_issues": 52,
                 "owner": "swiftDialog",
                 "repo": "swiftDialog",
-                "stars": 850,
+                "stars": 852,
                 "topics": []
               },
               "first_seen": "2026-08-28T20:57:11.657Z"
@@ -373,7 +373,7 @@
                 "language": "Python",
                 "license": "Apache-2.0",
                 "last_commit": "2026-09-29T14:01:26Z",
-                "open_issues": 60,
+                "open_issues": 59,
                 "owner": "autopkg",
                 "repo": "autopkg",
                 "stars": 1481,
@@ -441,7 +441,7 @@
                 "open_issues": 8,
                 "owner": "ninxsoft",
                 "repo": "LowProfile",
-                "stars": 435,
+                "stars": 436,
                 "topics": []
               },
               "first_seen": "2026-08-28T20:57:11.657Z"
@@ -553,7 +553,7 @@
                 "open_issues": 76,
                 "owner": "ProfileCreator",
                 "repo": "ProfileCreator",
-                "stars": 1512,
+                "stars": 1513,
                 "topics": []
               },
               "first_seen": "2026-08-28T20:57:11.657Z"
@@ -581,7 +581,7 @@
                 "open_issues": 6,
                 "owner": "SecondSonConsulting",
                 "repo": "Baseline",
-                "stars": 359,
+                "stars": 360,
                 "topics": [
                   "installomator",
                   "macos",
@@ -611,7 +611,7 @@
                 "language": "Shell",
                 "license": "Apache-2.0",
                 "last_commit": "2026-09-29T15:04:29Z",
-                "open_issues": 4,
+                "open_issues": 6,
                 "owner": "Mac-Nerd",
                 "repo": "patchomator",
                 "stars": 145,
@@ -775,7 +775,7 @@
                 "open_issues": 0,
                 "owner": "SAP",
                 "repo": "macOS-icon-generator",
-                "stars": 639,
+                "stars": 640,
                 "topics": [
                   "customization",
                   "icons",
@@ -837,7 +837,7 @@
                 "open_issues": 20,
                 "owner": "usnistgov",
                 "repo": "macos_security",
-                "stars": 2490,
+                "stars": 2491,
                 "topics": [
                   "apple",
                   "bash",
@@ -1088,7 +1088,7 @@
                 "open_issues": 76,
                 "owner": "ProfileCreator",
                 "repo": "ProfileCreator",
-                "stars": 1512,
+                "stars": 1513,
                 "topics": []
               },
               "first_seen": "2026-08-28T20:57:11.657Z"
@@ -1103,7 +1103,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-29T16:00:47.903Z",
+    "last_updated": "2026-09-30T15:59:58.521Z",
     "original_repository_info": {
       "archived": false,
       "description": "🕶 Awesome Mac Admin Tools list",
