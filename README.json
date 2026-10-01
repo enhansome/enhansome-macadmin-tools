@@ -21,7 +21,7 @@
                 "open_issues": 11,
                 "owner": "grahampugh",
                 "repo": "erase-install",
-                "stars": 954,
+                "stars": 955,
                 "topics": [
                   "apple",
                   "erase",
@@ -110,10 +110,10 @@
                 "language": "Swift",
                 "license": "MIT",
                 "last_commit": "2026-07-07T18:48:06Z",
-                "open_issues": 74,
+                "open_issues": 75,
                 "owner": "ninxsoft",
                 "repo": "Mist",
-                "stars": 5256,
+                "stars": 5260,
                 "topics": []
               },
               "first_seen": "2026-08-28T20:57:11.657Z"
@@ -338,11 +338,11 @@
                 "id": 346831918,
                 "language": "Swift",
                 "license": "MIT",
-                "last_commit": "2026-09-29T21:36:49Z",
-                "open_issues": 52,
+                "last_commit": "2026-10-01T03:09:48Z",
+                "open_issues": 51,
                 "owner": "swiftDialog",
                 "repo": "swiftDialog",
-                "stars": 852,
+                "stars": 853,
                 "topics": []
               },
               "first_seen": "2026-08-28T20:57:11.657Z"
@@ -525,7 +525,7 @@
                 "open_issues": 1,
                 "owner": "rtrouton",
                 "repo": "Payload-Free-Package-Creator",
-                "stars": 217,
+                "stars": 218,
                 "topics": []
               },
               "first_seen": "2026-08-28T20:57:11.657Z"
@@ -704,7 +704,7 @@
                 "open_issues": 83,
                 "owner": "root3nl",
                 "repo": "SupportApp",
-                "stars": 798,
+                "stars": 799,
                 "topics": []
               },
               "first_seen": "2026-08-28T20:57:11.657Z"
@@ -738,7 +738,7 @@
                 "open_issues": 2,
                 "owner": "macadmins",
                 "repo": "escrow-buddy",
-                "stars": 304,
+                "stars": 305,
                 "topics": [
                   "authorization-plugin",
                   "filevault",
@@ -834,10 +834,10 @@
                 "language": "YAML",
                 "license": "NOASSERTION",
                 "last_commit": "2026-09-24T14:24:35Z",
-                "open_issues": 20,
+                "open_issues": 23,
                 "owner": "usnistgov",
                 "repo": "macos_security",
-                "stars": 2491,
+                "stars": 2492,
                 "topics": [
                   "apple",
                   "bash",
@@ -1001,7 +1001,7 @@
                 "open_issues": 16,
                 "owner": "hjuutilainen",
                 "repo": "sus-inspector",
-                "stars": 423,
+                "stars": 424,
                 "topics": [
                   "macadmin",
                   "macos"
@@ -1103,7 +1103,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-30T15:59:58.521Z",
+    "last_updated": "2026-10-01T16:34:06.754Z",
     "original_repository_info": {
       "archived": false,
       "description": "🕶 Awesome Mac Admin Tools list",
@@ -1115,7 +1115,7 @@
       "open_issues": 14,
       "owner": "smashism",
       "repo": "awesome-macadmin-tools",
-      "stars": 679,
+      "stars": 681,
       "topics": [
         "awesome",
         "awesome-list",

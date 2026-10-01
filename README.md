@@ -2,7 +2,7 @@
 
 > A curated list of handy-dandy tools for Mac Admins.
 
-Inspired by the [awesome](https://github.com/sindresorhus/awesome) ⭐ 512,750 | 🐛 106 | 📅 2026-09-02 list.
+Inspired by the [awesome](https://github.com/sindresorhus/awesome) ⭐ 513,132 | 🐛 106 | 📅 2026-09-02 list.
 
 ## Contents
 
@@ -24,9 +24,9 @@ Inspired by the [awesome](https://github.com/sindresorhus/awesome) ⭐ 512,750 |
 
 **Cost:** N/A
 
-**Link:** <https://github.com/grahampugh/erase-install> ⭐ 954 | 🐛 11 | 🌐 Shell | 📅 2026-09-09
+**Link:** <https://github.com/grahampugh/erase-install> ⭐ 955 | 🐛 11 | 🌐 Shell | 📅 2026-09-09
 
-[![](images/erase-install.png)](https://github.com/grahampugh/erase-install) ⭐ 954 | 🐛 11 | 🌐 Shell | 📅 2026-09-09
+[![](images/erase-install.png)](https://github.com/grahampugh/erase-install) ⭐ 955 | 🐛 11 | 🌐 Shell | 📅 2026-09-09
 
 ### getmacosipsws.py
 
@@ -54,9 +54,9 @@ Inspired by the [awesome](https://github.com/sindresorhus/awesome) ⭐ 512,750 |
 
 **Cost:** N/A
 
-**Link:** <https://github.com/ninxsoft/Mist> ⭐ 5,256 | 🐛 74 | 🌐 Swift | 📅 2026-07-07
+**Link:** <https://github.com/ninxsoft/Mist> ⭐ 5,260 | 🐛 75 | 🌐 Swift | 📅 2026-07-07
 
-[![](https://github.com/ninxsoft/Mist/raw/main/README%20Resources/Installers.png)](https://github.com/ninxsoft/Mist) ⭐ 5,256 | 🐛 74 | 🌐 Swift | 📅 2026-07-07
+[![](https://github.com/ninxsoft/Mist/raw/main/README%20Resources/Installers.png)](https://github.com/ninxsoft/Mist) ⭐ 5,260 | 🐛 75 | 🌐 Swift | 📅 2026-07-07
 
 ### moss
 
@@ -124,9 +124,9 @@ Inspired by the [awesome](https://github.com/sindresorhus/awesome) ⭐ 512,750 |
 
 **Cost:** Free
 
-**Link:** <https://github.com/swiftDialog/swiftDialog> ⭐ 852 | 🐛 52 | 🌐 Swift | 📅 2026-09-29
+**Link:** <https://github.com/swiftDialog/swiftDialog> ⭐ 853 | 🐛 51 | 🌐 Swift | 📅 2026-10-01
 
-[![](images/swiftDialog.png)](https://github.com/swiftDialog/swiftDialog) ⭐ 852 | 🐛 52 | 🌐 Swift | 📅 2026-09-29
+[![](images/swiftDialog.png)](https://github.com/swiftDialog/swiftDialog) ⭐ 853 | 🐛 51 | 🌐 Swift | 📅 2026-10-01
 
 ## Deployment
 
@@ -216,9 +216,9 @@ Inspired by the [awesome](https://github.com/sindresorhus/awesome) ⭐ 512,750 |
 
 **Cost:** N/A
 
-**Link:** <https://github.com/rtrouton/Payload-Free-Package-Creator> ⭐ 217 | 🐛 1 | 📅 2025-07-15
+**Link:** <https://github.com/rtrouton/Payload-Free-Package-Creator> ⭐ 218 | 🐛 1 | 📅 2025-07-15
 
-[![](images/payloadfreepackagecreator.png)](https://github.com/rtrouton/Payload-Free-Package-Creator) ⭐ 217 | 🐛 1 | 📅 2025-07-15
+[![](images/payloadfreepackagecreator.png)](https://github.com/rtrouton/Payload-Free-Package-Creator) ⭐ 218 | 🐛 1 | 📅 2025-07-15
 
 ### ProfileCreator
 
@@ -308,9 +308,9 @@ Inspired by the [awesome](https://github.com/sindresorhus/awesome) ⭐ 512,750 |
 
 **Cost:** Free
 
-**Link:** <https://github.com/root3nl/SupportApp> ⭐ 798 | 🐛 83 | 🌐 Swift | 📅 2026-08-04
+**Link:** <https://github.com/root3nl/SupportApp> ⭐ 799 | 🐛 83 | 🌐 Swift | 📅 2026-08-04
 
-[![](https://github.com/root3nl/SupportApp/raw/master/Screenshots/generic_light_mode.png)](https://github.com/root3nl/SupportApp) ⭐ 798 | 🐛 83 | 🌐 Swift | 📅 2026-08-04
+[![](https://github.com/root3nl/SupportApp/raw/master/Screenshots/generic_light_mode.png)](https://github.com/root3nl/SupportApp) ⭐ 799 | 🐛 83 | 🌐 Swift | 📅 2026-08-04
 
 ## Onboarding Experience
 
@@ -506,7 +506,7 @@ Inspired by the [awesome](https://github.com/sindresorhus/awesome) ⭐ 512,750 |
 
 **Cost:** Free
 
-**Link:** <https://github.com/macadmins/escrow-buddy> ⭐ 304 | 🐛 2 | 🌐 Objective-C | 📅 2026-01-17
+**Link:** <https://github.com/macadmins/escrow-buddy> ⭐ 305 | 🐛 2 | 🌐 Objective-C | 📅 2026-01-17
 
 ### Giphy Capture
 
@@ -530,7 +530,7 @@ Inspired by the [awesome](https://github.com/sindresorhus/awesome) ⭐ 512,750 |
 
 ### Jamf Compliance Editor
 
-> Jamf Compliance Editor is a tool that provides macOS system administrators with an easy way to establish and manage compliance baselines on their fleet of macOS devices. This tool is built on the foundations of the [macOS Security Compliance Project](https://github.com/usnistgov/macos_security) ⭐ 2,491 | 🐛 20 | 🌐 YAML | 📅 2026-09-24, hosted by the United States government agency, NIST, in their Github repo.
+> Jamf Compliance Editor is a tool that provides macOS system administrators with an easy way to establish and manage compliance baselines on their fleet of macOS devices. This tool is built on the foundations of the [macOS Security Compliance Project](https://github.com/usnistgov/macos_security) ⭐ 2,492 | 🐛 23 | 🌐 YAML | 📅 2026-09-24, hosted by the United States government agency, NIST, in their Github repo.
 
 **Cost:** N/A
 
@@ -554,9 +554,9 @@ Inspired by the [awesome](https://github.com/sindresorhus/awesome) ⭐ 512,750 |
 
 **Cost:** N/A
 
-**Link:** <https://github.com/usnistgov/macos_security> ⭐ 2,491 | 🐛 20 | 🌐 YAML | 📅 2026-09-24
+**Link:** <https://github.com/usnistgov/macos_security> ⭐ 2,492 | 🐛 23 | 🌐 YAML | 📅 2026-09-24
 
-[![](images/mscp.png)](https://github.com/usnistgov/macos_security) ⭐ 2,491 | 🐛 20 | 🌐 YAML | 📅 2026-09-24
+[![](images/mscp.png)](https://github.com/usnistgov/macos_security) ⭐ 2,492 | 🐛 23 | 🌐 YAML | 📅 2026-09-24
 
 ### The MUT
 
@@ -626,7 +626,7 @@ Inspired by the [awesome](https://github.com/sindresorhus/awesome) ⭐ 512,750 |
 
 **Link:** <https://rectangleapp.com/>
 
-[![](https://user-images.githubusercontent.com/13651296/101402672-57ab5300-38d4-11eb-9e8c-6a3147d26711.png)](https://github.com/rxhanson/Rectangle) ⭐ 30,016 | 🐛 69 | 🌐 Swift | 📅 2026-09-27
+[![](https://user-images.githubusercontent.com/13651296/101402672-57ab5300-38d4-11eb-9e8c-6a3147d26711.png)](https://github.com/rxhanson/Rectangle) ⭐ 30,024 | 🐛 70 | 🌐 Swift | 📅 2026-09-27
 
 ### Script2Pkg
 
@@ -654,9 +654,9 @@ Inspired by the [awesome](https://github.com/sindresorhus/awesome) ⭐ 512,750 |
 
 **Cost:** N/A
 
-**Link:** <https://github.com/hjuutilainen/sus-inspector> ⭐ 423 | 🐛 16 | 🌐 Objective-C | 📅 2022-03-16
+**Link:** <https://github.com/hjuutilainen/sus-inspector> ⭐ 424 | 🐛 16 | 🌐 Objective-C | 📅 2022-03-16
 
-[![](https://raw.githubusercontent.com/hjuutilainen/sus-inspector/master/screenshot.png)](https://github.com/hjuutilainen/sus-inspector) ⭐ 423 | 🐛 16 | 🌐 Objective-C | 📅 2022-03-16
+[![](https://raw.githubusercontent.com/hjuutilainen/sus-inspector/master/screenshot.png)](https://github.com/hjuutilainen/sus-inspector) ⭐ 424 | 🐛 16 | 🌐 Objective-C | 📅 2022-03-16
 
 ### umad
 
@@ -708,4 +708,4 @@ To the extent possible under law, [Emily Kausalik](https://twitter.com/emilyooo)
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-09-30._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-10-01._
