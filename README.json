@@ -57,7 +57,7 @@
                 "open_issues": 8,
                 "owner": "munki",
                 "repo": "macadmin-scripts",
-                "stars": 2450,
+                "stars": 2451,
                 "topics": []
               },
               "first_seen": "2026-08-28T20:57:11.657Z"
@@ -85,7 +85,7 @@
                 "open_issues": 8,
                 "owner": "munki",
                 "repo": "macadmin-scripts",
-                "stars": 2450,
+                "stars": 2451,
                 "topics": []
               },
               "first_seen": "2026-08-28T20:57:11.657Z"
@@ -113,7 +113,7 @@
                 "open_issues": 75,
                 "owner": "ninxsoft",
                 "repo": "Mist",
-                "stars": 5260,
+                "stars": 5262,
                 "topics": []
               },
               "first_seen": "2026-08-28T20:57:11.657Z"
@@ -227,10 +227,10 @@
                 "language": "Shell",
                 "license": "Apache-2.0",
                 "last_commit": "2026-09-15T20:33:23Z",
-                "open_issues": 16,
+                "open_issues": 17,
                 "owner": "Macjutsu",
                 "repo": "super",
-                "stars": 897,
+                "stars": 898,
                 "topics": [
                   "apple",
                   "compliance",
@@ -342,7 +342,7 @@
                 "open_issues": 51,
                 "owner": "swiftDialog",
                 "repo": "swiftDialog",
-                "stars": 853,
+                "stars": 854,
                 "topics": []
               },
               "first_seen": "2026-08-28T20:57:11.657Z"
@@ -376,7 +376,7 @@
                 "open_issues": 59,
                 "owner": "autopkg",
                 "repo": "autopkg",
-                "stars": 1481,
+                "stars": 1482,
                 "topics": [
                   "apple",
                   "automation",
@@ -497,7 +497,7 @@
                 "open_issues": 11,
                 "owner": "macadmins",
                 "repo": "nudge",
-                "stars": 1277,
+                "stars": 1276,
                 "topics": []
               },
               "first_seen": "2026-08-28T20:57:11.657Z"
@@ -704,7 +704,7 @@
                 "open_issues": 83,
                 "owner": "root3nl",
                 "repo": "SupportApp",
-                "stars": 799,
+                "stars": 800,
                 "topics": []
               },
               "first_seen": "2026-08-28T20:57:11.657Z"
@@ -834,10 +834,10 @@
                 "language": "YAML",
                 "license": "NOASSERTION",
                 "last_commit": "2026-09-24T14:24:35Z",
-                "open_issues": 23,
+                "open_issues": 27,
                 "owner": "usnistgov",
                 "repo": "macos_security",
-                "stars": 2492,
+                "stars": 2493,
                 "topics": [
                   "apple",
                   "bash",
@@ -1103,7 +1103,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-01T16:34:06.754Z",
+    "last_updated": "2026-10-02T15:54:10.386Z",
     "original_repository_info": {
       "archived": false,
       "description": "🕶 Awesome Mac Admin Tools list",
