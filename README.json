@@ -373,7 +373,7 @@
                 "language": "Python",
                 "license": "Apache-2.0",
                 "last_commit": "2026-09-29T14:01:26Z",
-                "open_issues": 59,
+                "open_issues": 60,
                 "owner": "autopkg",
                 "repo": "autopkg",
                 "stars": 1482,
@@ -806,7 +806,7 @@
                 "language": "Swift",
                 "license": "MIT",
                 "last_commit": "2026-09-15T11:49:54Z",
-                "open_issues": 19,
+                "open_issues": 20,
                 "owner": "jamf",
                 "repo": "Replicator",
                 "stars": 185,
@@ -1103,7 +1103,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-03T04:54:59.762Z",
+    "last_updated": "2026-10-03T14:21:24.921Z",
     "original_repository_info": {
       "archived": false,
       "description": "🕶 Awesome Mac Admin Tools list",

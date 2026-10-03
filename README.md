@@ -2,7 +2,7 @@
 
 > A curated list of handy-dandy tools for Mac Admins.
 
-Inspired by the [awesome](https://github.com/sindresorhus/awesome) ⭐ 513,797 | 🐛 106 | 📅 2026-09-02 list.
+Inspired by the [awesome](https://github.com/sindresorhus/awesome) ⭐ 513,946 | 🐛 106 | 📅 2026-09-02 list.
 
 ## Contents
 
@@ -146,9 +146,9 @@ Inspired by the [awesome](https://github.com/sindresorhus/awesome) ⭐ 513,797 |
 
 **Cost:** N/A
 
-**Link:** <https://github.com/autopkg/autopkg> ⭐ 1,482 | 🐛 59 | 🌐 Python | 📅 2026-09-29
+**Link:** <https://github.com/autopkg/autopkg> ⭐ 1,482 | 🐛 60 | 🌐 Python | 📅 2026-09-29
 
-[![](images/autopkg.png)](https://github.com/autopkg/autopkg) ⭐ 1,482 | 🐛 59 | 🌐 Python | 📅 2026-09-29
+[![](images/autopkg.png)](https://github.com/autopkg/autopkg) ⭐ 1,482 | 🐛 60 | 🌐 Python | 📅 2026-09-29
 
 ### AutoPkgr
 
@@ -544,9 +544,9 @@ Inspired by the [awesome](https://github.com/sindresorhus/awesome) ⭐ 513,797 |
 
 **Cost:** N/A
 
-**Link:** <https://github.com/jamf/JamfMigrator> ⭐ 185 | 🐛 19 | 🌐 Swift | 📅 2026-09-15
+**Link:** <https://github.com/jamf/JamfMigrator> ⭐ 185 | 🐛 20 | 🌐 Swift | 📅 2026-09-15
 
-[![](images/jamfmigrator.png)](https://github.com/jamf/JamfMigrator) ⭐ 185 | 🐛 19 | 🌐 Swift | 📅 2026-09-15
+[![](images/jamfmigrator.png)](https://github.com/jamf/JamfMigrator) ⭐ 185 | 🐛 20 | 🌐 Swift | 📅 2026-09-15
 
 ### macOS Security Compliance Project
 
@@ -626,7 +626,7 @@ Inspired by the [awesome](https://github.com/sindresorhus/awesome) ⭐ 513,797 |
 
 **Link:** <https://rectangleapp.com/>
 
-[![](https://user-images.githubusercontent.com/13651296/101402672-57ab5300-38d4-11eb-9e8c-6a3147d26711.png)](https://github.com/rxhanson/Rectangle) ⭐ 30,031 | 🐛 68 | 🌐 Swift | 📅 2026-10-02
+[![](https://user-images.githubusercontent.com/13651296/101402672-57ab5300-38d4-11eb-9e8c-6a3147d26711.png)](https://github.com/rxhanson/Rectangle) ⭐ 30,031 | 🐛 69 | 🌐 Swift | 📅 2026-10-02
 
 ### Script2Pkg
 
