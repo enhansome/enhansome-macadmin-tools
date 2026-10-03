@@ -8,7 +8,7 @@
             {
               "node_type": "item",
               "title": "Link: https://github.com/grahampugh/erase-install",
-              "description": null,
+              "description": "grahampugh/erase-install",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -44,7 +44,7 @@
             {
               "node_type": "item",
               "title": "Link: https://github.com/munki/macadmin-scripts",
-              "description": null,
+              "description": "munki/macadmin-scripts",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -72,7 +72,7 @@
             {
               "node_type": "item",
               "title": "Link: https://github.com/munki/macadmin-scripts",
-              "description": null,
+              "description": "munki/macadmin-scripts",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -100,7 +100,7 @@
             {
               "node_type": "item",
               "title": "Link: https://github.com/ninxsoft/Mist",
-              "description": null,
+              "description": "ninxsoft/Mist",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -128,7 +128,7 @@
             {
               "node_type": "item",
               "title": "Link: https://github.com/WardsParadox/moss",
-              "description": null,
+              "description": "WardsParadox/moss",
               "children": [],
               "repo_info": {
                 "archived": true,
@@ -161,7 +161,7 @@
             {
               "node_type": "item",
               "title": "Link: https://github.com/sheagcraig/Recategorizer",
-              "description": null,
+              "description": "sheagcraig/Recategorizer",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -189,7 +189,7 @@
             {
               "node_type": "item",
               "title": "Link: https://github.com/Honestpuck/scriptorium",
-              "description": null,
+              "description": "Honestpuck/scriptorium",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -217,7 +217,7 @@
             {
               "node_type": "item",
               "title": "Link: https://github.com/Macjutsu/super",
-              "description": null,
+              "description": "Macjutsu/super",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -230,7 +230,7 @@
                 "open_issues": 17,
                 "owner": "Macjutsu",
                 "repo": "super",
-                "stars": 898,
+                "stars": 899,
                 "topics": [
                   "apple",
                   "compliance",
@@ -260,7 +260,7 @@
             {
               "node_type": "item",
               "title": "Link: https://github.com/alichtman/stronghold",
-              "description": null,
+              "description": "alichtman/stronghold",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -297,7 +297,7 @@
             {
               "node_type": "item",
               "title": "Link: https://github.com/chilcote/vfuse",
-              "description": null,
+              "description": "chilcote/vfuse",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -329,7 +329,7 @@
             {
               "node_type": "item",
               "title": "Link: https://github.com/swiftDialog/swiftDialog",
-              "description": null,
+              "description": "swiftDialog/swiftDialog",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -363,7 +363,7 @@
             {
               "node_type": "item",
               "title": "Link: https://github.com/autopkg/autopkg",
-              "description": null,
+              "description": "autopkg/autopkg",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -400,7 +400,7 @@
             {
               "node_type": "item",
               "title": "Link: https://github.com/lindegroup/autopkgr",
-              "description": null,
+              "description": "lindegroup/autopkgr",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -428,7 +428,7 @@
             {
               "node_type": "item",
               "title": "Link: https://github.com/ninxsoft/LowProfile",
-              "description": null,
+              "description": "ninxsoft/LowProfile",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -456,7 +456,7 @@
             {
               "node_type": "item",
               "title": "Link: https://github.com/munki/munki-pkg",
-              "description": null,
+              "description": "munki/munki-pkg",
               "children": [],
               "repo_info": {
                 "archived": true,
@@ -484,7 +484,7 @@
             {
               "node_type": "item",
               "title": "Link: https://github.com/macadmins/nudge",
-              "description": null,
+              "description": "macadmins/nudge",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -512,7 +512,7 @@
             {
               "node_type": "item",
               "title": "Link: https://github.com/rtrouton/Payload-Free-Package-Creator",
-              "description": null,
+              "description": "rtrouton/Payload-Free-Package-Creator",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -540,7 +540,7 @@
             {
               "node_type": "item",
               "title": "Link: https://github.com/ProfileCreator/ProfileCreator",
-              "description": null,
+              "description": "ProfileCreator/ProfileCreator",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -568,7 +568,7 @@
             {
               "node_type": "item",
               "title": "Link: https://github.com/secondsonconsulting/baseline",
-              "description": null,
+              "description": "SecondSonConsulting/Baseline",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -601,7 +601,7 @@
             {
               "node_type": "item",
               "title": "Link: https://github.com/Mac-Nerd/patchomator",
-              "description": null,
+              "description": "Mac-Nerd/patchomator",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -635,7 +635,7 @@
             {
               "node_type": "item",
               "title": "Link: https://github.com/ygini/Hello-IT",
-              "description": null,
+              "description": "ygini/Hello-IT",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -663,7 +663,7 @@
             {
               "node_type": "item",
               "title": "Link: https://github.com/jhbush/Arek/tree/master/Development/MacDNA%20Menulet",
-              "description": null,
+              "description": "jhbush/Arek",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -691,7 +691,7 @@
             {
               "node_type": "item",
               "title": "Link: https://github.com/root3nl/SupportApp",
-              "description": null,
+              "description": "root3nl/SupportApp",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -725,7 +725,7 @@
             {
               "node_type": "item",
               "title": "Link: https://github.com/macadmins/escrow-buddy",
-              "description": null,
+              "description": "macadmins/escrow-buddy",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -762,7 +762,7 @@
             {
               "node_type": "item",
               "title": "Link: https://github.com/SAP/macOS-icon-generator",
-              "description": null,
+              "description": "SAP/macOS-icon-generator",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -796,7 +796,7 @@
             {
               "node_type": "item",
               "title": "Link: https://github.com/jamf/JamfMigrator",
-              "description": null,
+              "description": "jamf/Replicator",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -824,7 +824,7 @@
             {
               "node_type": "item",
               "title": "Link: https://github.com/usnistgov/macos_security",
-              "description": null,
+              "description": "usnistgov/macos_security",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -861,7 +861,7 @@
             {
               "node_type": "item",
               "title": "Link: https://github.com/jamf/PPPC-Utility",
-              "description": null,
+              "description": "jamf/PPPC-Utility",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -893,7 +893,7 @@
             {
               "node_type": "item",
               "title": "Link: https://github.com/mikaellofgren/PrinterSetup",
-              "description": null,
+              "description": "mikaellofgren/PrinterSetup",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -927,7 +927,7 @@
             {
               "node_type": "item",
               "title": "Link: https://github.com/BIG-RAT/Prune",
-              "description": null,
+              "description": "BIG-RAT/Prune",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -955,7 +955,7 @@
             {
               "node_type": "item",
               "title": "Link: https://github.com/SAP/script-to-package-tool-for-macos",
-              "description": null,
+              "description": "SAP/script-to-package-tool-for-macos",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -988,7 +988,7 @@
             {
               "node_type": "item",
               "title": "Link: https://github.com/hjuutilainen/sus-inspector",
-              "description": null,
+              "description": "hjuutilainen/sus-inspector",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -1019,7 +1019,7 @@
             {
               "node_type": "item",
               "title": "Link: https://github.com/macadmins/umad",
-              "description": null,
+              "description": "macadmins/umad",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -1047,7 +1047,7 @@
             {
               "node_type": "item",
               "title": "Link: https://github.com/sheagcraig/yo",
-              "description": null,
+              "description": "sheagcraig/yo",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -1075,7 +1075,7 @@
             {
               "node_type": "item",
               "title": "Link: https://github.com/ProfileCreator/ProfileCreator",
-              "description": null,
+              "description": "ProfileCreator/ProfileCreator",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -1103,7 +1103,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-02T15:54:10.386Z",
+    "last_updated": "2026-10-03T04:54:59.762Z",
     "original_repository_info": {
       "archived": false,
       "description": "🕶 Awesome Mac Admin Tools list",
