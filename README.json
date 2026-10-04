@@ -57,7 +57,7 @@
                 "open_issues": 8,
                 "owner": "munki",
                 "repo": "macadmin-scripts",
-                "stars": 2451,
+                "stars": 2452,
                 "topics": []
               },
               "first_seen": "2026-08-28T20:57:11.657Z"
@@ -85,7 +85,7 @@
                 "open_issues": 8,
                 "owner": "munki",
                 "repo": "macadmin-scripts",
-                "stars": 2451,
+                "stars": 2452,
                 "topics": []
               },
               "first_seen": "2026-08-28T20:57:11.657Z"
@@ -113,7 +113,7 @@
                 "open_issues": 75,
                 "owner": "ninxsoft",
                 "repo": "Mist",
-                "stars": 5262,
+                "stars": 5264,
                 "topics": []
               },
               "first_seen": "2026-08-28T20:57:11.657Z"
@@ -806,7 +806,7 @@
                 "language": "Swift",
                 "license": "MIT",
                 "last_commit": "2026-09-15T11:49:54Z",
-                "open_issues": 20,
+                "open_issues": 21,
                 "owner": "jamf",
                 "repo": "Replicator",
                 "stars": 185,
@@ -837,7 +837,7 @@
                 "open_issues": 27,
                 "owner": "usnistgov",
                 "repo": "macos_security",
-                "stars": 2493,
+                "stars": 2494,
                 "topics": [
                   "apple",
                   "bash",
@@ -1103,7 +1103,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-03T14:21:24.921Z",
+    "last_updated": "2026-10-04T14:53:34.113Z",
     "original_repository_info": {
       "archived": false,
       "description": "🕶 Awesome Mac Admin Tools list",
