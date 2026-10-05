@@ -113,7 +113,7 @@
                 "open_issues": 75,
                 "owner": "ninxsoft",
                 "repo": "Mist",
-                "stars": 5264,
+                "stars": 5261,
                 "topics": []
               },
               "first_seen": "2026-08-28T20:57:11.657Z"
@@ -230,7 +230,7 @@
                 "open_issues": 17,
                 "owner": "Macjutsu",
                 "repo": "super",
-                "stars": 899,
+                "stars": 900,
                 "topics": [
                   "apple",
                   "compliance",
@@ -339,7 +339,7 @@
                 "language": "Swift",
                 "license": "MIT",
                 "last_commit": "2026-10-01T03:09:48Z",
-                "open_issues": 51,
+                "open_issues": 53,
                 "owner": "swiftDialog",
                 "repo": "swiftDialog",
                 "stars": 854,
@@ -701,7 +701,7 @@
                 "language": "Swift",
                 "license": "MIT",
                 "last_commit": "2026-08-04T11:52:47Z",
-                "open_issues": 83,
+                "open_issues": 84,
                 "owner": "root3nl",
                 "repo": "SupportApp",
                 "stars": 800,
@@ -738,7 +738,7 @@
                 "open_issues": 2,
                 "owner": "macadmins",
                 "repo": "escrow-buddy",
-                "stars": 305,
+                "stars": 304,
                 "topics": [
                   "authorization-plugin",
                   "filevault",
@@ -775,7 +775,7 @@
                 "open_issues": 0,
                 "owner": "SAP",
                 "repo": "macOS-icon-generator",
-                "stars": 640,
+                "stars": 641,
                 "topics": [
                   "customization",
                   "icons",
@@ -837,7 +837,7 @@
                 "open_issues": 27,
                 "owner": "usnistgov",
                 "repo": "macos_security",
-                "stars": 2494,
+                "stars": 2495,
                 "topics": [
                   "apple",
                   "bash",
@@ -1103,7 +1103,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-04T14:53:34.113Z",
+    "last_updated": "2026-10-05T18:37:11.456Z",
     "original_repository_info": {
       "archived": false,
       "description": "🕶 Awesome Mac Admin Tools list",
