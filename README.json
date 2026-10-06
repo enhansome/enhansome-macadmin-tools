@@ -113,7 +113,7 @@
                 "open_issues": 75,
                 "owner": "ninxsoft",
                 "repo": "Mist",
-                "stars": 5261,
+                "stars": 5263,
                 "topics": []
               },
               "first_seen": "2026-08-28T20:57:11.657Z"
@@ -227,7 +227,7 @@
                 "language": "Shell",
                 "license": "Apache-2.0",
                 "last_commit": "2026-09-15T20:33:23Z",
-                "open_issues": 17,
+                "open_issues": 18,
                 "owner": "Macjutsu",
                 "repo": "super",
                 "stars": 900,
@@ -339,7 +339,7 @@
                 "language": "Swift",
                 "license": "MIT",
                 "last_commit": "2026-10-01T03:09:48Z",
-                "open_issues": 53,
+                "open_issues": 52,
                 "owner": "swiftDialog",
                 "repo": "swiftDialog",
                 "stars": 854,
@@ -372,11 +372,11 @@
                 "id": 11913841,
                 "language": "Python",
                 "license": "Apache-2.0",
-                "last_commit": "2026-09-29T14:01:26Z",
-                "open_issues": 60,
+                "last_commit": "2026-10-05T22:14:01Z",
+                "open_issues": 61,
                 "owner": "autopkg",
                 "repo": "autopkg",
-                "stars": 1482,
+                "stars": 1484,
                 "topics": [
                   "apple",
                   "automation",
@@ -834,7 +834,7 @@
                 "language": "YAML",
                 "license": "NOASSERTION",
                 "last_commit": "2026-09-24T14:24:35Z",
-                "open_issues": 27,
+                "open_issues": 28,
                 "owner": "usnistgov",
                 "repo": "macos_security",
                 "stars": 2495,
@@ -1103,7 +1103,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-05T18:37:11.456Z",
+    "last_updated": "2026-10-06T10:52:52.950Z",
     "original_repository_info": {
       "archived": false,
       "description": "🕶 Awesome Mac Admin Tools list",
