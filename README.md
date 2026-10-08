@@ -2,7 +2,7 @@
 
 > A curated list of handy-dandy tools for Mac Admins.
 
-Inspired by the [awesome](https://github.com/sindresorhus/awesome) ⭐ 515,965 | 🐛 106 | 📅 2026-09-02 list.
+Inspired by the [awesome](https://github.com/sindresorhus/awesome) ⭐ 516,429 | 🐛 106 | 📅 2026-09-02 list.
 
 ## Contents
 
@@ -54,9 +54,9 @@ Inspired by the [awesome](https://github.com/sindresorhus/awesome) ⭐ 515,965 |
 
 **Cost:** N/A
 
-**Link:** <https://github.com/ninxsoft/Mist> ⭐ 5,264 | 🐛 75 | 🌐 Swift | 📅 2026-07-07
+**Link:** <https://github.com/ninxsoft/Mist> ⭐ 5,266 | 🐛 75 | 🌐 Swift | 📅 2026-07-07
 
-[![](https://github.com/ninxsoft/Mist/raw/main/README%20Resources/Installers.png)](https://github.com/ninxsoft/Mist) ⭐ 5,264 | 🐛 75 | 🌐 Swift | 📅 2026-07-07
+[![](https://github.com/ninxsoft/Mist/raw/main/README%20Resources/Installers.png)](https://github.com/ninxsoft/Mist) ⭐ 5,266 | 🐛 75 | 🌐 Swift | 📅 2026-07-07
 
 ### moss
 
@@ -124,9 +124,9 @@ Inspired by the [awesome](https://github.com/sindresorhus/awesome) ⭐ 515,965 |
 
 **Cost:** Free
 
-**Link:** <https://github.com/swiftDialog/swiftDialog> ⭐ 854 | 🐛 52 | 🌐 Swift | 📅 2026-10-01
+**Link:** <https://github.com/swiftDialog/swiftDialog> ⭐ 854 | 🐛 52 | 🌐 Swift | 📅 2026-10-08
 
-[![](images/swiftDialog.png)](https://github.com/swiftDialog/swiftDialog) ⭐ 854 | 🐛 52 | 🌐 Swift | 📅 2026-10-01
+[![](images/swiftDialog.png)](https://github.com/swiftDialog/swiftDialog) ⭐ 854 | 🐛 52 | 🌐 Swift | 📅 2026-10-08
 
 ## Deployment
 
@@ -196,9 +196,9 @@ Inspired by the [awesome](https://github.com/sindresorhus/awesome) ⭐ 515,965 |
 
 **Cost:** N/A
 
-**Link:** <https://github.com/macadmins/nudge> ⭐ 1,276 | 🐛 10 | 🌐 Swift | 📅 2026-09-08
+**Link:** <https://github.com/macadmins/nudge> ⭐ 1,276 | 🐛 9 | 🌐 Swift | 📅 2026-09-08
 
-[![](https://github.com/macadmins/nudge/blob/main/assets/standard_mode/demo_light_1_icon.png?raw=true)](https://github.com/macadmins/nudge) ⭐ 1,276 | 🐛 10 | 🌐 Swift | 📅 2026-09-08
+[![](https://github.com/macadmins/nudge/blob/main/assets/standard_mode/demo_light_1_icon.png?raw=true)](https://github.com/macadmins/nudge) ⭐ 1,276 | 🐛 9 | 🌐 Swift | 📅 2026-09-08
 
 ### Packages.app
 
@@ -256,7 +256,7 @@ Inspired by the [awesome](https://github.com/sindresorhus/awesome) ⭐ 515,965 |
 
 **Price:** N/A
 
-**Link:** <https://github.com/Mac-Nerd/patchomator> ⭐ 145 | 🐛 6 | 🌐 Shell | 📅 2026-09-29
+**Link:** <https://github.com/Mac-Nerd/patchomator> ⭐ 145 | 🐛 7 | 🌐 Shell | 📅 2026-09-29
 
 [![](images/patchomator-progress.png)](\[http://url/to/toolinfo]\(https://github.com/Mac-Nerd/patchomator\))
 
@@ -340,9 +340,9 @@ Inspired by the [awesome](https://github.com/sindresorhus/awesome) ⭐ 515,965 |
 
 **Cost:** N/A
 
-**Link:** <https://github.com/Jamf-Concepts/Setup-Manager> ⭐ 380 | 🐛 54 | 📅 2026-07-09
+**Link:** <https://github.com/Jamf-Concepts/Setup-Manager> ⭐ 381 | 🐛 54 | 📅 2026-07-09
 
-[![](https://github.com/Jamf-Concepts/Setup-Manager/raw/main/Images/setup-manager-progress-screenshot.png)](https://github.com/Jamf-Concepts/Setup-Manager) ⭐ 380 | 🐛 54 | 📅 2026-07-09
+[![](https://github.com/Jamf-Concepts/Setup-Manager/raw/main/Images/setup-manager-progress-screenshot.png)](https://github.com/Jamf-Concepts/Setup-Manager) ⭐ 381 | 🐛 54 | 📅 2026-07-09
 
 ### Octory
 
@@ -530,7 +530,7 @@ Inspired by the [awesome](https://github.com/sindresorhus/awesome) ⭐ 515,965 |
 
 ### Jamf Compliance Editor
 
-> Jamf Compliance Editor is a tool that provides macOS system administrators with an easy way to establish and manage compliance baselines on their fleet of macOS devices. This tool is built on the foundations of the [macOS Security Compliance Project](https://github.com/usnistgov/macos_security) ⭐ 2,497 | 🐛 28 | 🌐 YAML | 📅 2026-09-24, hosted by the United States government agency, NIST, in their Github repo.
+> Jamf Compliance Editor is a tool that provides macOS system administrators with an easy way to establish and manage compliance baselines on their fleet of macOS devices. This tool is built on the foundations of the [macOS Security Compliance Project](https://github.com/usnistgov/macos_security) ⭐ 2,499 | 🐛 31 | 🌐 YAML | 📅 2026-09-24, hosted by the United States government agency, NIST, in their Github repo.
 
 **Cost:** N/A
 
@@ -554,9 +554,9 @@ Inspired by the [awesome](https://github.com/sindresorhus/awesome) ⭐ 515,965 |
 
 **Cost:** N/A
 
-**Link:** <https://github.com/usnistgov/macos_security> ⭐ 2,497 | 🐛 28 | 🌐 YAML | 📅 2026-09-24
+**Link:** <https://github.com/usnistgov/macos_security> ⭐ 2,499 | 🐛 31 | 🌐 YAML | 📅 2026-09-24
 
-[![](images/mscp.png)](https://github.com/usnistgov/macos_security) ⭐ 2,497 | 🐛 28 | 🌐 YAML | 📅 2026-09-24
+[![](images/mscp.png)](https://github.com/usnistgov/macos_security) ⭐ 2,499 | 🐛 31 | 🌐 YAML | 📅 2026-09-24
 
 ### The MUT
 
@@ -626,7 +626,7 @@ Inspired by the [awesome](https://github.com/sindresorhus/awesome) ⭐ 515,965 |
 
 **Link:** <https://rectangleapp.com/>
 
-[![](https://user-images.githubusercontent.com/13651296/101402672-57ab5300-38d4-11eb-9e8c-6a3147d26711.png)](https://github.com/rxhanson/Rectangle) ⭐ 30,044 | 🐛 69 | 🌐 Swift | 📅 2026-10-06
+[![](https://user-images.githubusercontent.com/13651296/101402672-57ab5300-38d4-11eb-9e8c-6a3147d26711.png)](https://github.com/rxhanson/Rectangle) ⭐ 30,048 | 🐛 71 | 🌐 Swift | 📅 2026-10-07
 
 ### Script2Pkg
 
@@ -634,9 +634,9 @@ Inspired by the [awesome](https://github.com/sindresorhus/awesome) ⭐ 515,965 |
 
 **Cost:** N/A
 
-**Link:** <https://github.com/SAP/script-to-package-tool-for-macos> ⭐ 124 | 🐛 0 | 🌐 HTML | 📅 2026-09-16
+**Link:** <https://github.com/SAP/script-to-package-tool-for-macos> ⭐ 125 | 🐛 0 | 🌐 HTML | 📅 2026-09-16
 
-[![](https://github.com/SAP/script-to-package-tool-for-macos/raw/main/readme_images/mainwindow_disabled.png)](https://github.com/SAP/script-to-package-tool-for-macos) ⭐ 124 | 🐛 0 | 🌐 HTML | 📅 2026-09-16
+[![](https://github.com/SAP/script-to-package-tool-for-macos/raw/main/readme_images/mainwindow_disabled.png)](https://github.com/SAP/script-to-package-tool-for-macos) ⭐ 125 | 🐛 0 | 🌐 HTML | 📅 2026-09-16
 
 ### SOFA
 
@@ -708,4 +708,4 @@ To the extent possible under law, [Emily Kausalik](https://twitter.com/emilyooo)
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-10-07._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-10-08._
