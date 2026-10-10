@@ -273,7 +273,7 @@
                 "open_issues": 10,
                 "owner": "alichtman",
                 "repo": "stronghold",
-                "stars": 1196,
+                "stars": 1197,
                 "topics": [
                   "command-line",
                   "command-line-tool",
@@ -339,7 +339,7 @@
                 "language": "Swift",
                 "license": "MIT",
                 "last_commit": "2026-10-08T03:21:37Z",
-                "open_issues": 52,
+                "open_issues": 57,
                 "owner": "swiftDialog",
                 "repo": "swiftDialog",
                 "stars": 854,
@@ -775,7 +775,7 @@
                 "open_issues": 0,
                 "owner": "SAP",
                 "repo": "macOS-icon-generator",
-                "stars": 641,
+                "stars": 642,
                 "topics": [
                   "customization",
                   "icons",
@@ -834,10 +834,10 @@
                 "language": "YAML",
                 "license": "NOASSERTION",
                 "last_commit": "2026-10-09T14:33:10Z",
-                "open_issues": 29,
+                "open_issues": 30,
                 "owner": "usnistgov",
                 "repo": "macos_security",
-                "stars": 2500,
+                "stars": 2501,
                 "topics": [
                   "apple",
                   "bash",
@@ -1103,7 +1103,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-09T16:23:14.574Z",
+    "last_updated": "2026-10-10T15:28:43.811Z",
     "original_repository_info": {
       "archived": false,
       "description": "🕶 Awesome Mac Admin Tools list",
