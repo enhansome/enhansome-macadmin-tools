@@ -21,7 +21,7 @@
                 "open_issues": 11,
                 "owner": "grahampugh",
                 "repo": "erase-install",
-                "stars": 956,
+                "stars": 957,
                 "topics": [
                   "apple",
                   "erase",
@@ -57,7 +57,7 @@
                 "open_issues": 8,
                 "owner": "munki",
                 "repo": "macadmin-scripts",
-                "stars": 2453,
+                "stars": 2454,
                 "topics": []
               },
               "first_seen": "2026-08-28T20:57:11.657Z"
@@ -85,7 +85,7 @@
                 "open_issues": 8,
                 "owner": "munki",
                 "repo": "macadmin-scripts",
-                "stars": 2453,
+                "stars": 2454,
                 "topics": []
               },
               "first_seen": "2026-08-28T20:57:11.657Z"
@@ -113,7 +113,7 @@
                 "open_issues": 75,
                 "owner": "ninxsoft",
                 "repo": "Mist",
-                "stars": 5270,
+                "stars": 5272,
                 "topics": []
               },
               "first_seen": "2026-08-28T20:57:11.657Z"
@@ -230,7 +230,7 @@
                 "open_issues": 19,
                 "owner": "Macjutsu",
                 "repo": "super",
-                "stars": 901,
+                "stars": 902,
                 "topics": [
                   "apple",
                   "compliance",
@@ -342,7 +342,7 @@
                 "open_issues": 57,
                 "owner": "swiftDialog",
                 "repo": "swiftDialog",
-                "stars": 854,
+                "stars": 855,
                 "topics": []
               },
               "first_seen": "2026-08-28T20:57:11.657Z"
@@ -441,7 +441,7 @@
                 "open_issues": 8,
                 "owner": "ninxsoft",
                 "repo": "LowProfile",
-                "stars": 436,
+                "stars": 437,
                 "topics": []
               },
               "first_seen": "2026-08-28T20:57:11.657Z"
@@ -497,7 +497,7 @@
                 "open_issues": 9,
                 "owner": "macadmins",
                 "repo": "nudge",
-                "stars": 1276,
+                "stars": 1277,
                 "topics": []
               },
               "first_seen": "2026-08-28T20:57:11.657Z"
@@ -704,7 +704,7 @@
                 "open_issues": 84,
                 "owner": "root3nl",
                 "repo": "SupportApp",
-                "stars": 800,
+                "stars": 801,
                 "topics": []
               },
               "first_seen": "2026-08-28T20:57:11.657Z"
@@ -775,7 +775,7 @@
                 "open_issues": 0,
                 "owner": "SAP",
                 "repo": "macOS-icon-generator",
-                "stars": 642,
+                "stars": 643,
                 "topics": [
                   "customization",
                   "icons",
@@ -833,8 +833,8 @@
                 "id": 269753140,
                 "language": "YAML",
                 "license": "NOASSERTION",
-                "last_commit": "2026-10-09T14:33:10Z",
-                "open_issues": 30,
+                "last_commit": "2026-10-10T17:54:00Z",
+                "open_issues": 28,
                 "owner": "usnistgov",
                 "repo": "macos_security",
                 "stars": 2501,
@@ -1103,7 +1103,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-10T15:28:43.811Z",
+    "last_updated": "2026-10-11T15:50:10.436Z",
     "original_repository_info": {
       "archived": false,
       "description": "🕶 Awesome Mac Admin Tools list",
