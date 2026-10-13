@@ -57,7 +57,7 @@
                 "open_issues": 8,
                 "owner": "munki",
                 "repo": "macadmin-scripts",
-                "stars": 2454,
+                "stars": 2455,
                 "topics": []
               },
               "first_seen": "2026-08-28T20:57:11.657Z"
@@ -85,7 +85,7 @@
                 "open_issues": 8,
                 "owner": "munki",
                 "repo": "macadmin-scripts",
-                "stars": 2454,
+                "stars": 2455,
                 "topics": []
               },
               "first_seen": "2026-08-28T20:57:11.657Z"
@@ -113,7 +113,7 @@
                 "open_issues": 75,
                 "owner": "ninxsoft",
                 "repo": "Mist",
-                "stars": 5276,
+                "stars": 5277,
                 "topics": []
               },
               "first_seen": "2026-08-28T20:57:11.657Z"
@@ -227,7 +227,7 @@
                 "language": "Shell",
                 "license": "Apache-2.0",
                 "last_commit": "2026-10-12T13:08:23Z",
-                "open_issues": 19,
+                "open_issues": 20,
                 "owner": "Macjutsu",
                 "repo": "super",
                 "stars": 903,
@@ -339,7 +339,7 @@
                 "language": "Swift",
                 "license": "MIT",
                 "last_commit": "2026-10-08T03:21:37Z",
-                "open_issues": 57,
+                "open_issues": 58,
                 "owner": "swiftDialog",
                 "repo": "swiftDialog",
                 "stars": 856,
@@ -372,7 +372,7 @@
                 "id": 11913841,
                 "language": "Python",
                 "license": "Apache-2.0",
-                "last_commit": "2026-10-05T22:14:01Z",
+                "last_commit": "2026-10-12T21:05:42Z",
                 "open_issues": 61,
                 "owner": "autopkg",
                 "repo": "autopkg",
@@ -834,10 +834,10 @@
                 "language": "YAML",
                 "license": "NOASSERTION",
                 "last_commit": "2026-10-10T17:54:00Z",
-                "open_issues": 28,
+                "open_issues": 30,
                 "owner": "usnistgov",
                 "repo": "macos_security",
-                "stars": 2503,
+                "stars": 2505,
                 "topics": [
                   "apple",
                   "bash",
@@ -1103,7 +1103,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-12T19:10:14.232Z",
+    "last_updated": "2026-10-13T17:01:59.087Z",
     "original_repository_info": {
       "archived": false,
       "description": "🕶 Awesome Mac Admin Tools list",
