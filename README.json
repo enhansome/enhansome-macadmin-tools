@@ -21,7 +21,7 @@
                 "open_issues": 11,
                 "owner": "grahampugh",
                 "repo": "erase-install",
-                "stars": 957,
+                "stars": 958,
                 "topics": [
                   "apple",
                   "erase",
@@ -57,7 +57,7 @@
                 "open_issues": 8,
                 "owner": "munki",
                 "repo": "macadmin-scripts",
-                "stars": 2455,
+                "stars": 2456,
                 "topics": []
               },
               "first_seen": "2026-08-28T20:57:11.657Z"
@@ -85,7 +85,7 @@
                 "open_issues": 8,
                 "owner": "munki",
                 "repo": "macadmin-scripts",
-                "stars": 2455,
+                "stars": 2456,
                 "topics": []
               },
               "first_seen": "2026-08-28T20:57:11.657Z"
@@ -227,10 +227,10 @@
                 "language": "Shell",
                 "license": "Apache-2.0",
                 "last_commit": "2026-10-12T13:08:23Z",
-                "open_issues": 20,
+                "open_issues": 21,
                 "owner": "Macjutsu",
                 "repo": "super",
-                "stars": 903,
+                "stars": 902,
                 "topics": [
                   "apple",
                   "compliance",
@@ -376,7 +376,7 @@
                 "open_issues": 61,
                 "owner": "autopkg",
                 "repo": "autopkg",
-                "stars": 1484,
+                "stars": 1485,
                 "topics": [
                   "apple",
                   "automation",
@@ -497,7 +497,7 @@
                 "open_issues": 9,
                 "owner": "macadmins",
                 "repo": "nudge",
-                "stars": 1278,
+                "stars": 1280,
                 "topics": []
               },
               "first_seen": "2026-08-28T20:57:11.657Z"
@@ -837,7 +837,7 @@
                 "open_issues": 30,
                 "owner": "usnistgov",
                 "repo": "macos_security",
-                "stars": 2505,
+                "stars": 2507,
                 "topics": [
                   "apple",
                   "bash",
@@ -1103,7 +1103,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-13T17:01:59.087Z",
+    "last_updated": "2026-10-14T14:35:04.907Z",
     "original_repository_info": {
       "archived": false,
       "description": "🕶 Awesome Mac Admin Tools list",
