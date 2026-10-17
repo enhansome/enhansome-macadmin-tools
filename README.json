@@ -113,7 +113,7 @@
                 "open_issues": 75,
                 "owner": "ninxsoft",
                 "repo": "Mist",
-                "stars": 5283,
+                "stars": 5284,
                 "topics": []
               },
               "first_seen": "2026-08-28T20:57:11.657Z"
@@ -226,7 +226,7 @@
                 "id": 469797351,
                 "language": "Shell",
                 "license": "Apache-2.0",
-                "last_commit": "2026-10-16T12:31:57Z",
+                "last_commit": "2026-10-16T19:59:18Z",
                 "open_issues": 20,
                 "owner": "Macjutsu",
                 "repo": "super",
@@ -837,7 +837,7 @@
                 "open_issues": 26,
                 "owner": "usnistgov",
                 "repo": "macos_security",
-                "stars": 2508,
+                "stars": 2509,
                 "topics": [
                   "apple",
                   "bash",
@@ -1103,7 +1103,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-16T14:04:17.653Z",
+    "last_updated": "2026-10-17T13:03:40.364Z",
     "original_repository_info": {
       "archived": false,
       "description": "🕶 Awesome Mac Admin Tools list",
