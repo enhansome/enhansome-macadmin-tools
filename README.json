@@ -113,7 +113,7 @@
                 "open_issues": 75,
                 "owner": "ninxsoft",
                 "repo": "Mist",
-                "stars": 5284,
+                "stars": 5288,
                 "topics": []
               },
               "first_seen": "2026-08-28T20:57:11.657Z"
@@ -611,7 +611,7 @@
                 "language": "Shell",
                 "license": "Apache-2.0",
                 "last_commit": "2026-09-29T15:04:29Z",
-                "open_issues": 6,
+                "open_issues": 8,
                 "owner": "Mac-Nerd",
                 "repo": "patchomator",
                 "stars": 145,
@@ -1103,7 +1103,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-17T13:03:40.364Z",
+    "last_updated": "2026-10-18T13:23:23.793Z",
     "original_repository_info": {
       "archived": false,
       "description": "🕶 Awesome Mac Admin Tools list",
