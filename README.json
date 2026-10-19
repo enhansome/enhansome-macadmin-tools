@@ -21,7 +21,7 @@
                 "open_issues": 11,
                 "owner": "grahampugh",
                 "repo": "erase-install",
-                "stars": 958,
+                "stars": 959,
                 "topics": [
                   "apple",
                   "erase",
@@ -227,10 +227,10 @@
                 "language": "Shell",
                 "license": "Apache-2.0",
                 "last_commit": "2026-10-16T19:59:18Z",
-                "open_issues": 20,
+                "open_issues": 21,
                 "owner": "Macjutsu",
                 "repo": "super",
-                "stars": 902,
+                "stars": 903,
                 "topics": [
                   "apple",
                   "compliance",
@@ -338,8 +338,8 @@
                 "id": 346831918,
                 "language": "Swift",
                 "license": "MIT",
-                "last_commit": "2026-10-08T03:21:37Z",
-                "open_issues": 58,
+                "last_commit": "2026-10-19T12:27:33Z",
+                "open_issues": 57,
                 "owner": "swiftDialog",
                 "repo": "swiftDialog",
                 "stars": 856,
@@ -837,7 +837,7 @@
                 "open_issues": 26,
                 "owner": "usnistgov",
                 "repo": "macos_security",
-                "stars": 2509,
+                "stars": 2510,
                 "topics": [
                   "apple",
                   "bash",
@@ -940,7 +940,7 @@
                 "open_issues": 13,
                 "owner": "BIG-RAT",
                 "repo": "Prune",
-                "stars": 204,
+                "stars": 205,
                 "topics": []
               },
               "first_seen": "2026-08-28T20:57:11.657Z"
@@ -1103,7 +1103,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-18T13:23:23.793Z",
+    "last_updated": "2026-10-19T16:33:21.295Z",
     "original_repository_info": {
       "archived": false,
       "description": "🕶 Awesome Mac Admin Tools list",
