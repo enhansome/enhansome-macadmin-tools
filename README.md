@@ -2,7 +2,7 @@
 
 > A curated list of handy-dandy tools for Mac Admins.
 
-Inspired by the [awesome](https://github.com/sindresorhus/awesome) ⭐ 521,335 | 🐛 105 | 📅 2026-09-02 list.
+Inspired by the [awesome](https://github.com/sindresorhus/awesome) ⭐ 521,755 | 🐛 105 | 📅 2026-09-02 list.
 
 ## Contents
 
@@ -54,9 +54,9 @@ Inspired by the [awesome](https://github.com/sindresorhus/awesome) ⭐ 521,335 |
 
 **Cost:** N/A
 
-**Link:** <https://github.com/ninxsoft/Mist> ⭐ 5,288 | 🐛 75 | 🌐 Swift | 📅 2026-07-07
+**Link:** <https://github.com/ninxsoft/Mist> ⭐ 5,287 | 🐛 75 | 🌐 Swift | 📅 2026-07-07
 
-[![](https://github.com/ninxsoft/Mist/raw/main/README%20Resources/Installers.png)](https://github.com/ninxsoft/Mist) ⭐ 5,288 | 🐛 75 | 🌐 Swift | 📅 2026-07-07
+[![](https://github.com/ninxsoft/Mist/raw/main/README%20Resources/Installers.png)](https://github.com/ninxsoft/Mist) ⭐ 5,287 | 🐛 75 | 🌐 Swift | 📅 2026-07-07
 
 ### moss
 
@@ -146,9 +146,9 @@ Inspired by the [awesome](https://github.com/sindresorhus/awesome) ⭐ 521,335 |
 
 **Cost:** N/A
 
-**Link:** <https://github.com/autopkg/autopkg> ⭐ 1,485 | 🐛 61 | 🌐 Python | 📅 2026-10-12
+**Link:** <https://github.com/autopkg/autopkg> ⭐ 1,485 | 🐛 61 | 🌐 Python | 📅 2026-10-19
 
-[![](images/autopkg.png)](https://github.com/autopkg/autopkg) ⭐ 1,485 | 🐛 61 | 🌐 Python | 📅 2026-10-12
+[![](images/autopkg.png)](https://github.com/autopkg/autopkg) ⭐ 1,485 | 🐛 61 | 🌐 Python | 📅 2026-10-19
 
 ### AutoPkgr
 
@@ -196,9 +196,9 @@ Inspired by the [awesome](https://github.com/sindresorhus/awesome) ⭐ 521,335 |
 
 **Cost:** N/A
 
-**Link:** <https://github.com/macadmins/nudge> ⭐ 1,280 | 🐛 9 | 🌐 Swift | 📅 2026-09-08
+**Link:** <https://github.com/macadmins/nudge> ⭐ 1,282 | 🐛 9 | 🌐 Swift | 📅 2026-09-08
 
-[![](https://github.com/macadmins/nudge/blob/main/assets/standard_mode/demo_light_1_icon.png?raw=true)](https://github.com/macadmins/nudge) ⭐ 1,280 | 🐛 9 | 🌐 Swift | 📅 2026-09-08
+[![](https://github.com/macadmins/nudge/blob/main/assets/standard_mode/demo_light_1_icon.png?raw=true)](https://github.com/macadmins/nudge) ⭐ 1,282 | 🐛 9 | 🌐 Swift | 📅 2026-09-08
 
 ### Packages.app
 
@@ -226,9 +226,9 @@ Inspired by the [awesome](https://github.com/sindresorhus/awesome) ⭐ 521,335 |
 
 **Cost:** N/A
 
-**Link:** <https://github.com/ProfileCreator/ProfileCreator> ⭐ 1,515 | 🐛 76 | 🌐 Swift | 📅 2025-01-11
+**Link:** <https://github.com/ProfileCreator/ProfileCreator> ⭐ 1,516 | 🐛 76 | 🌐 Swift | 📅 2025-01-11
 
-[![](https://github.com/ProfileCreator/ProfileCreator/raw/master/resources/screenshots/ProfileCreator.png)](https://github.com/ProfileCreator/ProfileCreator) ⭐ 1,515 | 🐛 76 | 🌐 Swift | 📅 2025-01-11
+[![](https://github.com/ProfileCreator/ProfileCreator/raw/master/resources/screenshots/ProfileCreator.png)](https://github.com/ProfileCreator/ProfileCreator) ⭐ 1,516 | 🐛 76 | 🌐 Swift | 📅 2025-01-11
 
 ### Suspicious Package
 
@@ -614,9 +614,9 @@ Inspired by the [awesome](https://github.com/sindresorhus/awesome) ⭐ 521,335 |
 
 **Cost:** Free
 
-**Link:** <https://github.com/BIG-RAT/Prune> ⭐ 205 | 🐛 13 | 🌐 Swift | 📅 2026-09-05
+**Link:** <https://github.com/BIG-RAT/Prune> ⭐ 206 | 🐛 14 | 🌐 Swift | 📅 2026-09-05
 
-[![](https://github.com/BIG-RAT/Prune/blob/master/images/pruneApp.png?raw=true)](https://github.com/BIG-RAT/Prune) ⭐ 205 | 🐛 13 | 🌐 Swift | 📅 2026-09-05
+[![](https://github.com/BIG-RAT/Prune/blob/master/images/pruneApp.png?raw=true)](https://github.com/BIG-RAT/Prune) ⭐ 206 | 🐛 14 | 🌐 Swift | 📅 2026-09-05
 
 ### Rectangle
 
@@ -626,7 +626,7 @@ Inspired by the [awesome](https://github.com/sindresorhus/awesome) ⭐ 521,335 |
 
 **Link:** <https://rectangleapp.com/>
 
-[![](https://user-images.githubusercontent.com/13651296/101402672-57ab5300-38d4-11eb-9e8c-6a3147d26711.png)](https://github.com/rxhanson/Rectangle) ⭐ 30,106 | 🐛 79 | 🌐 Swift | 📅 2026-10-19
+[![](https://user-images.githubusercontent.com/13651296/101402672-57ab5300-38d4-11eb-9e8c-6a3147d26711.png)](https://github.com/rxhanson/Rectangle) ⭐ 30,112 | 🐛 68 | 🌐 Swift | 📅 2026-10-20
 
 ### Script2Pkg
 
@@ -684,9 +684,9 @@ Inspired by the [awesome](https://github.com/sindresorhus/awesome) ⭐ 521,335 |
 
 **Cost:** N/A
 
-**Link:** <https://github.com/ProfileCreator/ProfileCreator> ⭐ 1,515 | 🐛 76 | 🌐 Swift | 📅 2025-01-11
+**Link:** <https://github.com/ProfileCreator/ProfileCreator> ⭐ 1,516 | 🐛 76 | 🌐 Swift | 📅 2025-01-11
 
-[![](https://github.com/ProfileCreator/ProfileCreator/blob/master/resources/screenshots/ProfileCreator.png)](https://github.com/ProfileCreator/ProfileCreator) ⭐ 1,515 | 🐛 76 | 🌐 Swift | 📅 2025-01-11
+[![](https://github.com/ProfileCreator/ProfileCreator/blob/master/resources/screenshots/ProfileCreator.png)](https://github.com/ProfileCreator/ProfileCreator) ⭐ 1,516 | 🐛 76 | 🌐 Swift | 📅 2025-01-11
 
 ### iMazing Profile Editor
 
@@ -708,4 +708,4 @@ To the extent possible under law, [Emily Kausalik](https://twitter.com/emilyooo)
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-10-19._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-10-20._
