@@ -21,7 +21,7 @@
                 "open_issues": 11,
                 "owner": "grahampugh",
                 "repo": "erase-install",
-                "stars": 959,
+                "stars": 960,
                 "topics": [
                   "apple",
                   "erase",
@@ -57,7 +57,7 @@
                 "open_issues": 8,
                 "owner": "munki",
                 "repo": "macadmin-scripts",
-                "stars": 2457,
+                "stars": 2458,
                 "topics": []
               },
               "first_seen": "2026-08-28T20:57:11.657Z"
@@ -85,7 +85,7 @@
                 "open_issues": 8,
                 "owner": "munki",
                 "repo": "macadmin-scripts",
-                "stars": 2457,
+                "stars": 2458,
                 "topics": []
               },
               "first_seen": "2026-08-28T20:57:11.657Z"
@@ -113,7 +113,7 @@
                 "open_issues": 75,
                 "owner": "ninxsoft",
                 "repo": "Mist",
-                "stars": 5287,
+                "stars": 5292,
                 "topics": []
               },
               "first_seen": "2026-08-28T20:57:11.657Z"
@@ -230,7 +230,7 @@
                 "open_issues": 21,
                 "owner": "Macjutsu",
                 "repo": "super",
-                "stars": 903,
+                "stars": 905,
                 "topics": [
                   "apple",
                   "compliance",
@@ -342,7 +342,7 @@
                 "open_issues": 57,
                 "owner": "swiftDialog",
                 "repo": "swiftDialog",
-                "stars": 856,
+                "stars": 857,
                 "topics": []
               },
               "first_seen": "2026-08-28T20:57:11.657Z"
@@ -834,7 +834,7 @@
                 "language": "YAML",
                 "license": "NOASSERTION",
                 "last_commit": "2026-10-14T15:54:20Z",
-                "open_issues": 26,
+                "open_issues": 28,
                 "owner": "usnistgov",
                 "repo": "macos_security",
                 "stars": 2510,
@@ -1103,7 +1103,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-20T14:23:47.472Z",
+    "last_updated": "2026-10-21T14:33:18.074Z",
     "original_repository_info": {
       "archived": false,
       "description": "🕶 Awesome Mac Admin Tools list",
@@ -1115,7 +1115,7 @@
       "open_issues": 15,
       "owner": "smashism",
       "repo": "awesome-macadmin-tools",
-      "stars": 682,
+      "stars": 683,
       "topics": [
         "awesome",
         "awesome-list",
