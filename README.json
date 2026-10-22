@@ -17,7 +17,7 @@
                 "id": 140421285,
                 "language": "Shell",
                 "license": "Apache-2.0",
-                "last_commit": "2026-10-09T08:09:34Z",
+                "last_commit": "2026-10-22T08:31:34Z",
                 "open_issues": 11,
                 "owner": "grahampugh",
                 "repo": "erase-install",
@@ -113,7 +113,7 @@
                 "open_issues": 75,
                 "owner": "ninxsoft",
                 "repo": "Mist",
-                "stars": 5292,
+                "stars": 5294,
                 "topics": []
               },
               "first_seen": "2026-08-28T20:57:11.657Z"
@@ -376,7 +376,7 @@
                 "open_issues": 61,
                 "owner": "autopkg",
                 "repo": "autopkg",
-                "stars": 1485,
+                "stars": 1486,
                 "topics": [
                   "apple",
                   "automation",
@@ -410,7 +410,7 @@
                 "language": "Objective-C",
                 "license": "Apache-2.0",
                 "last_commit": "2026-07-17T19:22:13Z",
-                "open_issues": 13,
+                "open_issues": 14,
                 "owner": "lindegroup",
                 "repo": "autopkgr",
                 "stars": 567,
@@ -497,7 +497,7 @@
                 "open_issues": 9,
                 "owner": "macadmins",
                 "repo": "nudge",
-                "stars": 1282,
+                "stars": 1283,
                 "topics": []
               },
               "first_seen": "2026-08-28T20:57:11.657Z"
@@ -704,7 +704,7 @@
                 "open_issues": 84,
                 "owner": "root3nl",
                 "repo": "SupportApp",
-                "stars": 801,
+                "stars": 802,
                 "topics": []
               },
               "first_seen": "2026-08-28T20:57:11.657Z"
@@ -738,7 +738,7 @@
                 "open_issues": 2,
                 "owner": "macadmins",
                 "repo": "escrow-buddy",
-                "stars": 306,
+                "stars": 307,
                 "topics": [
                   "authorization-plugin",
                   "filevault",
@@ -833,11 +833,11 @@
                 "id": 269753140,
                 "language": "YAML",
                 "license": "NOASSERTION",
-                "last_commit": "2026-10-14T15:54:20Z",
+                "last_commit": "2026-10-21T17:23:18Z",
                 "open_issues": 28,
                 "owner": "usnistgov",
                 "repo": "macos_security",
-                "stars": 2510,
+                "stars": 2511,
                 "topics": [
                   "apple",
                   "bash",
@@ -874,7 +874,7 @@
                 "open_issues": 7,
                 "owner": "jamf",
                 "repo": "PPPC-Utility",
-                "stars": 883,
+                "stars": 884,
                 "topics": [
                   "app",
                   "configuration-profiles",
@@ -1103,7 +1103,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-21T14:33:18.074Z",
+    "last_updated": "2026-10-22T14:34:55.480Z",
     "original_repository_info": {
       "archived": false,
       "description": "🕶 Awesome Mac Admin Tools list",
@@ -1115,7 +1115,7 @@
       "open_issues": 15,
       "owner": "smashism",
       "repo": "awesome-macadmin-tools",
-      "stars": 683,
+      "stars": 684,
       "topics": [
         "awesome",
         "awesome-list",
