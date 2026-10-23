@@ -113,7 +113,7 @@
                 "open_issues": 75,
                 "owner": "ninxsoft",
                 "repo": "Mist",
-                "stars": 5294,
+                "stars": 5296,
                 "topics": []
               },
               "first_seen": "2026-08-28T20:57:11.657Z"
@@ -141,7 +141,7 @@
                 "open_issues": 1,
                 "owner": "WardsParadox",
                 "repo": "moss",
-                "stars": 31,
+                "stars": 32,
                 "topics": [
                   "hello-it",
                   "mac",
@@ -202,7 +202,7 @@
                 "open_issues": 0,
                 "owner": "Honestpuck",
                 "repo": "scriptorium",
-                "stars": 59,
+                "stars": 60,
                 "topics": []
               },
               "first_seen": "2026-08-28T20:57:11.657Z"
@@ -227,7 +227,7 @@
                 "language": "Shell",
                 "license": "Apache-2.0",
                 "last_commit": "2026-10-16T19:59:18Z",
-                "open_issues": 21,
+                "open_issues": 22,
                 "owner": "Macjutsu",
                 "repo": "super",
                 "stars": 905,
@@ -273,7 +273,7 @@
                 "open_issues": 10,
                 "owner": "alichtman",
                 "repo": "stronghold",
-                "stars": 1198,
+                "stars": 1197,
                 "topics": [
                   "command-line",
                   "command-line-tool",
@@ -372,8 +372,8 @@
                 "id": 11913841,
                 "language": "Python",
                 "license": "Apache-2.0",
-                "last_commit": "2026-10-19T21:08:39Z",
-                "open_issues": 61,
+                "last_commit": "2026-10-22T15:53:53Z",
+                "open_issues": 60,
                 "owner": "autopkg",
                 "repo": "autopkg",
                 "stars": 1486,
@@ -553,7 +553,7 @@
                 "open_issues": 76,
                 "owner": "ProfileCreator",
                 "repo": "ProfileCreator",
-                "stars": 1516,
+                "stars": 1514,
                 "topics": []
               },
               "first_seen": "2026-08-28T20:57:11.657Z"
@@ -614,7 +614,7 @@
                 "open_issues": 8,
                 "owner": "Mac-Nerd",
                 "repo": "patchomator",
-                "stars": 145,
+                "stars": 146,
                 "topics": []
               },
               "first_seen": "2026-08-28T20:57:11.657Z"
@@ -775,7 +775,7 @@
                 "open_issues": 0,
                 "owner": "SAP",
                 "repo": "macOS-icon-generator",
-                "stars": 643,
+                "stars": 644,
                 "topics": [
                   "customization",
                   "icons",
@@ -833,8 +833,8 @@
                 "id": 269753140,
                 "language": "YAML",
                 "license": "NOASSERTION",
-                "last_commit": "2026-10-21T17:23:18Z",
-                "open_issues": 28,
+                "last_commit": "2026-10-22T16:51:52Z",
+                "open_issues": 22,
                 "owner": "usnistgov",
                 "repo": "macos_security",
                 "stars": 2511,
@@ -1088,7 +1088,7 @@
                 "open_issues": 76,
                 "owner": "ProfileCreator",
                 "repo": "ProfileCreator",
-                "stars": 1516,
+                "stars": 1514,
                 "topics": []
               },
               "first_seen": "2026-08-28T20:57:11.657Z"
@@ -1103,7 +1103,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-22T14:34:55.480Z",
+    "last_updated": "2026-10-23T14:18:46.914Z",
     "original_repository_info": {
       "archived": false,
       "description": "🕶 Awesome Mac Admin Tools list",
@@ -1112,7 +1112,7 @@
       "language": null,
       "license": null,
       "last_commit": "2025-12-17T15:09:34Z",
-      "open_issues": 15,
+      "open_issues": 16,
       "owner": "smashism",
       "repo": "awesome-macadmin-tools",
       "stars": 684,
