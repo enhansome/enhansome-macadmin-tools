@@ -113,7 +113,7 @@
                 "open_issues": 76,
                 "owner": "ninxsoft",
                 "repo": "Mist",
-                "stars": 5298,
+                "stars": 5302,
                 "topics": []
               },
               "first_seen": "2026-08-28T20:57:11.657Z"
@@ -339,10 +339,10 @@
                 "language": "Swift",
                 "license": "MIT",
                 "last_commit": "2026-10-19T22:28:06Z",
-                "open_issues": 58,
+                "open_issues": 59,
                 "owner": "swiftDialog",
                 "repo": "swiftDialog",
-                "stars": 858,
+                "stars": 859,
                 "topics": []
               },
               "first_seen": "2026-08-28T20:57:11.657Z"
@@ -1103,7 +1103,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-24T13:25:20.604Z",
+    "last_updated": "2026-10-25T13:47:31.251Z",
     "original_repository_info": {
       "archived": false,
       "description": "🕶 Awesome Mac Admin Tools list",

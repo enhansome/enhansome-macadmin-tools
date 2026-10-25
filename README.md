@@ -2,7 +2,7 @@
 
 > A curated list of handy-dandy tools for Mac Admins.
 
-Inspired by the [awesome](https://github.com/sindresorhus/awesome) ⭐ 523,927 | 🐛 105 | 📅 2026-09-02 list.
+Inspired by the [awesome](https://github.com/sindresorhus/awesome) ⭐ 524,507 | 🐛 105 | 📅 2026-09-02 list.
 
 ## Contents
 
@@ -54,9 +54,9 @@ Inspired by the [awesome](https://github.com/sindresorhus/awesome) ⭐ 523,927 |
 
 **Cost:** N/A
 
-**Link:** <https://github.com/ninxsoft/Mist> ⭐ 5,298 | 🐛 76 | 🌐 Swift | 📅 2026-07-07
+**Link:** <https://github.com/ninxsoft/Mist> ⭐ 5,302 | 🐛 76 | 🌐 Swift | 📅 2026-07-07
 
-[![](https://github.com/ninxsoft/Mist/raw/main/README%20Resources/Installers.png)](https://github.com/ninxsoft/Mist) ⭐ 5,298 | 🐛 76 | 🌐 Swift | 📅 2026-07-07
+[![](https://github.com/ninxsoft/Mist/raw/main/README%20Resources/Installers.png)](https://github.com/ninxsoft/Mist) ⭐ 5,302 | 🐛 76 | 🌐 Swift | 📅 2026-07-07
 
 ### moss
 
@@ -124,9 +124,9 @@ Inspired by the [awesome](https://github.com/sindresorhus/awesome) ⭐ 523,927 |
 
 **Cost:** Free
 
-**Link:** <https://github.com/swiftDialog/swiftDialog> ⭐ 858 | 🐛 58 | 🌐 Swift | 📅 2026-10-19
+**Link:** <https://github.com/swiftDialog/swiftDialog> ⭐ 859 | 🐛 59 | 🌐 Swift | 📅 2026-10-19
 
-[![](images/swiftDialog.png)](https://github.com/swiftDialog/swiftDialog) ⭐ 858 | 🐛 58 | 🌐 Swift | 📅 2026-10-19
+[![](images/swiftDialog.png)](https://github.com/swiftDialog/swiftDialog) ⭐ 859 | 🐛 59 | 🌐 Swift | 📅 2026-10-19
 
 ## Deployment
 
@@ -626,7 +626,7 @@ Inspired by the [awesome](https://github.com/sindresorhus/awesome) ⭐ 523,927 |
 
 **Link:** <https://rectangleapp.com/>
 
-[![](https://user-images.githubusercontent.com/13651296/101402672-57ab5300-38d4-11eb-9e8c-6a3147d26711.png)](https://github.com/rxhanson/Rectangle) ⭐ 30,142 | 🐛 73 | 🌐 Swift | 📅 2026-10-22
+[![](https://user-images.githubusercontent.com/13651296/101402672-57ab5300-38d4-11eb-9e8c-6a3147d26711.png)](https://github.com/rxhanson/Rectangle) ⭐ 30,153 | 🐛 73 | 🌐 Swift | 📅 2026-10-22
 
 ### Script2Pkg
 
@@ -708,4 +708,4 @@ To the extent possible under law, [Emily Kausalik](https://twitter.com/emilyooo)
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-10-24._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-10-25._
