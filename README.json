@@ -269,7 +269,7 @@
                 "id": 125603504,
                 "language": "Python",
                 "license": "MIT",
-                "last_commit": "2025-02-24T07:31:58Z",
+                "last_commit": "2026-10-26T05:13:43Z",
                 "open_issues": 10,
                 "owner": "alichtman",
                 "repo": "stronghold",
@@ -339,7 +339,7 @@
                 "language": "Swift",
                 "license": "MIT",
                 "last_commit": "2026-10-19T22:28:06Z",
-                "open_issues": 59,
+                "open_issues": 58,
                 "owner": "swiftDialog",
                 "repo": "swiftDialog",
                 "stars": 859,
@@ -372,7 +372,7 @@
                 "id": 11913841,
                 "language": "Python",
                 "license": "Apache-2.0",
-                "last_commit": "2026-10-22T15:53:53Z",
+                "last_commit": "2026-10-26T16:06:35Z",
                 "open_issues": 60,
                 "owner": "autopkg",
                 "repo": "autopkg",
@@ -833,7 +833,7 @@
                 "id": 269753140,
                 "language": "YAML",
                 "license": "NOASSERTION",
-                "last_commit": "2026-10-23T21:00:12Z",
+                "last_commit": "2026-10-26T14:18:29Z",
                 "open_issues": 24,
                 "owner": "usnistgov",
                 "repo": "macos_security",
@@ -1103,7 +1103,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-25T13:47:31.251Z",
+    "last_updated": "2026-10-26T16:13:21.928Z",
     "original_repository_info": {
       "archived": false,
       "description": "🕶 Awesome Mac Admin Tools list",
@@ -1115,7 +1115,7 @@
       "open_issues": 16,
       "owner": "smashism",
       "repo": "awesome-macadmin-tools",
-      "stars": 684,
+      "stars": 685,
       "topics": [
         "awesome",
         "awesome-list",

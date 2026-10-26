@@ -2,7 +2,7 @@
 
 > A curated list of handy-dandy tools for Mac Admins.
 
-Inspired by the [awesome](https://github.com/sindresorhus/awesome) ⭐ 524,507 | 🐛 105 | 📅 2026-09-02 list.
+Inspired by the [awesome](https://github.com/sindresorhus/awesome) ⭐ 525,027 | 🐛 105 | 📅 2026-09-02 list.
 
 ## Contents
 
@@ -104,9 +104,9 @@ Inspired by the [awesome](https://github.com/sindresorhus/awesome) ⭐ 524,507 |
 
 **Cost:** N/A
 
-**Link:** <https://github.com/alichtman/stronghold> ⭐ 1,197 | 🐛 10 | 🌐 Python | 📅 2025-02-24
+**Link:** <https://github.com/alichtman/stronghold> ⭐ 1,197 | 🐛 10 | 🌐 Python | 📅 2026-10-26
 
-[![](images/stronghold.gif)](https://github.com/alichtman/stronghold) ⭐ 1,197 | 🐛 10 | 🌐 Python | 📅 2025-02-24
+[![](images/stronghold.gif)](https://github.com/alichtman/stronghold) ⭐ 1,197 | 🐛 10 | 🌐 Python | 📅 2026-10-26
 
 ### vfuse
 
@@ -124,9 +124,9 @@ Inspired by the [awesome](https://github.com/sindresorhus/awesome) ⭐ 524,507 |
 
 **Cost:** Free
 
-**Link:** <https://github.com/swiftDialog/swiftDialog> ⭐ 859 | 🐛 59 | 🌐 Swift | 📅 2026-10-19
+**Link:** <https://github.com/swiftDialog/swiftDialog> ⭐ 859 | 🐛 58 | 🌐 Swift | 📅 2026-10-19
 
-[![](images/swiftDialog.png)](https://github.com/swiftDialog/swiftDialog) ⭐ 859 | 🐛 59 | 🌐 Swift | 📅 2026-10-19
+[![](images/swiftDialog.png)](https://github.com/swiftDialog/swiftDialog) ⭐ 859 | 🐛 58 | 🌐 Swift | 📅 2026-10-19
 
 ## Deployment
 
@@ -146,9 +146,9 @@ Inspired by the [awesome](https://github.com/sindresorhus/awesome) ⭐ 524,507 |
 
 **Cost:** N/A
 
-**Link:** <https://github.com/autopkg/autopkg> ⭐ 1,486 | 🐛 60 | 🌐 Python | 📅 2026-10-22
+**Link:** <https://github.com/autopkg/autopkg> ⭐ 1,486 | 🐛 60 | 🌐 Python | 📅 2026-10-26
 
-[![](images/autopkg.png)](https://github.com/autopkg/autopkg) ⭐ 1,486 | 🐛 60 | 🌐 Python | 📅 2026-10-22
+[![](images/autopkg.png)](https://github.com/autopkg/autopkg) ⭐ 1,486 | 🐛 60 | 🌐 Python | 📅 2026-10-26
 
 ### AutoPkgr
 
@@ -530,7 +530,7 @@ Inspired by the [awesome](https://github.com/sindresorhus/awesome) ⭐ 524,507 |
 
 ### Jamf Compliance Editor
 
-> Jamf Compliance Editor is a tool that provides macOS system administrators with an easy way to establish and manage compliance baselines on their fleet of macOS devices. This tool is built on the foundations of the [macOS Security Compliance Project](https://github.com/usnistgov/macos_security) ⭐ 2,512 | 🐛 24 | 🌐 YAML | 📅 2026-10-23, hosted by the United States government agency, NIST, in their Github repo.
+> Jamf Compliance Editor is a tool that provides macOS system administrators with an easy way to establish and manage compliance baselines on their fleet of macOS devices. This tool is built on the foundations of the [macOS Security Compliance Project](https://github.com/usnistgov/macos_security) ⭐ 2,512 | 🐛 24 | 🌐 YAML | 📅 2026-10-26, hosted by the United States government agency, NIST, in their Github repo.
 
 **Cost:** N/A
 
@@ -554,9 +554,9 @@ Inspired by the [awesome](https://github.com/sindresorhus/awesome) ⭐ 524,507 |
 
 **Cost:** N/A
 
-**Link:** <https://github.com/usnistgov/macos_security> ⭐ 2,512 | 🐛 24 | 🌐 YAML | 📅 2026-10-23
+**Link:** <https://github.com/usnistgov/macos_security> ⭐ 2,512 | 🐛 24 | 🌐 YAML | 📅 2026-10-26
 
-[![](images/mscp.png)](https://github.com/usnistgov/macos_security) ⭐ 2,512 | 🐛 24 | 🌐 YAML | 📅 2026-10-23
+[![](images/mscp.png)](https://github.com/usnistgov/macos_security) ⭐ 2,512 | 🐛 24 | 🌐 YAML | 📅 2026-10-26
 
 ### The MUT
 
@@ -626,7 +626,7 @@ Inspired by the [awesome](https://github.com/sindresorhus/awesome) ⭐ 524,507 |
 
 **Link:** <https://rectangleapp.com/>
 
-[![](https://user-images.githubusercontent.com/13651296/101402672-57ab5300-38d4-11eb-9e8c-6a3147d26711.png)](https://github.com/rxhanson/Rectangle) ⭐ 30,153 | 🐛 73 | 🌐 Swift | 📅 2026-10-22
+[![](https://user-images.githubusercontent.com/13651296/101402672-57ab5300-38d4-11eb-9e8c-6a3147d26711.png)](https://github.com/rxhanson/Rectangle) ⭐ 30,162 | 🐛 67 | 🌐 Swift | 📅 2026-10-25
 
 ### Script2Pkg
 
@@ -708,4 +708,4 @@ To the extent possible under law, [Emily Kausalik](https://twitter.com/emilyooo)
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-10-25._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-10-26._
