@@ -109,11 +109,11 @@
                 "id": 509050256,
                 "language": "Swift",
                 "license": "MIT",
-                "last_commit": "2026-07-07T18:48:06Z",
+                "last_commit": "2026-10-26T19:40:47Z",
                 "open_issues": 76,
                 "owner": "ninxsoft",
                 "repo": "Mist",
-                "stars": 5302,
+                "stars": 5304,
                 "topics": []
               },
               "first_seen": "2026-08-28T20:57:11.657Z"
@@ -227,7 +227,7 @@
                 "language": "Shell",
                 "license": "Apache-2.0",
                 "last_commit": "2026-10-23T22:15:28Z",
-                "open_issues": 22,
+                "open_issues": 23,
                 "owner": "Macjutsu",
                 "repo": "super",
                 "stars": 906,
@@ -270,7 +270,7 @@
                 "language": "Python",
                 "license": "MIT",
                 "last_commit": "2026-10-26T05:13:43Z",
-                "open_issues": 10,
+                "open_issues": 11,
                 "owner": "alichtman",
                 "repo": "stronghold",
                 "stars": 1197,
@@ -339,10 +339,10 @@
                 "language": "Swift",
                 "license": "MIT",
                 "last_commit": "2026-10-19T22:28:06Z",
-                "open_issues": 58,
+                "open_issues": 57,
                 "owner": "swiftDialog",
                 "repo": "swiftDialog",
-                "stars": 859,
+                "stars": 860,
                 "topics": []
               },
               "first_seen": "2026-08-28T20:57:11.657Z"
@@ -372,7 +372,7 @@
                 "id": 11913841,
                 "language": "Python",
                 "license": "Apache-2.0",
-                "last_commit": "2026-10-26T16:06:35Z",
+                "last_commit": "2026-10-27T14:40:07Z",
                 "open_issues": 60,
                 "owner": "autopkg",
                 "repo": "autopkg",
@@ -553,7 +553,7 @@
                 "open_issues": 76,
                 "owner": "ProfileCreator",
                 "repo": "ProfileCreator",
-                "stars": 1515,
+                "stars": 1516,
                 "topics": []
               },
               "first_seen": "2026-08-28T20:57:11.657Z"
@@ -1088,7 +1088,7 @@
                 "open_issues": 76,
                 "owner": "ProfileCreator",
                 "repo": "ProfileCreator",
-                "stars": 1515,
+                "stars": 1516,
                 "topics": []
               },
               "first_seen": "2026-08-28T20:57:11.657Z"
@@ -1103,7 +1103,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-26T16:13:21.928Z",
+    "last_updated": "2026-10-27T15:27:11.065Z",
     "original_repository_info": {
       "archived": false,
       "description": "🕶 Awesome Mac Admin Tools list",
@@ -1112,7 +1112,7 @@
       "language": null,
       "license": null,
       "last_commit": "2025-12-17T15:09:34Z",
-      "open_issues": 16,
+      "open_issues": 17,
       "owner": "smashism",
       "repo": "awesome-macadmin-tools",
       "stars": 685,
