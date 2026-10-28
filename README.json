@@ -18,10 +18,10 @@
                 "language": "Shell",
                 "license": "Apache-2.0",
                 "last_commit": "2026-10-22T08:31:34Z",
-                "open_issues": 11,
+                "open_issues": 12,
                 "owner": "grahampugh",
                 "repo": "erase-install",
-                "stars": 960,
+                "stars": 961,
                 "topics": [
                   "apple",
                   "erase",
@@ -110,10 +110,10 @@
                 "language": "Swift",
                 "license": "MIT",
                 "last_commit": "2026-10-26T19:40:47Z",
-                "open_issues": 76,
+                "open_issues": 77,
                 "owner": "ninxsoft",
                 "repo": "Mist",
-                "stars": 5304,
+                "stars": 5310,
                 "topics": []
               },
               "first_seen": "2026-08-28T20:57:11.657Z"
@@ -227,7 +227,7 @@
                 "language": "Shell",
                 "license": "Apache-2.0",
                 "last_commit": "2026-10-23T22:15:28Z",
-                "open_issues": 23,
+                "open_issues": 27,
                 "owner": "Macjutsu",
                 "repo": "super",
                 "stars": 906,
@@ -273,7 +273,7 @@
                 "open_issues": 11,
                 "owner": "alichtman",
                 "repo": "stronghold",
-                "stars": 1197,
+                "stars": 1196,
                 "topics": [
                   "command-line",
                   "command-line-tool",
@@ -342,7 +342,7 @@
                 "open_issues": 57,
                 "owner": "swiftDialog",
                 "repo": "swiftDialog",
-                "stars": 860,
+                "stars": 862,
                 "topics": []
               },
               "first_seen": "2026-08-28T20:57:11.657Z"
@@ -497,7 +497,7 @@
                 "open_issues": 9,
                 "owner": "macadmins",
                 "repo": "nudge",
-                "stars": 1283,
+                "stars": 1282,
                 "topics": []
               },
               "first_seen": "2026-08-28T20:57:11.657Z"
@@ -701,7 +701,7 @@
                 "language": "Swift",
                 "license": "MIT",
                 "last_commit": "2026-08-04T11:52:47Z",
-                "open_issues": 84,
+                "open_issues": 85,
                 "owner": "root3nl",
                 "repo": "SupportApp",
                 "stars": 802,
@@ -834,10 +834,10 @@
                 "language": "YAML",
                 "license": "NOASSERTION",
                 "last_commit": "2026-10-26T14:18:29Z",
-                "open_issues": 24,
+                "open_issues": 27,
                 "owner": "usnistgov",
                 "repo": "macos_security",
-                "stars": 2512,
+                "stars": 2514,
                 "topics": [
                   "apple",
                   "bash",
@@ -1103,7 +1103,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-27T15:27:11.065Z",
+    "last_updated": "2026-10-28T16:10:42.751Z",
     "original_repository_info": {
       "archived": false,
       "description": "🕶 Awesome Mac Admin Tools list",
