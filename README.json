@@ -18,7 +18,7 @@
                 "language": "Shell",
                 "license": "Apache-2.0",
                 "last_commit": "2026-10-22T08:31:34Z",
-                "open_issues": 12,
+                "open_issues": 13,
                 "owner": "grahampugh",
                 "repo": "erase-install",
                 "stars": 961,
@@ -113,7 +113,7 @@
                 "open_issues": 77,
                 "owner": "ninxsoft",
                 "repo": "Mist",
-                "stars": 5310,
+                "stars": 5315,
                 "topics": []
               },
               "first_seen": "2026-08-28T20:57:11.657Z"
@@ -497,7 +497,7 @@
                 "open_issues": 9,
                 "owner": "macadmins",
                 "repo": "nudge",
-                "stars": 1282,
+                "stars": 1283,
                 "topics": []
               },
               "first_seen": "2026-08-28T20:57:11.657Z"
@@ -834,10 +834,10 @@
                 "language": "YAML",
                 "license": "NOASSERTION",
                 "last_commit": "2026-10-26T14:18:29Z",
-                "open_issues": 27,
+                "open_issues": 28,
                 "owner": "usnistgov",
                 "repo": "macos_security",
-                "stars": 2514,
+                "stars": 2515,
                 "topics": [
                   "apple",
                   "bash",
@@ -1103,7 +1103,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-28T16:10:42.751Z",
+    "last_updated": "2026-10-29T16:16:41.629Z",
     "original_repository_info": {
       "archived": false,
       "description": "🕶 Awesome Mac Admin Tools list",
