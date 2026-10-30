@@ -113,7 +113,7 @@
                 "open_issues": 77,
                 "owner": "ninxsoft",
                 "repo": "Mist",
-                "stars": 5315,
+                "stars": 5318,
                 "topics": []
               },
               "first_seen": "2026-08-28T20:57:11.657Z"
@@ -227,7 +227,7 @@
                 "language": "Shell",
                 "license": "Apache-2.0",
                 "last_commit": "2026-10-23T22:15:28Z",
-                "open_issues": 27,
+                "open_issues": 26,
                 "owner": "Macjutsu",
                 "repo": "super",
                 "stars": 906,
@@ -273,7 +273,7 @@
                 "open_issues": 11,
                 "owner": "alichtman",
                 "repo": "stronghold",
-                "stars": 1196,
+                "stars": 1195,
                 "topics": [
                   "command-line",
                   "command-line-tool",
@@ -339,7 +339,7 @@
                 "language": "Swift",
                 "license": "MIT",
                 "last_commit": "2026-10-19T22:28:06Z",
-                "open_issues": 57,
+                "open_issues": 58,
                 "owner": "swiftDialog",
                 "repo": "swiftDialog",
                 "stars": 862,
@@ -441,7 +441,7 @@
                 "open_issues": 8,
                 "owner": "ninxsoft",
                 "repo": "LowProfile",
-                "stars": 437,
+                "stars": 438,
                 "topics": []
               },
               "first_seen": "2026-08-28T20:57:11.657Z"
@@ -469,7 +469,7 @@
                 "open_issues": 0,
                 "owner": "munki",
                 "repo": "munki-pkg",
-                "stars": 374,
+                "stars": 373,
                 "topics": []
               },
               "first_seen": "2026-08-28T20:57:11.657Z"
@@ -775,7 +775,7 @@
                 "open_issues": 0,
                 "owner": "SAP",
                 "repo": "macOS-icon-generator",
-                "stars": 644,
+                "stars": 645,
                 "topics": [
                   "customization",
                   "icons",
@@ -833,8 +833,8 @@
                 "id": 269753140,
                 "language": "YAML",
                 "license": "NOASSERTION",
-                "last_commit": "2026-10-26T14:18:29Z",
-                "open_issues": 28,
+                "last_commit": "2026-10-30T14:59:10Z",
+                "open_issues": 29,
                 "owner": "usnistgov",
                 "repo": "macos_security",
                 "stars": 2515,
@@ -940,7 +940,7 @@
                 "open_issues": 14,
                 "owner": "BIG-RAT",
                 "repo": "Prune",
-                "stars": 206,
+                "stars": 207,
                 "topics": []
               },
               "first_seen": "2026-08-28T20:57:11.657Z"
@@ -1103,7 +1103,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-29T16:16:41.629Z",
+    "last_updated": "2026-10-30T16:05:00.430Z",
     "original_repository_info": {
       "archived": false,
       "description": "🕶 Awesome Mac Admin Tools list",
