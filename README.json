@@ -113,7 +113,7 @@
                 "open_issues": 77,
                 "owner": "ninxsoft",
                 "repo": "Mist",
-                "stars": 5318,
+                "stars": 5319,
                 "topics": []
               },
               "first_seen": "2026-08-28T20:57:11.657Z"
@@ -273,7 +273,7 @@
                 "open_issues": 11,
                 "owner": "alichtman",
                 "repo": "stronghold",
-                "stars": 1195,
+                "stars": 1196,
                 "topics": [
                   "command-line",
                   "command-line-tool",
@@ -372,8 +372,8 @@
                 "id": 11913841,
                 "language": "Python",
                 "license": "Apache-2.0",
-                "last_commit": "2026-10-27T14:40:07Z",
-                "open_issues": 60,
+                "last_commit": "2026-10-30T20:16:11Z",
+                "open_issues": 63,
                 "owner": "autopkg",
                 "repo": "autopkg",
                 "stars": 1486,
@@ -553,7 +553,7 @@
                 "open_issues": 76,
                 "owner": "ProfileCreator",
                 "repo": "ProfileCreator",
-                "stars": 1516,
+                "stars": 1517,
                 "topics": []
               },
               "first_seen": "2026-08-28T20:57:11.657Z"
@@ -837,7 +837,7 @@
                 "open_issues": 29,
                 "owner": "usnistgov",
                 "repo": "macos_security",
-                "stars": 2515,
+                "stars": 2517,
                 "topics": [
                   "apple",
                   "bash",
@@ -1088,7 +1088,7 @@
                 "open_issues": 76,
                 "owner": "ProfileCreator",
                 "repo": "ProfileCreator",
-                "stars": 1516,
+                "stars": 1517,
                 "topics": []
               },
               "first_seen": "2026-08-28T20:57:11.657Z"
@@ -1103,7 +1103,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-30T16:05:00.430Z",
+    "last_updated": "2026-10-31T15:24:36.698Z",
     "original_repository_info": {
       "archived": false,
       "description": "🕶 Awesome Mac Admin Tools list",
