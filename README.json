@@ -21,7 +21,7 @@
                 "open_issues": 13,
                 "owner": "grahampugh",
                 "repo": "erase-install",
-                "stars": 961,
+                "stars": 960,
                 "topics": [
                   "apple",
                   "erase",
@@ -113,7 +113,7 @@
                 "open_issues": 77,
                 "owner": "ninxsoft",
                 "repo": "Mist",
-                "stars": 5325,
+                "stars": 5327,
                 "topics": []
               },
               "first_seen": "2026-08-28T20:57:11.657Z"
@@ -227,10 +227,10 @@
                 "language": "Shell",
                 "license": "Apache-2.0",
                 "last_commit": "2026-10-23T22:15:28Z",
-                "open_issues": 28,
+                "open_issues": 27,
                 "owner": "Macjutsu",
                 "repo": "super",
-                "stars": 906,
+                "stars": 907,
                 "topics": [
                   "apple",
                   "compliance",
@@ -273,7 +273,7 @@
                 "open_issues": 11,
                 "owner": "alichtman",
                 "repo": "stronghold",
-                "stars": 1196,
+                "stars": 1195,
                 "topics": [
                   "command-line",
                   "command-line-tool",
@@ -338,11 +338,11 @@
                 "id": 346831918,
                 "language": "Swift",
                 "license": "MIT",
-                "last_commit": "2026-10-19T22:28:06Z",
+                "last_commit": "2026-11-03T05:58:45Z",
                 "open_issues": 58,
                 "owner": "swiftDialog",
                 "repo": "swiftDialog",
-                "stars": 863,
+                "stars": 862,
                 "topics": []
               },
               "first_seen": "2026-08-28T20:57:11.657Z"
@@ -372,11 +372,11 @@
                 "id": 11913841,
                 "language": "Python",
                 "license": "Apache-2.0",
-                "last_commit": "2026-10-30T20:16:11Z",
-                "open_issues": 63,
+                "last_commit": "2026-11-02T21:36:11Z",
+                "open_issues": 64,
                 "owner": "autopkg",
                 "repo": "autopkg",
-                "stars": 1486,
+                "stars": 1484,
                 "topics": [
                   "apple",
                   "automation",
@@ -497,7 +497,7 @@
                 "open_issues": 9,
                 "owner": "macadmins",
                 "repo": "nudge",
-                "stars": 1285,
+                "stars": 1284,
                 "topics": []
               },
               "first_seen": "2026-08-28T20:57:11.657Z"
@@ -874,7 +874,7 @@
                 "open_issues": 7,
                 "owner": "jamf",
                 "repo": "PPPC-Utility",
-                "stars": 884,
+                "stars": 883,
                 "topics": [
                   "app",
                   "configuration-profiles",
@@ -1103,7 +1103,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-02T19:38:19.915Z",
+    "last_updated": "2026-11-03T17:11:04.402Z",
     "original_repository_info": {
       "archived": false,
       "description": "🕶 Awesome Mac Admin Tools list",

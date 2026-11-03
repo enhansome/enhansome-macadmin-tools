@@ -2,7 +2,7 @@
 
 > A curated list of handy-dandy tools for Mac Admins.
 
-Inspired by the [awesome](https://github.com/sindresorhus/awesome) ⭐ 529,582 | 🐛 104 | 📅 2026-09-02 list.
+Inspired by the [awesome](https://github.com/sindresorhus/awesome) ⭐ 530,163 | 🐛 103 | 📅 2026-09-02 list.
 
 ## Contents
 
@@ -24,9 +24,9 @@ Inspired by the [awesome](https://github.com/sindresorhus/awesome) ⭐ 529,582 |
 
 **Cost:** N/A
 
-**Link:** <https://github.com/grahampugh/erase-install> ⭐ 961 | 🐛 13 | 🌐 Shell | 📅 2026-10-22
+**Link:** <https://github.com/grahampugh/erase-install> ⭐ 960 | 🐛 13 | 🌐 Shell | 📅 2026-10-22
 
-[![](images/erase-install.png)](https://github.com/grahampugh/erase-install) ⭐ 961 | 🐛 13 | 🌐 Shell | 📅 2026-10-22
+[![](images/erase-install.png)](https://github.com/grahampugh/erase-install) ⭐ 960 | 🐛 13 | 🌐 Shell | 📅 2026-10-22
 
 ### getmacosipsws.py
 
@@ -54,9 +54,9 @@ Inspired by the [awesome](https://github.com/sindresorhus/awesome) ⭐ 529,582 |
 
 **Cost:** N/A
 
-**Link:** <https://github.com/ninxsoft/Mist> ⭐ 5,325 | 🐛 77 | 🌐 Swift | 📅 2026-10-26
+**Link:** <https://github.com/ninxsoft/Mist> ⭐ 5,327 | 🐛 77 | 🌐 Swift | 📅 2026-10-26
 
-[![](https://github.com/ninxsoft/Mist/raw/main/README%20Resources/Installers.png)](https://github.com/ninxsoft/Mist) ⭐ 5,325 | 🐛 77 | 🌐 Swift | 📅 2026-10-26
+[![](https://github.com/ninxsoft/Mist/raw/main/README%20Resources/Installers.png)](https://github.com/ninxsoft/Mist) ⭐ 5,327 | 🐛 77 | 🌐 Swift | 📅 2026-10-26
 
 ### moss
 
@@ -94,9 +94,9 @@ Inspired by the [awesome](https://github.com/sindresorhus/awesome) ⭐ 529,582 |
 
 **Cost:** N/A
 
-**Link:** <https://github.com/Macjutsu/super> ⭐ 906 | 🐛 28 | 🌐 Shell | 📅 2026-10-23
+**Link:** <https://github.com/Macjutsu/super> ⭐ 907 | 🐛 27 | 🌐 Shell | 📅 2026-10-23
 
-[![](https://github.com/Macjutsu/super/raw/main/Images/UpdateExample.png)](https://github.com/Macjutsu/super) ⭐ 906 | 🐛 28 | 🌐 Shell | 📅 2026-10-23
+[![](https://github.com/Macjutsu/super/raw/main/Images/UpdateExample.png)](https://github.com/Macjutsu/super) ⭐ 907 | 🐛 27 | 🌐 Shell | 📅 2026-10-23
 
 ### Stronghold
 
@@ -104,9 +104,9 @@ Inspired by the [awesome](https://github.com/sindresorhus/awesome) ⭐ 529,582 |
 
 **Cost:** N/A
 
-**Link:** <https://github.com/alichtman/stronghold> ⭐ 1,196 | 🐛 11 | 🌐 Python | 📅 2026-10-26
+**Link:** <https://github.com/alichtman/stronghold> ⭐ 1,195 | 🐛 11 | 🌐 Python | 📅 2026-10-26
 
-[![](images/stronghold.gif)](https://github.com/alichtman/stronghold) ⭐ 1,196 | 🐛 11 | 🌐 Python | 📅 2026-10-26
+[![](images/stronghold.gif)](https://github.com/alichtman/stronghold) ⭐ 1,195 | 🐛 11 | 🌐 Python | 📅 2026-10-26
 
 ### vfuse
 
@@ -124,9 +124,9 @@ Inspired by the [awesome](https://github.com/sindresorhus/awesome) ⭐ 529,582 |
 
 **Cost:** Free
 
-**Link:** <https://github.com/swiftDialog/swiftDialog> ⭐ 863 | 🐛 58 | 🌐 Swift | 📅 2026-10-19
+**Link:** <https://github.com/swiftDialog/swiftDialog> ⭐ 862 | 🐛 58 | 🌐 Swift | 📅 2026-11-03
 
-[![](images/swiftDialog.png)](https://github.com/swiftDialog/swiftDialog) ⭐ 863 | 🐛 58 | 🌐 Swift | 📅 2026-10-19
+[![](images/swiftDialog.png)](https://github.com/swiftDialog/swiftDialog) ⭐ 862 | 🐛 58 | 🌐 Swift | 📅 2026-11-03
 
 ## Deployment
 
@@ -146,9 +146,9 @@ Inspired by the [awesome](https://github.com/sindresorhus/awesome) ⭐ 529,582 |
 
 **Cost:** N/A
 
-**Link:** <https://github.com/autopkg/autopkg> ⭐ 1,486 | 🐛 63 | 🌐 Python | 📅 2026-10-30
+**Link:** <https://github.com/autopkg/autopkg> ⭐ 1,484 | 🐛 64 | 🌐 Python | 📅 2026-11-02
 
-[![](images/autopkg.png)](https://github.com/autopkg/autopkg) ⭐ 1,486 | 🐛 63 | 🌐 Python | 📅 2026-10-30
+[![](images/autopkg.png)](https://github.com/autopkg/autopkg) ⭐ 1,484 | 🐛 64 | 🌐 Python | 📅 2026-11-02
 
 ### AutoPkgr
 
@@ -196,9 +196,9 @@ Inspired by the [awesome](https://github.com/sindresorhus/awesome) ⭐ 529,582 |
 
 **Cost:** N/A
 
-**Link:** <https://github.com/macadmins/nudge> ⭐ 1,285 | 🐛 9 | 🌐 Swift | 📅 2026-09-08
+**Link:** <https://github.com/macadmins/nudge> ⭐ 1,284 | 🐛 9 | 🌐 Swift | 📅 2026-09-08
 
-[![](https://github.com/macadmins/nudge/blob/main/assets/standard_mode/demo_light_1_icon.png?raw=true)](https://github.com/macadmins/nudge) ⭐ 1,285 | 🐛 9 | 🌐 Swift | 📅 2026-09-08
+[![](https://github.com/macadmins/nudge/blob/main/assets/standard_mode/demo_light_1_icon.png?raw=true)](https://github.com/macadmins/nudge) ⭐ 1,284 | 🐛 9 | 🌐 Swift | 📅 2026-09-08
 
 ### Packages.app
 
@@ -594,9 +594,9 @@ Inspired by the [awesome](https://github.com/sindresorhus/awesome) ⭐ 529,582 |
 
 **Cost:** Free
 
-**Link:** <https://github.com/jamf/PPPC-Utility> ⭐ 884 | 🐛 7 | 🌐 Swift | 📅 2026-08-05
+**Link:** <https://github.com/jamf/PPPC-Utility> ⭐ 883 | 🐛 7 | 🌐 Swift | 📅 2026-08-05
 
-[![](https://github.com/jamf/PPPC-Utility/raw/master/Images/SavingSigned.png)](https://github.com/jamf/PPPC-Utility) ⭐ 884 | 🐛 7 | 🌐 Swift | 📅 2026-08-05
+[![](https://github.com/jamf/PPPC-Utility/raw/master/Images/SavingSigned.png)](https://github.com/jamf/PPPC-Utility) ⭐ 883 | 🐛 7 | 🌐 Swift | 📅 2026-08-05
 
 ### PrinterSetup
 
@@ -626,7 +626,7 @@ Inspired by the [awesome](https://github.com/sindresorhus/awesome) ⭐ 529,582 |
 
 **Link:** <https://rectangleapp.com/>
 
-[![](https://user-images.githubusercontent.com/13651296/101402672-57ab5300-38d4-11eb-9e8c-6a3147d26711.png)](https://github.com/rxhanson/Rectangle) ⭐ 30,209 | 🐛 68 | 🌐 Swift | 📅 2026-10-29
+[![](https://user-images.githubusercontent.com/13651296/101402672-57ab5300-38d4-11eb-9e8c-6a3147d26711.png)](https://github.com/rxhanson/Rectangle) ⭐ 30,219 | 🐛 58 | 🌐 Swift | 📅 2026-11-03
 
 ### Script2Pkg
 
@@ -708,4 +708,4 @@ To the extent possible under law, [Emily Kausalik](https://twitter.com/emilyooo)
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-11-02._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-11-03._
