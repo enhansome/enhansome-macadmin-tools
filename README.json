@@ -113,7 +113,7 @@
                 "open_issues": 77,
                 "owner": "ninxsoft",
                 "repo": "Mist",
-                "stars": 5327,
+                "stars": 5330,
                 "topics": []
               },
               "first_seen": "2026-08-28T20:57:11.657Z"
@@ -373,10 +373,10 @@
                 "language": "Python",
                 "license": "Apache-2.0",
                 "last_commit": "2026-11-02T21:36:11Z",
-                "open_issues": 64,
+                "open_issues": 65,
                 "owner": "autopkg",
                 "repo": "autopkg",
-                "stars": 1484,
+                "stars": 1485,
                 "topics": [
                   "apple",
                   "automation",
@@ -497,7 +497,7 @@
                 "open_issues": 9,
                 "owner": "macadmins",
                 "repo": "nudge",
-                "stars": 1284,
+                "stars": 1285,
                 "topics": []
               },
               "first_seen": "2026-08-28T20:57:11.657Z"
@@ -837,7 +837,7 @@
                 "open_issues": 30,
                 "owner": "usnistgov",
                 "repo": "macos_security",
-                "stars": 2515,
+                "stars": 2517,
                 "topics": [
                   "apple",
                   "bash",
@@ -870,8 +870,8 @@
                 "id": 149668834,
                 "language": "Swift",
                 "license": "MIT",
-                "last_commit": "2026-08-05T15:43:41Z",
-                "open_issues": 7,
+                "last_commit": "2026-11-04T14:36:14Z",
+                "open_issues": 5,
                 "owner": "jamf",
                 "repo": "PPPC-Utility",
                 "stars": 883,
@@ -1103,7 +1103,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-03T17:11:04.402Z",
+    "last_updated": "2026-11-04T17:22:49.753Z",
     "original_repository_info": {
       "archived": false,
       "description": "🕶 Awesome Mac Admin Tools list",
