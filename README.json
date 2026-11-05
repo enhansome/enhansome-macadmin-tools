@@ -21,7 +21,7 @@
                 "open_issues": 13,
                 "owner": "grahampugh",
                 "repo": "erase-install",
-                "stars": 960,
+                "stars": 959,
                 "topics": [
                   "apple",
                   "erase",
@@ -113,7 +113,7 @@
                 "open_issues": 77,
                 "owner": "ninxsoft",
                 "repo": "Mist",
-                "stars": 5330,
+                "stars": 5331,
                 "topics": []
               },
               "first_seen": "2026-08-28T20:57:11.657Z"
@@ -376,7 +376,7 @@
                 "open_issues": 65,
                 "owner": "autopkg",
                 "repo": "autopkg",
-                "stars": 1485,
+                "stars": 1486,
                 "topics": [
                   "apple",
                   "automation",
@@ -553,7 +553,7 @@
                 "open_issues": 76,
                 "owner": "ProfileCreator",
                 "repo": "ProfileCreator",
-                "stars": 1517,
+                "stars": 1518,
                 "topics": []
               },
               "first_seen": "2026-08-28T20:57:11.657Z"
@@ -581,7 +581,7 @@
                 "open_issues": 6,
                 "owner": "SecondSonConsulting",
                 "repo": "Baseline",
-                "stars": 360,
+                "stars": 359,
                 "topics": [
                   "installomator",
                   "macos",
@@ -833,8 +833,8 @@
                 "id": 269753140,
                 "language": "YAML",
                 "license": "NOASSERTION",
-                "last_commit": "2026-10-30T14:59:10Z",
-                "open_issues": 30,
+                "last_commit": "2026-11-05T17:13:35Z",
+                "open_issues": 27,
                 "owner": "usnistgov",
                 "repo": "macos_security",
                 "stars": 2517,
@@ -1001,7 +1001,7 @@
                 "open_issues": 16,
                 "owner": "hjuutilainen",
                 "repo": "sus-inspector",
-                "stars": 424,
+                "stars": 423,
                 "topics": [
                   "macadmin",
                   "macos"
@@ -1088,7 +1088,7 @@
                 "open_issues": 76,
                 "owner": "ProfileCreator",
                 "repo": "ProfileCreator",
-                "stars": 1517,
+                "stars": 1518,
                 "topics": []
               },
               "first_seen": "2026-08-28T20:57:11.657Z"
@@ -1103,7 +1103,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-04T17:22:49.753Z",
+    "last_updated": "2026-11-05T17:29:53.524Z",
     "original_repository_info": {
       "archived": false,
       "description": "🕶 Awesome Mac Admin Tools list",
