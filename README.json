@@ -113,7 +113,7 @@
                 "open_issues": 77,
                 "owner": "ninxsoft",
                 "repo": "Mist",
-                "stars": 5331,
+                "stars": 5332,
                 "topics": []
               },
               "first_seen": "2026-08-28T20:57:11.657Z"
@@ -497,7 +497,7 @@
                 "open_issues": 9,
                 "owner": "macadmins",
                 "repo": "nudge",
-                "stars": 1285,
+                "stars": 1284,
                 "topics": []
               },
               "first_seen": "2026-08-28T20:57:11.657Z"
@@ -837,7 +837,7 @@
                 "open_issues": 27,
                 "owner": "usnistgov",
                 "repo": "macos_security",
-                "stars": 2517,
+                "stars": 2519,
                 "topics": [
                   "apple",
                   "bash",
@@ -874,7 +874,7 @@
                 "open_issues": 5,
                 "owner": "jamf",
                 "repo": "PPPC-Utility",
-                "stars": 883,
+                "stars": 882,
                 "topics": [
                   "app",
                   "configuration-profiles",
@@ -1103,7 +1103,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-05T17:29:53.524Z",
+    "last_updated": "2026-11-06T16:50:59.595Z",
     "original_repository_info": {
       "archived": false,
       "description": "🕶 Awesome Mac Admin Tools list",
