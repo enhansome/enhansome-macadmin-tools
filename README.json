@@ -113,7 +113,7 @@
                 "open_issues": 77,
                 "owner": "ninxsoft",
                 "repo": "Mist",
-                "stars": 5344,
+                "stars": 5345,
                 "topics": []
               },
               "first_seen": "2026-08-28T20:57:11.657Z"
@@ -270,7 +270,7 @@
                 "language": "Python",
                 "license": "MIT",
                 "last_commit": "2026-10-26T05:13:43Z",
-                "open_issues": 11,
+                "open_issues": 12,
                 "owner": "alichtman",
                 "repo": "stronghold",
                 "stars": 1195,
@@ -310,7 +310,7 @@
                 "open_issues": 3,
                 "owner": "chilcote",
                 "repo": "vfuse",
-                "stars": 397,
+                "stars": 398,
                 "topics": [
                   "macadmin",
                   "python",
@@ -342,7 +342,7 @@
                 "open_issues": 58,
                 "owner": "swiftDialog",
                 "repo": "swiftDialog",
-                "stars": 862,
+                "stars": 863,
                 "topics": []
               },
               "first_seen": "2026-08-28T20:57:11.657Z"
@@ -441,7 +441,7 @@
                 "open_issues": 8,
                 "owner": "ninxsoft",
                 "repo": "LowProfile",
-                "stars": 438,
+                "stars": 439,
                 "topics": []
               },
               "first_seen": "2026-08-28T20:57:11.657Z"
@@ -494,7 +494,7 @@
                 "language": "Swift",
                 "license": "Apache-2.0",
                 "last_commit": "2026-09-08T16:23:16Z",
-                "open_issues": 9,
+                "open_issues": 11,
                 "owner": "macadmins",
                 "repo": "nudge",
                 "stars": 1284,
@@ -553,7 +553,7 @@
                 "open_issues": 76,
                 "owner": "ProfileCreator",
                 "repo": "ProfileCreator",
-                "stars": 1518,
+                "stars": 1520,
                 "topics": []
               },
               "first_seen": "2026-08-28T20:57:11.657Z"
@@ -833,11 +833,11 @@
                 "id": 269753140,
                 "language": "YAML",
                 "license": "NOASSERTION",
-                "last_commit": "2026-11-05T17:13:35Z",
+                "last_commit": "2026-11-09T20:05:24Z",
                 "open_issues": 27,
                 "owner": "usnistgov",
                 "repo": "macos_security",
-                "stars": 2524,
+                "stars": 2525,
                 "topics": [
                   "apple",
                   "bash",
@@ -1088,7 +1088,7 @@
                 "open_issues": 76,
                 "owner": "ProfileCreator",
                 "repo": "ProfileCreator",
-                "stars": 1518,
+                "stars": 1520,
                 "topics": []
               },
               "first_seen": "2026-08-28T20:57:11.657Z"
@@ -1103,7 +1103,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-09T19:56:04.714Z",
+    "last_updated": "2026-11-10T17:10:20.468Z",
     "original_repository_info": {
       "archived": false,
       "description": "🕶 Awesome Mac Admin Tools list",
