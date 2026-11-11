@@ -21,7 +21,7 @@
                 "open_issues": 13,
                 "owner": "grahampugh",
                 "repo": "erase-install",
-                "stars": 959,
+                "stars": 960,
                 "topics": [
                   "apple",
                   "erase",
@@ -57,7 +57,7 @@
                 "open_issues": 8,
                 "owner": "munki",
                 "repo": "macadmin-scripts",
-                "stars": 2460,
+                "stars": 2461,
                 "topics": []
               },
               "first_seen": "2026-08-28T20:57:11.657Z"
@@ -85,7 +85,7 @@
                 "open_issues": 8,
                 "owner": "munki",
                 "repo": "macadmin-scripts",
-                "stars": 2460,
+                "stars": 2461,
                 "topics": []
               },
               "first_seen": "2026-08-28T20:57:11.657Z"
@@ -113,7 +113,7 @@
                 "open_issues": 77,
                 "owner": "ninxsoft",
                 "repo": "Mist",
-                "stars": 5345,
+                "stars": 5344,
                 "topics": []
               },
               "first_seen": "2026-08-28T20:57:11.657Z"
@@ -269,8 +269,8 @@
                 "id": 125603504,
                 "language": "Python",
                 "license": "MIT",
-                "last_commit": "2026-10-26T05:13:43Z",
-                "open_issues": 12,
+                "last_commit": "2026-11-10T19:47:49Z",
+                "open_issues": 11,
                 "owner": "alichtman",
                 "repo": "stronghold",
                 "stars": 1195,
@@ -373,7 +373,7 @@
                 "language": "Python",
                 "license": "Apache-2.0",
                 "last_commit": "2026-11-02T21:36:11Z",
-                "open_issues": 64,
+                "open_issues": 65,
                 "owner": "autopkg",
                 "repo": "autopkg",
                 "stars": 1488,
@@ -410,7 +410,7 @@
                 "language": "Objective-C",
                 "license": "Apache-2.0",
                 "last_commit": "2026-07-17T19:22:13Z",
-                "open_issues": 14,
+                "open_issues": 15,
                 "owner": "lindegroup",
                 "repo": "autopkgr",
                 "stars": 567,
@@ -701,7 +701,7 @@
                 "language": "Swift",
                 "license": "MIT",
                 "last_commit": "2026-08-04T11:52:47Z",
-                "open_issues": 85,
+                "open_issues": 86,
                 "owner": "root3nl",
                 "repo": "SupportApp",
                 "stars": 801,
@@ -837,7 +837,7 @@
                 "open_issues": 27,
                 "owner": "usnistgov",
                 "repo": "macos_security",
-                "stars": 2525,
+                "stars": 2526,
                 "topics": [
                   "apple",
                   "bash",
@@ -1103,7 +1103,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-10T17:10:20.468Z",
+    "last_updated": "2026-11-11T17:18:12.530Z",
     "original_repository_info": {
       "archived": false,
       "description": "🕶 Awesome Mac Admin Tools list",
