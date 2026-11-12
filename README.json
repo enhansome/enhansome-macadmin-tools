@@ -113,7 +113,7 @@
                 "open_issues": 77,
                 "owner": "ninxsoft",
                 "repo": "Mist",
-                "stars": 5344,
+                "stars": 5350,
                 "topics": []
               },
               "first_seen": "2026-08-28T20:57:11.657Z"
@@ -342,7 +342,7 @@
                 "open_issues": 58,
                 "owner": "swiftDialog",
                 "repo": "swiftDialog",
-                "stars": 863,
+                "stars": 864,
                 "topics": []
               },
               "first_seen": "2026-08-28T20:57:11.657Z"
@@ -376,7 +376,7 @@
                 "open_issues": 65,
                 "owner": "autopkg",
                 "repo": "autopkg",
-                "stars": 1488,
+                "stars": 1489,
                 "topics": [
                   "apple",
                   "automation",
@@ -494,7 +494,7 @@
                 "language": "Swift",
                 "license": "Apache-2.0",
                 "last_commit": "2026-09-08T16:23:16Z",
-                "open_issues": 11,
+                "open_issues": 13,
                 "owner": "macadmins",
                 "repo": "nudge",
                 "stars": 1284,
@@ -834,10 +834,10 @@
                 "language": "YAML",
                 "license": "NOASSERTION",
                 "last_commit": "2026-11-09T20:05:24Z",
-                "open_issues": 27,
+                "open_issues": 24,
                 "owner": "usnistgov",
                 "repo": "macos_security",
-                "stars": 2526,
+                "stars": 2527,
                 "topics": [
                   "apple",
                   "bash",
@@ -1103,7 +1103,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-11T17:18:12.530Z",
+    "last_updated": "2026-11-12T17:39:55.035Z",
     "original_repository_info": {
       "archived": false,
       "description": "🕶 Awesome Mac Admin Tools list",
