@@ -57,7 +57,7 @@
                 "open_issues": 8,
                 "owner": "munki",
                 "repo": "macadmin-scripts",
-                "stars": 2460,
+                "stars": 2459,
                 "topics": []
               },
               "first_seen": "2026-08-28T20:57:11.657Z"
@@ -85,7 +85,7 @@
                 "open_issues": 8,
                 "owner": "munki",
                 "repo": "macadmin-scripts",
-                "stars": 2460,
+                "stars": 2459,
                 "topics": []
               },
               "first_seen": "2026-08-28T20:57:11.657Z"
@@ -113,7 +113,7 @@
                 "open_issues": 77,
                 "owner": "ninxsoft",
                 "repo": "Mist",
-                "stars": 5386,
+                "stars": 5394,
                 "topics": []
               },
               "first_seen": "2026-08-28T20:57:11.657Z"
@@ -273,7 +273,7 @@
                 "open_issues": 11,
                 "owner": "alichtman",
                 "repo": "stronghold",
-                "stars": 1195,
+                "stars": 1194,
                 "topics": [
                   "command-line",
                   "command-line-tool",
@@ -342,7 +342,7 @@
                 "open_issues": 58,
                 "owner": "swiftDialog",
                 "repo": "swiftDialog",
-                "stars": 864,
+                "stars": 865,
                 "topics": []
               },
               "first_seen": "2026-08-28T20:57:11.657Z"
@@ -775,7 +775,7 @@
                 "open_issues": 0,
                 "owner": "SAP",
                 "repo": "macOS-icon-generator",
-                "stars": 647,
+                "stars": 648,
                 "topics": [
                   "customization",
                   "icons",
@@ -1103,7 +1103,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-14T15:54:11.639Z",
+    "last_updated": "2026-11-15T16:28:38.297Z",
     "original_repository_info": {
       "archived": false,
       "description": "🕶 Awesome Mac Admin Tools list",
