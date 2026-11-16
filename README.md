@@ -2,7 +2,7 @@
 
 > A curated list of handy-dandy tools for Mac Admins.
 
-Inspired by the [awesome](https://github.com/sindresorhus/awesome) ⭐ 537,317 | 🐛 104 | 📅 2026-09-02 list.
+Inspired by the [awesome](https://github.com/sindresorhus/awesome) ⭐ 537,926 | 🐛 104 | 📅 2026-09-02 list.
 
 ## Contents
 
@@ -54,9 +54,9 @@ Inspired by the [awesome](https://github.com/sindresorhus/awesome) ⭐ 537,317 |
 
 **Cost:** N/A
 
-**Link:** <https://github.com/ninxsoft/Mist> ⭐ 5,394 | 🐛 77 | 🌐 Swift | 📅 2026-10-26
+**Link:** <https://github.com/ninxsoft/Mist> ⭐ 5,412 | 🐛 77 | 🌐 Swift | 📅 2026-10-26
 
-[![](https://github.com/ninxsoft/Mist/raw/main/README%20Resources/Installers.png)](https://github.com/ninxsoft/Mist) ⭐ 5,394 | 🐛 77 | 🌐 Swift | 📅 2026-10-26
+[![](https://github.com/ninxsoft/Mist/raw/main/README%20Resources/Installers.png)](https://github.com/ninxsoft/Mist) ⭐ 5,412 | 🐛 77 | 🌐 Swift | 📅 2026-10-26
 
 ### moss
 
@@ -156,9 +156,9 @@ Inspired by the [awesome](https://github.com/sindresorhus/awesome) ⭐ 537,317 |
 
 **Cost:** N/A
 
-**Link:** <https://github.com/lindegroup/autopkgr> ⭐ 567 | 🐛 15 | 🌐 Objective-C | 📅 2026-07-17
+**Link:** <https://github.com/lindegroup/autopkgr> ⭐ 568 | 🐛 15 | 🌐 Objective-C | 📅 2026-07-17
 
-[![](images/autopkgr.gif)](https://github.com/lindegroup/autopkgr) ⭐ 567 | 🐛 15 | 🌐 Objective-C | 📅 2026-07-17
+[![](images/autopkgr.gif)](https://github.com/lindegroup/autopkgr) ⭐ 568 | 🐛 15 | 🌐 Objective-C | 📅 2026-07-17
 
 ### Composer
 
@@ -246,9 +246,9 @@ Inspired by the [awesome](https://github.com/sindresorhus/awesome) ⭐ 537,317 |
 
 **Cost:** Free
 
-**Link:** <https://github.com/secondsonconsulting/baseline> ⭐ 360 | 🐛 6 | 🌐 Shell | 📅 2026-07-23
+**Link:** <https://github.com/secondsonconsulting/baseline> ⭐ 361 | 🐛 6 | 🌐 Shell | 📅 2026-07-23
 
-[![](images/baseline.png)](https://github.com/secondsonconsulting/baseline) ⭐ 360 | 🐛 6 | 🌐 Shell | 📅 2026-07-23
+[![](images/baseline.png)](https://github.com/secondsonconsulting/baseline) ⭐ 361 | 🐛 6 | 🌐 Shell | 📅 2026-07-23
 
 ### Patchomator
 
@@ -524,9 +524,9 @@ Inspired by the [awesome](https://github.com/sindresorhus/awesome) ⭐ 537,317 |
 
 **Cost:** N/A
 
-**Link:** <https://github.com/SAP/macOS-icon-generator> ⭐ 648 | 🐛 0 | 🌐 Objective-C | 📅 2026-09-16
+**Link:** <https://github.com/SAP/macOS-icon-generator> ⭐ 647 | 🐛 0 | 🌐 Objective-C | 📅 2026-09-16
 
-[![](https://github.com/SAP/macOS-icon-generator/raw/main/readme_images/drag_and_drop_source_image.gif)](https://github.com/SAP/macOS-icon-generator) ⭐ 648 | 🐛 0 | 🌐 Objective-C | 📅 2026-09-16
+[![](https://github.com/SAP/macOS-icon-generator/raw/main/readme_images/drag_and_drop_source_image.gif)](https://github.com/SAP/macOS-icon-generator) ⭐ 647 | 🐛 0 | 🌐 Objective-C | 📅 2026-09-16
 
 ### Jamf Compliance Editor
 
@@ -626,7 +626,7 @@ Inspired by the [awesome](https://github.com/sindresorhus/awesome) ⭐ 537,317 |
 
 **Link:** <https://rectangleapp.com/>
 
-[![](https://user-images.githubusercontent.com/13651296/101402672-57ab5300-38d4-11eb-9e8c-6a3147d26711.png)](https://github.com/rxhanson/Rectangle) ⭐ 30,286 | 🐛 67 | 🌐 Swift | 📅 2026-11-11
+[![](https://user-images.githubusercontent.com/13651296/101402672-57ab5300-38d4-11eb-9e8c-6a3147d26711.png)](https://github.com/rxhanson/Rectangle) ⭐ 30,291 | 🐛 67 | 🌐 Swift | 📅 2026-11-16
 
 ### Script2Pkg
 
@@ -708,4 +708,4 @@ To the extent possible under law, [Emily Kausalik](https://twitter.com/emilyooo)
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-11-15._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-11-16._
