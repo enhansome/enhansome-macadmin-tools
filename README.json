@@ -113,7 +113,7 @@
                 "open_issues": 77,
                 "owner": "ninxsoft",
                 "repo": "Mist",
-                "stars": 5412,
+                "stars": 5414,
                 "topics": []
               },
               "first_seen": "2026-08-28T20:57:11.657Z"
@@ -339,7 +339,7 @@
                 "language": "Swift",
                 "license": "MIT",
                 "last_commit": "2026-11-03T05:58:45Z",
-                "open_issues": 58,
+                "open_issues": 57,
                 "owner": "swiftDialog",
                 "repo": "swiftDialog",
                 "stars": 865,
@@ -372,11 +372,11 @@
                 "id": 11913841,
                 "language": "Python",
                 "license": "Apache-2.0",
-                "last_commit": "2026-11-02T21:36:11Z",
+                "last_commit": "2026-11-16T20:43:35Z",
                 "open_issues": 65,
                 "owner": "autopkg",
                 "repo": "autopkg",
-                "stars": 1489,
+                "stars": 1488,
                 "topics": [
                   "apple",
                   "automation",
@@ -441,7 +441,7 @@
                 "open_issues": 8,
                 "owner": "ninxsoft",
                 "repo": "LowProfile",
-                "stars": 439,
+                "stars": 440,
                 "topics": []
               },
               "first_seen": "2026-08-28T20:57:11.657Z"
@@ -497,7 +497,7 @@
                 "open_issues": 13,
                 "owner": "macadmins",
                 "repo": "nudge",
-                "stars": 1284,
+                "stars": 1283,
                 "topics": []
               },
               "first_seen": "2026-08-28T20:57:11.657Z"
@@ -837,7 +837,7 @@
                 "open_issues": 27,
                 "owner": "usnistgov",
                 "repo": "macos_security",
-                "stars": 2529,
+                "stars": 2533,
                 "topics": [
                   "apple",
                   "bash",
@@ -1103,7 +1103,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-16T19:44:01.264Z",
+    "last_updated": "2026-11-17T18:41:13.208Z",
     "original_repository_info": {
       "archived": false,
       "description": "🕶 Awesome Mac Admin Tools list",
