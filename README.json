@@ -17,11 +17,11 @@
                 "id": 140421285,
                 "language": "Shell",
                 "license": "Apache-2.0",
-                "last_commit": "2026-10-22T08:31:34Z",
-                "open_issues": 13,
+                "last_commit": "2026-11-19T21:02:57Z",
+                "open_issues": 11,
                 "owner": "grahampugh",
                 "repo": "erase-install",
-                "stars": 962,
+                "stars": 964,
                 "topics": [
                   "apple",
                   "erase",
@@ -57,7 +57,7 @@
                 "open_issues": 8,
                 "owner": "munki",
                 "repo": "macadmin-scripts",
-                "stars": 2459,
+                "stars": 2458,
                 "topics": []
               },
               "first_seen": "2026-08-28T20:57:11.657Z"
@@ -85,7 +85,7 @@
                 "open_issues": 8,
                 "owner": "munki",
                 "repo": "macadmin-scripts",
-                "stars": 2459,
+                "stars": 2458,
                 "topics": []
               },
               "first_seen": "2026-08-28T20:57:11.657Z"
@@ -113,7 +113,7 @@
                 "open_issues": 77,
                 "owner": "ninxsoft",
                 "repo": "Mist",
-                "stars": 5419,
+                "stars": 5421,
                 "topics": []
               },
               "first_seen": "2026-08-28T20:57:11.657Z"
@@ -273,7 +273,7 @@
                 "open_issues": 11,
                 "owner": "alichtman",
                 "repo": "stronghold",
-                "stars": 1194,
+                "stars": 1193,
                 "topics": [
                   "command-line",
                   "command-line-tool",
@@ -310,7 +310,7 @@
                 "open_issues": 3,
                 "owner": "chilcote",
                 "repo": "vfuse",
-                "stars": 398,
+                "stars": 396,
                 "topics": [
                   "macadmin",
                   "python",
@@ -338,8 +338,8 @@
                 "id": 346831918,
                 "language": "Swift",
                 "license": "MIT",
-                "last_commit": "2026-11-03T05:58:45Z",
-                "open_issues": 57,
+                "last_commit": "2026-11-20T08:44:33Z",
+                "open_issues": 54,
                 "owner": "swiftDialog",
                 "repo": "swiftDialog",
                 "stars": 866,
@@ -376,7 +376,7 @@
                 "open_issues": 65,
                 "owner": "autopkg",
                 "repo": "autopkg",
-                "stars": 1488,
+                "stars": 1487,
                 "topics": [
                   "apple",
                   "automation",
@@ -413,7 +413,7 @@
                 "open_issues": 15,
                 "owner": "lindegroup",
                 "repo": "autopkgr",
-                "stars": 568,
+                "stars": 567,
                 "topics": []
               },
               "first_seen": "2026-08-28T20:57:11.657Z"
@@ -441,7 +441,7 @@
                 "open_issues": 8,
                 "owner": "ninxsoft",
                 "repo": "LowProfile",
-                "stars": 440,
+                "stars": 439,
                 "topics": []
               },
               "first_seen": "2026-08-28T20:57:11.657Z"
@@ -497,7 +497,7 @@
                 "open_issues": 10,
                 "owner": "macadmins",
                 "repo": "nudge",
-                "stars": 1283,
+                "stars": 1281,
                 "topics": []
               },
               "first_seen": "2026-08-28T20:57:11.657Z"
@@ -775,7 +775,7 @@
                 "open_issues": 0,
                 "owner": "SAP",
                 "repo": "macOS-icon-generator",
-                "stars": 646,
+                "stars": 645,
                 "topics": [
                   "customization",
                   "icons",
@@ -837,7 +837,7 @@
                 "open_issues": 28,
                 "owner": "usnistgov",
                 "repo": "macos_security",
-                "stars": 2534,
+                "stars": 2533,
                 "topics": [
                   "apple",
                   "bash",
@@ -964,7 +964,7 @@
                 "id": 630386940,
                 "language": "HTML",
                 "license": "Apache-2.0",
-                "last_commit": "2026-09-16T08:52:34Z",
+                "last_commit": "2026-11-20T11:04:49Z",
                 "open_issues": 0,
                 "owner": "SAP",
                 "repo": "script-to-package-tool-for-macos",
@@ -1022,7 +1022,7 @@
               "description": "macadmins/umad",
               "children": [],
               "repo_info": {
-                "archived": false,
+                "archived": true,
                 "description": "A tool to help users with pre-existing devices enroll into MDM",
                 "homepage": null,
                 "id": 146475118,
@@ -1103,7 +1103,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-19T18:25:23.978Z",
+    "last_updated": "2026-11-20T17:54:43.264Z",
     "original_repository_info": {
       "archived": false,
       "description": "🕶 Awesome Mac Admin Tools list",
