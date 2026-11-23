@@ -113,7 +113,7 @@
                 "open_issues": 77,
                 "owner": "ninxsoft",
                 "repo": "Mist",
-                "stars": 5421,
+                "stars": 5424,
                 "topics": []
               },
               "first_seen": "2026-08-28T20:57:11.657Z"
@@ -226,8 +226,8 @@
                 "id": 469797351,
                 "language": "Shell",
                 "license": "Apache-2.0",
-                "last_commit": "2026-10-23T22:15:28Z",
-                "open_issues": 27,
+                "last_commit": "2026-11-23T20:46:12Z",
+                "open_issues": 21,
                 "owner": "Macjutsu",
                 "repo": "super",
                 "stars": 910,
@@ -339,10 +339,10 @@
                 "language": "Swift",
                 "license": "MIT",
                 "last_commit": "2026-11-20T08:44:33Z",
-                "open_issues": 54,
+                "open_issues": 55,
                 "owner": "swiftDialog",
                 "repo": "swiftDialog",
-                "stars": 866,
+                "stars": 868,
                 "topics": []
               },
               "first_seen": "2026-08-28T20:57:11.657Z"
@@ -441,7 +441,7 @@
                 "open_issues": 8,
                 "owner": "ninxsoft",
                 "repo": "LowProfile",
-                "stars": 439,
+                "stars": 440,
                 "topics": []
               },
               "first_seen": "2026-08-28T20:57:11.657Z"
@@ -833,11 +833,11 @@
                 "id": 269753140,
                 "language": "YAML",
                 "license": "NOASSERTION",
-                "last_commit": "2026-11-09T20:05:24Z",
-                "open_issues": 28,
+                "last_commit": "2026-11-23T20:44:54Z",
+                "open_issues": 27,
                 "owner": "usnistgov",
                 "repo": "macos_security",
-                "stars": 2533,
+                "stars": 2536,
                 "topics": [
                   "apple",
                   "bash",
@@ -874,7 +874,7 @@
                 "open_issues": 5,
                 "owner": "jamf",
                 "repo": "PPPC-Utility",
-                "stars": 883,
+                "stars": 884,
                 "topics": [
                   "app",
                   "configuration-profiles",
@@ -1103,7 +1103,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-22T17:14:55.717Z",
+    "last_updated": "2026-11-23T21:33:52.797Z",
     "original_repository_info": {
       "archived": false,
       "description": "🕶 Awesome Mac Admin Tools list",
@@ -1112,7 +1112,7 @@
       "language": null,
       "license": null,
       "last_commit": "2025-12-17T15:09:34Z",
-      "open_issues": 19,
+      "open_issues": 20,
       "owner": "smashism",
       "repo": "awesome-macadmin-tools",
       "stars": 685,
