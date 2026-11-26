@@ -21,7 +21,7 @@
                 "open_issues": 12,
                 "owner": "grahampugh",
                 "repo": "erase-install",
-                "stars": 964,
+                "stars": 966,
                 "topics": [
                   "apple",
                   "erase",
@@ -113,7 +113,7 @@
                 "open_issues": 77,
                 "owner": "ninxsoft",
                 "repo": "Mist",
-                "stars": 5434,
+                "stars": 5440,
                 "topics": []
               },
               "first_seen": "2026-08-28T20:57:11.657Z"
@@ -339,10 +339,10 @@
                 "language": "Swift",
                 "license": "MIT",
                 "last_commit": "2026-11-20T08:44:33Z",
-                "open_issues": 56,
+                "open_issues": 57,
                 "owner": "swiftDialog",
                 "repo": "swiftDialog",
-                "stars": 868,
+                "stars": 869,
                 "topics": []
               },
               "first_seen": "2026-08-28T20:57:11.657Z"
@@ -497,7 +497,7 @@
                 "open_issues": 10,
                 "owner": "macadmins",
                 "repo": "nudge",
-                "stars": 1284,
+                "stars": 1285,
                 "topics": []
               },
               "first_seen": "2026-08-28T20:57:11.657Z"
@@ -834,10 +834,10 @@
                 "language": "YAML",
                 "license": "NOASSERTION",
                 "last_commit": "2026-11-25T15:13:22Z",
-                "open_issues": 28,
+                "open_issues": 29,
                 "owner": "usnistgov",
                 "repo": "macos_security",
-                "stars": 2540,
+                "stars": 2542,
                 "topics": [
                   "apple",
                   "bash",
@@ -1103,7 +1103,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-25T19:28:30.118Z",
+    "last_updated": "2026-11-26T19:09:43.817Z",
     "original_repository_info": {
       "archived": false,
       "description": "🕶 Awesome Mac Admin Tools list",
