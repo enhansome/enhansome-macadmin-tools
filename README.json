@@ -113,7 +113,7 @@
                 "open_issues": 77,
                 "owner": "ninxsoft",
                 "repo": "Mist",
-                "stars": 5440,
+                "stars": 5442,
                 "topics": []
               },
               "first_seen": "2026-08-28T20:57:11.657Z"
@@ -376,7 +376,7 @@
                 "open_issues": 66,
                 "owner": "autopkg",
                 "repo": "autopkg",
-                "stars": 1487,
+                "stars": 1488,
                 "topics": [
                   "apple",
                   "automation",
@@ -645,10 +645,10 @@
                 "language": "Objective-C",
                 "license": "BSD-3-Clause",
                 "last_commit": "2023-04-12T06:34:06Z",
-                "open_issues": 5,
+                "open_issues": 6,
                 "owner": "ygini",
                 "repo": "Hello-IT",
-                "stars": 294,
+                "stars": 293,
                 "topics": []
               },
               "first_seen": "2026-08-28T20:57:11.657Z"
@@ -834,7 +834,7 @@
                 "language": "YAML",
                 "license": "NOASSERTION",
                 "last_commit": "2026-11-25T15:13:22Z",
-                "open_issues": 29,
+                "open_issues": 30,
                 "owner": "usnistgov",
                 "repo": "macos_security",
                 "stars": 2542,
@@ -1103,7 +1103,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-26T19:09:43.817Z",
+    "last_updated": "2026-11-27T19:05:14.426Z",
     "original_repository_info": {
       "archived": false,
       "description": "🕶 Awesome Mac Admin Tools list",

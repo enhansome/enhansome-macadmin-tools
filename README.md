@@ -2,7 +2,7 @@
 
 > A curated list of handy-dandy tools for Mac Admins.
 
-Inspired by the [awesome](https://github.com/sindresorhus/awesome) ⭐ 543,320 | 🐛 103 | 📅 2026-09-02 list.
+Inspired by the [awesome](https://github.com/sindresorhus/awesome) ⭐ 543,877 | 🐛 103 | 📅 2026-09-02 list.
 
 ## Contents
 
@@ -54,9 +54,9 @@ Inspired by the [awesome](https://github.com/sindresorhus/awesome) ⭐ 543,320 |
 
 **Cost:** N/A
 
-**Link:** <https://github.com/ninxsoft/Mist> ⭐ 5,440 | 🐛 77 | 🌐 Swift | 📅 2026-10-26
+**Link:** <https://github.com/ninxsoft/Mist> ⭐ 5,442 | 🐛 77 | 🌐 Swift | 📅 2026-10-26
 
-[![](https://github.com/ninxsoft/Mist/raw/main/README%20Resources/Installers.png)](https://github.com/ninxsoft/Mist) ⭐ 5,440 | 🐛 77 | 🌐 Swift | 📅 2026-10-26
+[![](https://github.com/ninxsoft/Mist/raw/main/README%20Resources/Installers.png)](https://github.com/ninxsoft/Mist) ⭐ 5,442 | 🐛 77 | 🌐 Swift | 📅 2026-10-26
 
 ### moss
 
@@ -146,9 +146,9 @@ Inspired by the [awesome](https://github.com/sindresorhus/awesome) ⭐ 543,320 |
 
 **Cost:** N/A
 
-**Link:** <https://github.com/autopkg/autopkg> ⭐ 1,487 | 🐛 66 | 🌐 Python | 📅 2026-11-16
+**Link:** <https://github.com/autopkg/autopkg> ⭐ 1,488 | 🐛 66 | 🌐 Python | 📅 2026-11-16
 
-[![](images/autopkg.png)](https://github.com/autopkg/autopkg) ⭐ 1,487 | 🐛 66 | 🌐 Python | 📅 2026-11-16
+[![](images/autopkg.png)](https://github.com/autopkg/autopkg) ⭐ 1,488 | 🐛 66 | 🌐 Python | 📅 2026-11-16
 
 ### AutoPkgr
 
@@ -268,9 +268,9 @@ Inspired by the [awesome](https://github.com/sindresorhus/awesome) ⭐ 543,320 |
 
 **Cost:** N/A
 
-**Link:** <https://github.com/ygini/Hello-IT> ⭐ 294 | 🐛 5 | 🌐 Objective-C | 📅 2023-04-12
+**Link:** <https://github.com/ygini/Hello-IT> ⭐ 293 | 🐛 6 | 🌐 Objective-C | 📅 2023-04-12
 
-[![](images/hello-it.png)](https://github.com/ygini/Hello-IT) ⭐ 294 | 🐛 5 | 🌐 Objective-C | 📅 2023-04-12
+[![](images/hello-it.png)](https://github.com/ygini/Hello-IT) ⭐ 293 | 🐛 6 | 🌐 Objective-C | 📅 2023-04-12
 
 ### MacDNA
 
@@ -530,7 +530,7 @@ Inspired by the [awesome](https://github.com/sindresorhus/awesome) ⭐ 543,320 |
 
 ### Jamf Compliance Editor
 
-> Jamf Compliance Editor is a tool that provides macOS system administrators with an easy way to establish and manage compliance baselines on their fleet of macOS devices. This tool is built on the foundations of the [macOS Security Compliance Project](https://github.com/usnistgov/macos_security) ⭐ 2,542 | 🐛 29 | 🌐 YAML | 📅 2026-11-25, hosted by the United States government agency, NIST, in their Github repo.
+> Jamf Compliance Editor is a tool that provides macOS system administrators with an easy way to establish and manage compliance baselines on their fleet of macOS devices. This tool is built on the foundations of the [macOS Security Compliance Project](https://github.com/usnistgov/macos_security) ⭐ 2,542 | 🐛 30 | 🌐 YAML | 📅 2026-11-25, hosted by the United States government agency, NIST, in their Github repo.
 
 **Cost:** N/A
 
@@ -554,9 +554,9 @@ Inspired by the [awesome](https://github.com/sindresorhus/awesome) ⭐ 543,320 |
 
 **Cost:** N/A
 
-**Link:** <https://github.com/usnistgov/macos_security> ⭐ 2,542 | 🐛 29 | 🌐 YAML | 📅 2026-11-25
+**Link:** <https://github.com/usnistgov/macos_security> ⭐ 2,542 | 🐛 30 | 🌐 YAML | 📅 2026-11-25
 
-[![](images/mscp.png)](https://github.com/usnistgov/macos_security) ⭐ 2,542 | 🐛 29 | 🌐 YAML | 📅 2026-11-25
+[![](images/mscp.png)](https://github.com/usnistgov/macos_security) ⭐ 2,542 | 🐛 30 | 🌐 YAML | 📅 2026-11-25
 
 ### The MUT
 
@@ -626,7 +626,7 @@ Inspired by the [awesome](https://github.com/sindresorhus/awesome) ⭐ 543,320 |
 
 **Link:** <https://rectangleapp.com/>
 
-[![](https://user-images.githubusercontent.com/13651296/101402672-57ab5300-38d4-11eb-9e8c-6a3147d26711.png)](https://github.com/rxhanson/Rectangle) ⭐ 30,348 | 🐛 25 | 🌐 Swift | 📅 2026-11-20
+[![](https://user-images.githubusercontent.com/13651296/101402672-57ab5300-38d4-11eb-9e8c-6a3147d26711.png)](https://github.com/rxhanson/Rectangle) ⭐ 30,356 | 🐛 26 | 🌐 Swift | 📅 2026-11-20
 
 ### Script2Pkg
 
@@ -708,4 +708,4 @@ To the extent possible under law, [Emily Kausalik](https://twitter.com/emilyooo)
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-11-26._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-11-27._
